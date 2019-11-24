@@ -1,0 +1,367 @@
+﻿[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.42,0:00:15.55,Default,,0000,0000,0000,,{\i1}One Dream One Wish{\i0}
+Dialogue: 0,0:00:11.42,0:00:15.55,On Top,,0000,0000,0000,,{\i1} One Dream One Wish{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,Default,,0000,0000,0000,,{\i1} Si quieres que se haga realidad, Over The Top{\i0}
+Dialogue: 0,0:00:15.59,0:00:20.47,On Top,,0000,0000,0000,,{\i1} kanaetai nara Over The Top{\i0}
+Dialogue: 0,0:00:25.60,0:00:28.15,On Top,,0000,0000,0000,, UNA PIEZA - ARCO DE LA TIERRA DE WANO
+Dialogue: 0,0:00:36.41,0:00:40.04,Default,,0000,0000,0000,,{\i1} Saliendo al mundo desconocido{\i0}
+Dialogue: 0,0:00:36.41,0:00:40.04,On Top,,0000,0000,0000,,{\i1} mitakoto mo nai sekai mezashi{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,Default,,0000,0000,0000,,{\i1} Envejecimiento del viento y las olas{\i0}
+Dialogue: 0,0:00:41.12,0:00:45.21,On Top,,0000,0000,0000,,{\i1} araburu namikaze koete{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,Default,,0000,0000,0000,,{\i1} Tengo que seguir porque quiero llegar primero{\i0}
+Dialogue: 0,0:00:45.25,0:00:49.92,On Top,,0000,0000,0000,,{\i1} tsukisusumanakya dame sa ichibannori shitain da{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,Default,,0000,0000,0000,,{\i1} Preocúpese más tarde ya que de todos modos se hunde o nada{\i0}
+Dialogue: 0,0:00:49.96,0:00:56.18,On Top,,0000,0000,0000,,{\i1} Shinpai toka atomawashi douse shoubu ichika bachika{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,Default,,0000,0000,0000,,{\i1} Cuando tu oponente se ve desalentador{\i0}
+Dialogue: 0,0:00:58.30,0:01:02.72,On Top,,0000,0000,0000,,{\i1} aite ga dekaku mietara{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,Default,,0000,0000,0000,,{\i1} Es una señal de que tu corazón se está encogiendo{\i0}
+Dialogue: 0,0:01:02.77,0:01:07.81,On Top,,0000,0000,0000,,{\i1} kokoro ga chijinderu shouko{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,Default,,0000,0000,0000,,{\i1} Huir no es una elección{\i0}
+Dialogue: 0,0:01:08.27,0:01:10.36,On Top,,0000,0000,0000,,{\i1} nigeru nante choisu wa nai{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,Default,,0000,0000,0000,,{\i1} Da un paso más cerca{\i0}
+Dialogue: 0,0:01:10.40,0:01:12.48,On Top,,0000,0000,0000,,{\i1} ippo soba e chikadukun da{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,Default,,0000,0000,0000,,{\i1} Ser llamado insolente es un cumplido, ¿verdad?{\i0}
+Dialogue: 0,0:01:12.53,0:01:14.95,On Top,,0000,0000,0000,,{\i1} namaiki tte homekotoba?{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,Default,,0000,0000,0000,,{\i1} Cuando las cosas se ponen difíciles, es cuando debes reír{\i0}
+Dialogue: 0,0:01:14.99,0:01:19.32,On Top,,0000,0000,0000,,{\i1} kitsui toki hodo warattoke {\i0}
+Dialogue: 0,0:01:20.87,0:01:25.12,Default,,0000,0000,0000,,{\i1}Si quieres buscar un nuevo mañana{\i0}
+Dialogue: 0,0:01:20.87,0:01:25.12,On Top,,0000,0000,0000,,{\i1} atarashii ashita sagashi ni ikitai no nara{\i0}
+Dialogue: 0,0:01:25.16,0:01:30.54,Default,,0000,0000,0000,,{\i1} Pulir su confianza única{\i0}
+Dialogue: 0,0:01:25.16,0:01:30.54,On Top,,0000,0000,0000,,{\i1} tobikkiri no jishin wo migaite{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,Default,,0000,0000,0000,,{\i1} Hasta tus pasos{\i0}
+Dialogue: 0,0:01:30.59,0:01:35.09,On Top,,0000,0000,0000,,{\i1} tabi wo shita ashiato ga{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,Default,,0000,0000,0000,,{\i1} ¡Sí!  Convertirse en un mapa{\i0}
+Dialogue: 0,0:01:35.13,0:01:38.76,On Top,,0000,0000,0000,,{\i1} sou!   chizu ni kawaru hecho{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,Default,,0000,0000,0000,,{\i1} Un nuevo horizonte, mira, cuán lejos has llegado{\i0}
+Dialogue: 0,0:01:38.80,0:01:43.31,On Top,,0000,0000,0000,,{\i1} atarashii Horizon hora susunde kita bun{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,Default,,0000,0000,0000,,{\i1} Es más brillante y el nivel de dificultad aumenta.{\i0}
+Dialogue: 0,0:01:43.35,0:01:48.35,On Top,,0000,0000,0000,,{\i1} mabushisa a nanido ga joushou{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,Default,,0000,0000,0000,,{\i1} Vive en tu sueño y levanta un huracán{\i0}
+Dialogue: 0,0:01:48.73,0:01:53.07,On Top,,0000,0000,0000,,{\i1} yumeutsutsu de okose Huracán{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,Default,,0000,0000,0000,,{\i1} ¡Ahora!  Agitar las clasificaciones{\i0}
+Dialogue: 0,0:01:53.11,0:01:57.90,On Top,,0000,0000,0000,,{\i1} saa!   chaato kakimidase{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,Default,,0000,0000,0000,,{\i1} One Dream One Wish{\i0}
+Dialogue: 0,0:01:57.95,0:02:02.20,On Top,,0000,0000,0000,,{\i1} One Dream One Wish{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,Default,,0000,0000,0000,,{\i1} Los sueños no se escapan... Noquea todo{\i0}
+Dialogue: 0,0:02:02.24,0:02:06.71,On Top,,0000,0000,0000,,{\i1} yume wa nigenai... zenbu Knock out{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,Default,,0000,0000,0000,,{\i1} Over the Top{\i0}
+Dialogue: 0,0:02:07.08,0:02:09.08,On Top,,0000,0000,0000,,{\i1} Over the Top{\i0}
+Dialogue: 0,0:02:13.40,0:02:17.07,Default,,0000,0000,0000,,{\i1} "Vinimos de la tierra de Wano de hace 20 años".{\i0}
+Dialogue: 0,0:02:17.07,0:02:20.53,Default,,0000,0000,0000,,{\i1} A Luffy y a los\Ndemás les han contado la impactante verdad.{\i0}
+Dialogue: 0,0:02:20.53,0:02:23.99,Default,,0000,0000,0000,,{\i1} Lo que Kin'emon les dijo a continuación...{\i0}
+Dialogue: 0,0:02:23.99,0:02:30.51,Default,,0000,0000,0000,,{\i1}... fue la encantadora y salvaje historia\Nde Kozuki Oden, el padre de Momonosuke... {\i0}
+Dialogue: 0,0:02:30.92,0:02:34.89,Default,,0000,0000,0000,,{\i1}... y la tragedia del Clan Kozuki.{\i0}
+Dialogue: 0,0:02:36.71,0:02:38.30,Default,,0000,0000,0000,, ¡Tienes que estar bromeando!
+Dialogue: 0,0:02:38.30,0:02:41.18,Default,,0000,0000,0000,,¡Qué pedazo de mierda astuto!   Orochi!
+Dialogue: 0,0:02:45.18,0:02:51.19,Default,,0000,0000,0000,,{\i1} Kin'emon y los demás cruzaron\Nel tiempo por el poder de Kozuki Toki, la madre de Momonosuke,{\i0}
+Dialogue: 0,0:02:51.19,0:02:55.64,Default,,0000,0000,0000,,{\i1} y contempló la tierra apenas reconocible de Wano.{\i0}
+Dialogue: 0,0:02:55.64,0:03:00.20,Default,,0000,0000,0000,, Pensé que nadie pelearía junto con nosotros.
+Dialogue: 0,0:03:00.20,0:03:03.58,Default,,0000,0000,0000,, Pero eso no era cierto.
+Dialogue: 0,0:03:03.99,0:03:07.40,Default,,0000,0000,0000,, Incluso después de 20 años,
+Dialogue: 0,0:03:07.04,0:03:09.71,On Top,,0000,0000,0000,, GRAVA DE KOZUKI ODEN
+Dialogue: 0,0:03:07.40,0:03:13.93,Default,,0000,0000,0000,, ¡Todavía hay personas que\Nadmiran a Oden- {\i1} sama{\i0} y quieren ayudar al Clan Kozuki!
+Dialogue: 0,0:03:23.09,0:03:28.89,Default,,0000,0000,0000,,{\i1} "¡Derribando al Emperador\Ndel Mar! ¡Comienza una operación de incursión secreta!"{\i0}
+Dialogue: 0,0:03:47.99,0:03:50.00,Default,,0000,0000,0000,, El pueblo Wano...
+Dialogue: 0,0:03:50.79,0:03:53.71,Default,,0000,0000,0000,,... lealtad a Oden- {\i1} sama {\i0}...
+Dialogue: 0,0:03:50.79,0:03:53.97,On Top,,0000,0000,0000,, KOZUKI ODEN
+Dialogue: 0,0:03:53.71,0:03:57.26,Default,,0000,0000,0000,,... no ha desaparecido por completo!
+Dialogue: 0,0:04:04.30,0:04:09.22,Default,,0000,0000,0000,, Estábamos\Ndesesperados por cómo cambió la Tierra de Wano
+Dialogue: 0,0:04:09.22,0:04:12.47,Default,,0000,0000,0000,, y deambulaba por esta tierra contaminada...
+Dialogue: 0,0:04:12.47,0:04:17.41,Default,,0000,0000,0000,, Pensamos\Nque la Tierra de Wano no tenía futuro...
+Dialogue: 0,0:04:30.58,0:04:34.05,Default,,0000,0000,0000,, Es muy tarde...
+Dialogue: 0,0:04:34.05,0:04:36.00,Default,,0000,0000,0000,,Padre...
+Dialogue: 0,0:04:36.00,0:04:42.30,Default,,0000,0000,0000,,¡La tierra de Wano ha sido\Narruinada por Orochi y Kaido!
+Dialogue: 0,0:05:04.03,0:05:06.54,Default,,0000,0000,0000,, Momonosuke- {\i1} sama{\i0}
+Dialogue: 0,0:05:08.41,0:05:11.66,Default,,0000,0000,0000,, ¡Sentimos lo mismo que tú!
+Dialogue: 0,0:05:11.66,0:05:16.05,Default,,0000,0000,0000,, Pero como jefe del Clan Kozuki...
+Dialogue: 0,0:05:19.38,0:05:22.10,Default,,0000,0000,0000,, necesitas mantenerte fuerte!
+Dialogue: 0,0:05:25.13,0:05:29.89,Default,,0000,0000,0000,, Pero... aquellos que pelearían al lado de nosotros...
+Dialogue: 0,0:05:29.89,0:05:31.85,Default,,0000,0000,0000,,...son todos...
+Dialogue: 0,0:05:31.85,0:05:34.56,Default,,0000,0000,0000,,...ido...
+Dialogue: 0,0:05:34.56,0:05:36.74,Default,,0000,0000,0000,,Aún así...
+Dialogue: 0,0:05:38.27,0:05:41.03,Default,,0000,0000,0000,,no podemos rendirnos!
+Dialogue: 0,0:06:04.92,0:06:08.77,Default,,0000,0000,0000,, Kozuki Momonosuke- {\i1} sama {\i0}...
+Dialogue: 0,0:06:13.81,0:06:15.39,Default,,0000,0000,0000,, ¡¿Quién eres tú?!
+Dialogue: 0,0:06:15.39,0:06:16.98,Default,,0000,0000,0000,,Por favor, retrocede. 
+Dialogue: 0,0:06:16.98,0:06:19.57,Default,,0000,0000,0000,,¿Eres el hombre de Kurozumi Orochi?
+Dialogue: 0,0:06:33.95,0:06:35.38,Default,,0000,0000,0000,, De ninguna manera...
+Dialogue: 0,0:06:38.08,0:06:41.92,Default,,0000,0000,0000,,Eres Kozuki Momonosuke- {\i1} sama{\i0}
+Dialogue: 0,0:06:41.92,0:06:44.84,Default,,0000,0000,0000,, no eres tu
+Dialogue: 0,0:06:49.13,0:06:53.27,Default,,0000,0000,0000,, Te ves igual que hace 20 años...
+Dialogue: 0,0:06:53.64,0:06:58.98,Default,,0000,0000,0000,, ¡Las últimas palabras de Toki- {\i1} sama {\i0} fueron ciertas!
+Dialogue: 0,0:07:03.56,0:07:10.02,Default,,0000,0000,0000,, Solía ​​ser\Nun criado de Kibi... ¡Mi nombre es Jibuemon!
+Dialogue: 0,0:07:10.02,0:07:12.44,Default,,0000,0000,0000,, Por 20 años...
+Dialogue: 0,0:07:12.44,0:07:16.32,Default,,0000,0000,0000,,Te he estado esperando.
+Dialogue: 0,0:07:16.32,0:07:21.04,Default,,0000,0000,0000,,Creí lo que dijo tu madre Toki {\i1} sama {\i0} y...
+Dialogue: 0,0:07:21.04,0:07:22.84,Default,,0000,0000,0000,,... esperado este día!
+Dialogue: 0,0:07:26.75,0:07:30.96,Default,,0000,0000,0000,, Las últimas palabras de mi madre...
+Dialogue: 0,0:07:30.96,0:07:33.71,Default,,0000,0000,0000,, - ¡Dímelos a mí!\N --¡Si mi señor!
+Dialogue: 0,0:07:33.71,0:07:36.31,Default,,0000,0000,0000,,Esto es lo que ella dijo.
+Dialogue: 0,0:07:37.97,0:07:42.10,Default,,0000,0000,0000,,"Eres la luna ignorante del amanecer.
+Dialogue: 0,0:07:38.10,0:07:42.10,On Top,,0000,0000,0000,, ERES LA LUNA DESCONOCIDA DEL AMANECER
+Dialogue: 0,0:07:42.10,0:07:44.98,Default,,0000,0000,0000,, Que se cumpla tu propósito
+Dialogue: 0,0:07:42.10,0:07:45.31,On Top,,0000,0000,0000,, PUEDE CUMPLIR SU PROPÓSITO
+Dialogue: 0,0:07:44.98,0:07:50.86,Default,,0000,0000,0000,, y proyecta nueve sombras en la noche tejida de 20 años
+Dialogue: 0,0:07:45.31,0:07:46.52,On Top,,0000,0000,0000,, 20 AÑOS
+Dialogue: 0,0:07:46.52,0:07:48.26,On Top,,0000,0000,0000,,LA NOCHE
+Dialogue: 0,0:07:48.26,0:07:51.12,On Top,,0000,0000,0000,,NUEVE SOMBRAS
+Dialogue: 0,0:07:50.86,0:07:54.75,Default,,0000,0000,0000,, y conocerás el brillo del amanecer "!
+Dialogue: 0,0:07:55.49,0:08:02.71,Default,,0000,0000,0000,, Las últimas palabras de Toki\N{\i1}sama{\i0} sugerían la venganza del Clan Kozuki 20 años después.
+Dialogue: 0,0:08:02.71,0:08:06.29,Default,,0000,0000,0000,, Pensamos que era imposible
+Dialogue: 0,0:08:06.29,0:08:13.72,Default,,0000,0000,0000,, pero como si apoyara la\Nposibilidad, ninguno de ustedes los cuerpos de Akazaya Nueve...
+Dialogue: 0,0:08:13.72,0:08:17.52,Default,,0000,0000,0000,,...fueron encontrados.
+Dialogue: 0,0:08:20.52,0:08:22.48,Default,,0000,0000,0000,,Madre...
+Dialogue: 0,0:08:22.48,0:08:29.69,Default,,0000,0000,0000,,Si por casualidad...\Ntodos ustedes aparecerían 20 años después
+Dialogue: 0,0:08:29.69,0:08:33.90,Default,,0000,0000,0000,, y toma el\Nmando de nosotros para derribar a Orochi,
+Dialogue: 0,0:08:33.90,0:08:37.70,Default,,0000,0000,0000,, Queríamos\Nestar listos para pelear contigo...
+Dialogue: 0,0:08:37.70,0:08:40.83,Default,,0000,0000,0000,, Entonces, aquellos que están decididos a luchar... 
+Dialogue: 0,0:08:40.83,0:08:45.08,Default,,0000,0000,0000,,No importa dónde estén\No qué estén haciendo...
+Dialogue: 0,0:08:48.08,0:08:52.68,Default,,0000,0000,0000,, ¡Están esperando\Ncon la marca de una luna en sus tobillos!
+Dialogue: 0,0:08:59.60,0:09:02.20,Default,,0000,0000,0000,, W... ¿Qué?
+Dialogue: 0,0:09:02.20,0:09:05.93,Default,,0000,0000,0000,, ¿Incluso después de 20 años, todavía tenemos aliados?
+Dialogue: 0,0:09:05.93,0:09:08.62,Default,,0000,0000,0000,, ¿Cuántos hombres hay?
+Dialogue: 0,0:09:08.62,0:09:10.86,Default,,0000,0000,0000,, No sabemos exactamente...
+Dialogue: 0,0:09:10.86,0:09:17.16,Default,,0000,0000,0000,, ¡Pero hay muchos de los que\Nhan estado esperando este momento en toda la Tierra de Wano!
+Dialogue: 0,0:09:18.41,0:09:20.45,Default,,0000,0000,0000,, Para derribar a Kaido,
+Dialogue: 0,0:09:20.45,0:09:25.16,Default,,0000,0000,0000,, Necesitamos tener tantos aliados como sea posible.
+Dialogue: 0,0:09:25.16,0:09:30.40,Default,,0000,0000,0000,, ¿Podrías ir y reclutar\Npersonas de ideas afines en toda la Tierra de Wano?
+Dialogue: 0,0:09:30.40,0:09:35.51,Default,,0000,0000,0000,, Pero tienes que hacerlo... sin ser visto.
+Dialogue: 0,0:09:35.51,0:09:37.05,Default,,0000,0000,0000,, ¡Sí señor!
+Dialogue: 0,0:09:37.05,0:09:39.64,Default,,0000,0000,0000,,¡Dedicaremos todos nuestros esfuerzos a ello!
+Dialogue: 0,0:09:49.31,0:09:50.78,Default,,0000,0000,0000,, Con ese,
+Dialogue: 0,0:09:51.23,0:09:56.61,Default,,0000,0000,0000,,podríamos mantener viva nuestra esperanza pensando que\Ntodavía podría haber un futuro para la Tierra de Wano.
+Dialogue: 0,0:09:56.61,0:10:00.37,Default,,0000,0000,0000,, Le pedimos a Kiku que investigara a los enemigos.
+Dialogue: 0,0:10:00.78,0:10:06.05,Default,,0000,0000,0000,, y yo, Kanjuro,\NRaizo y Momonosuke- {\i1} sama{\i0} - los cuatro...
+Dialogue: 0,0:10:06.05,0:10:10.21,Default,,0000,0000,0000,,... emprendió un viaje para reclutar aliados.
+Dialogue: 0,0:10:10.21,0:10:13.42,Default,,0000,0000,0000,, Incluso dejar este país es un crimen.
+Dialogue: 0,0:10:13.42,0:10:18.38,Default,,0000,0000,0000,, Entonces, tan\Npronto como alguien nos vio, nos persiguieron.
+Dialogue: 0,0:10:18.38,0:10:22.10,Default,,0000,0000,0000,, Además\Nde eso, como no sabíamos navegar,
+Dialogue: 0,0:10:22.10,0:10:26.92,Default,,0000,0000,0000,, Intentamos\Nllegar a Zou pero naufragamos en poco tiempo.
+Dialogue: 0,0:10:26.92,0:10:30.90,Default,,0000,0000,0000,, ¡El barco\Nfue destrozado y nos separamos de Raizo!
+Dialogue: 0,0:10:30.90,0:10:34.36,Default,,0000,0000,0000,,{\i1} ¡Nos vemos en Zou!{\i0}
+Dialogue: 0,0:10:34.36,0:10:38.48,Default,,0000,0000,0000,, Raizo! 
+Dialogue: 0,0:10:38.48,0:10:42.21,Default,,0000,0000,0000,,Nos llevaron a tierra en Dressrosa\Na una pulgada de la muerte,
+Dialogue: 0,0:10:42.70,0:10:46.37,Default,,0000,0000,0000,, pero fueron perseguidos\Npor Doflamingo que estaba conectado a Kaido
+Dialogue: 0,0:10:46.37,0:10:51.97,Default,,0000,0000,0000,, ¡y me separé de Momonosuke-\N{\i1}sama{\i0} que abordó un barco desconocido por error!
+Dialogue: 0,0:10:54.54,0:10:58.29,Default,,0000,0000,0000,, Momonosuke- {\i1} sama{\i0}
+Dialogue: 0,0:10:58.29,0:11:04.43,Default,,0000,0000,0000,, ¡Y me separé de\NKanjuro mientras perseguía a Momonosuke- {\i1} sama{\i0} !
+Dialogue: 0,0:11:04.43,0:11:07.10,Default,,0000,0000,0000,,{\i1} ¡No te preocupes por mi!{\i0}
+Dialogue: 0,0:11:07.10,0:11:12.57,Default,,0000,0000,0000,,Kanjuro!
+Dialogue: 0,0:11:13.19,0:11:19.24,Default,,0000,0000,0000,, Así como así, nos\Nderrumbamos después de abandonar la Tierra de Wano...
+Dialogue: 0,0:11:23.41,0:11:28.58,Default,,0000,0000,0000,, Incluso en Punk\NHazard, donde llegué, buscando Momonosuke- {\i1} sama{\i0} ,
+Dialogue: 0,0:11:28.58,0:11:31.75,Default,,0000,0000,0000,, César se interpuso en mi camino como la marioneta de Kaido.
+Dialogue: 0,0:11:31.75,0:11:36.43,Default,,0000,0000,0000,, Además, fui\Ninterrumpido por Law- {\i1} dono{\i0} que ahora es mi aliado...
+Dialogue: 0,0:11:41.93,0:11:44.14,Default,,0000,0000,0000,, Y estaba en serios problemas...
+Dialogue: 0,0:11:44.84,0:11:48.93,Default,,0000,0000,0000,, ¡Ahí fue cuando los conocí!
+Dialogue: 0,0:11:55.48,0:11:57.82,Default,,0000,0000,0000,, ¡Cuan genial es eso!
+Dialogue: 0,0:11:57.82,0:11:59.57,Default,,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:11:59.57,0:12:02.11,Default,,0000,0000,0000,,¡El dragón acaba de hablar!
+Dialogue: 0,0:12:02.11,0:12:05.66,Default,,0000,0000,0000,, ¡Qué obsceno!\N ¡Todo lo que tienes es una banda de pecho!
+Dialogue: 0,0:12:05.66,0:12:08.28,Default,,0000,0000,0000,, Oh, no te gusta?
+Dialogue: 0,0:12:08.28,0:12:09.62,Default,,0000,0000,0000,, ¡No lo amo!
+Dialogue: 0,0:12:09.62,0:12:12.50,Default,,0000,0000,0000,,No me puedes comer!
+Dialogue: 0,0:12:12.50,0:12:15.17,Default,,0000,0000,0000,, Si intentas comerme, ¡yo te comeré primero!
+Dialogue: 0,0:12:15.17,0:12:17.80,Default,,0000,0000,0000,, ¡Pórtate bien!
+Dialogue: 0,0:12:22.05,0:12:26.59,Default,,0000,0000,0000,,Mirando hacia atrás, fue crisis tras crisis,
+Dialogue: 0,0:12:26.59,0:12:29.08,Default,,0000,0000,0000,, Pero conocí a gente buena.
+Dialogue: 0,0:12:29.08,0:12:35.23,Default,,0000,0000,0000,, Pude encontrar aliados\Nconfiables en quienes puedo confiar con mi vida, y regresé.
+Dialogue: 0,0:12:35.23,0:12:39.34,Default,,0000,0000,0000,, Las fuerzas de Orochi mencionaron nuestro nombre,
+Dialogue: 0,0:12:39.34,0:12:44.65,Default,,0000,0000,0000,, ¡pero realmente no creen que esto esté\Nsucediendo y eso es bueno para nosotros! 
+Dialogue: 0,0:12:44.65,0:12:49.12,Default,,0000,0000,0000,,Piensan en nosotros simplemente como fantasmas.
+Dialogue: 0,0:12:49.12,0:12:54.08,Default,,0000,0000,0000,, Es por eso que aún\Nno hemos sido incluidos en la lista de buscados.
+Dialogue: 0,0:12:54.08,0:12:58.42,Default,,0000,0000,0000,, y no se han\Ndado cuenta de que volvimos a entrar al país.
+Dialogue: 0,0:12:58.42,0:13:01.76,Default,,0000,0000,0000,, Yo tampoco\Nlo sabía, aunque estamos del mismo lado.
+Dialogue: 0,0:13:01.76,0:13:04.55,Default,,0000,0000,0000,, Bueno... lo siento por eso!
+Dialogue: 0,0:13:04.55,0:13:06.73,Default,,0000,0000,0000,, ¡Oye, consigue una habitación ya!
+Dialogue: 0,0:13:09.80,0:13:14.98,Default,,0000,0000,0000,, En esta batalla, es\Nimportante mantener nuestra presencia de Kaido y los demás...
+Dialogue: 0,0:13:15.60,0:13:17.57,Default,,0000,0000,0000,,... un secreto absoluto.
+Dialogue: 0,0:13:23.57,0:13:26.20,Default,,0000,0000,0000,, ¡Bueno!  ¡Entiendo!
+Dialogue: 0,0:13:29.74,0:13:34.16,Default,,0000,0000,0000,,¡Nos enfrentamos a enormes ejércitos\Nliderados por Kaido y Kurozumi Orochi!
+Dialogue: 0,0:13:34.16,0:13:37.87,Default,,0000,0000,0000,, Por otro lado, tenemos...
+Dialogue: 0,0:13:37.87,0:13:42.14,Default,,0000,0000,0000,, Los Sombreros de Paja dirigidos por Luffy- {\i1} dono {\i0}.
+Dialogue: 0,0:13:42.14,0:13:45.80,Default,,0000,0000,0000,, The Heart Pirates liderados por Law- {\i1} dono {\i0}.
+Dialogue: 0,0:13:45.80,0:13:51.39,Default,,0000,0000,0000,, The Mink Tribe:\NMosqueteros de Dogstorm y Guardianes de Cat Viper.
+Dialogue: 0,0:13:51.39,0:13:57.31,Default,,0000,0000,0000,, Y samurai con\Nmentes rebeldes a quienes estamos reclutando ahora.
+Dialogue: 0,0:13:57.31,0:14:01.77,Default,,0000,0000,0000,, ¡Es ideal tener cinco mil personas!
+Dialogue: 0,0:14:01.77,0:14:06.44,Default,,0000,0000,0000,, Pero no estamos buscando tener una guerra...
+Dialogue: 0,0:14:07.32,0:14:12.96,Default,,0000,0000,0000,, Queremos recopilar información en secreto\Nsobre nuestros enemigos, Kaido y los demás, y preparar un plan...
+Dialogue: 0,0:14:17.33,0:14:19.59,Default,,0000,0000,0000,,... decapitar...
+Dialogue: 0,0:14:20.33,0:14:22.26,Default,,0000,0000,0000,,... sus líderes!
+Dialogue: 0,0:14:37.18,0:14:39.11,Default,,0000,0000,0000,, Prepara un plan...
+Dialogue: 0,0:14:41.48,0:14:43.31,Default,,0000,0000,0000,,... decapitar...
+Dialogue: 0,0:14:43.31,0:14:45.03,Default,,0000,0000,0000,,... sus líderes!
+Dialogue: 0,0:14:46.36,0:14:48.24,Default,,0000,0000,0000,, Es una misión secreta!
+Dialogue: 0,0:14:48.24,0:14:50.08,Default,,0000,0000,0000,, ¡Bien!
+Dialogue: 0,0:14:50.61,0:14:52.89,Default,,0000,0000,0000,,¡Esa será nuestra batalla decisiva!
+Dialogue: 0,0:14:52.89,0:14:54.87,Default,,0000,0000,0000,, La batalla tendrá lugar...
+Dialogue: 0,0:14:56.41,0:14:59.01,Default,,0000,0000,0000,,... en una isla llamada Onigashima...
+Dialogue: 0,0:14:59.62,0:15:03.33,Default,,0000,0000,0000,,... donde Kaido y los Piratas del\NReino Animal tienen su base! 
+Dialogue: 0,0:15:03.33,0:15:04.89,Default,,0000,0000,0000,,¡¿Una isla?!
+Dialogue: 0,0:15:04.89,0:15:09.61,Default,,0000,0000,0000,,Incluso dentro de la tierra de\NWano, ¿tenemos que cruzar el mar?
+Dialogue: 0,0:15:09.61,0:15:11.09,Default,,0000,0000,0000,, ¡Eso es correcto!
+Dialogue: 0,0:15:11.09,0:15:17.50,Default,,0000,0000,0000,,Como está muy cerca, prácticamente visible desde\Nla orilla, no necesitamos un gran velero,
+Dialogue: 0,0:15:17.50,0:15:19.68,Default,,0000,0000,0000,, Pero todavía necesitamos un barco.
+Dialogue: 0,0:15:19.68,0:15:22.40,Default,,0000,0000,0000,, Para atacar a Onigashima...
+Dialogue: 0,0:15:22.40,0:15:26.76,Default,,0000,0000,0000,, Bueno, pensemos en el barco más tarde.
+Dialogue: 0,0:15:26.76,0:15:28.82,Default,,0000,0000,0000,, ¿Cuándo deberíamos hacerlo?
+Dialogue: 0,0:15:28.82,0:15:31.75,Default,,0000,0000,0000,, Deberíamos hacerlo el día del Festival del Fuego.
+Dialogue: 0,0:15:32.11,0:15:37.51,Default,,0000,0000,0000,, El Festival del Fuego\Nes un gran festival para la gente de la capital.
+Dialogue: 0,0:15:37.51,0:15:42.17,Default,,0000,0000,0000,, Se cree que\NKaido es una deidad que protege al país,
+Dialogue: 0,0:15:42.17,0:15:48.25,Default,,0000,0000,0000,, y ese día, Orochi dirigirá\Nla procesión Shogun para visitar y adorar a la deidad.
+Dialogue: 0,0:15:48.25,0:15:51.26,Default,,0000,0000,0000,, ¡Pero eso es simplemente una pretensión!
+Dialogue: 0,0:15:51.26,0:15:56.01,Default,,0000,0000,0000,, Lo que realmente\Ntendrá lugar es el banquete de los funcionarios...
+Dialogue: 0,0:15:56.01,0:15:57.81,Default,,0000,0000,0000,,... y los Piratas del Reino Animal!
+Dialogue: 0,0:15:58.35,0:15:59.77,Default,,0000,0000,0000,, Veo...
+Dialogue: 0,0:15:59.77,0:16:04.85,Default,,0000,0000,0000,,Así que vamos a vencer a esos\Ntontos borrachos de fiesta
+Dialogue: 0,0:16:04.85,0:16:07.44,Default,,0000,0000,0000,, y decapitar a sus líderes!
+Dialogue: 0,0:16:07.44,0:16:08.65,Default,,0000,0000,0000,, Pero...!
+Dialogue: 0,0:16:08.65,0:16:15.75,Default,,0000,0000,0000,,Okiku- {\i1} chan{\i0} , si me ves haciéndolo heroicamente,\N¡podrías enamorarte de mí en lugar de ese sucio samurai!
+Dialogue: 0,0:16:16.16,0:16:19.12,Default,,0000,0000,0000,, No, no, Sanji-\N{\i1}dono {\i0}, ¡creo que te has equivocado de idea!
+Dialogue: 0,0:16:19.12,0:16:25.46,Default,,0000,0000,0000,, Tengo una esposa y Okiku es\Nsolo un compañero, así que no estamos en esa relación...
+Dialogue: 0,0:16:25.46,0:16:28.50,Default,,0000,0000,0000,, Otsuru- {\i1} san {\i0} estaba bien.
+Dialogue: 0,0:16:28.50,0:16:29.88,Default,,0000,0000,0000,, ¡¿La viste?!
+Dialogue: 0,0:16:29.88,0:16:32.59,Default,,0000,0000,0000,,Sí, sin ser notado.
+Dialogue: 0,0:16:32.59,0:16:34.30,Default,,0000,0000,0000,, Veo...
+Dialogue: 0,0:16:34.30,0:16:36.39,Default,,0000,0000,0000,,Si ella está bien, eso es bueno...
+Dialogue: 0,0:16:36.39,0:16:41.47,Default,,0000,0000,0000,, Hasta que logre\Nnuestro gran objetivo, no puedo verla...
+Dialogue: 0,0:16:41.47,0:16:42.93,Default,,0000,0000,0000,, Kin- {\i1} sama {\i0}...
+Dialogue: 0,0:16:42.93,0:16:46.90,Default,,0000,0000,0000,, ¡Hola, eres un hombre casado! \N¡No te ganes su corazón!  ¡No es justo!
+Dialogue: 0,0:16:46.90,0:16:50.32,Default,,0000,0000,0000,,Okiku- {\i1} chan {\i0}   ¡Por favor sea amable conmigo!
+Dialogue: 0,0:16:50.32,0:16:51.78,Default,,0000,0000,0000,,Cállate...
+Dialogue: 0,0:16:51.78,0:16:55.82,Default,,0000,0000,0000,,Sanji, ¡Kiku es increíblemente fuerte!
+Dialogue: 0,0:16:58.12,0:17:01.57,Default,,0000,0000,0000,, Ella no solo es encantadora sino también fuerte?
+Dialogue: 0,0:17:01.57,0:17:03.50,Default,,0000,0000,0000,, Perfecto...
+Dialogue: 0,0:17:05.37,0:17:09.75,Default,,0000,0000,0000,,Ahora, dibujé un símbolo que implica la fecha\Ny el punto de encuentro de la batalla.
+Dialogue: 0,0:17:09.75,0:17:12.13,Default,,0000,0000,0000,, Dos pájaros en llamas y...
+Dialogue: 0,0:17:12.13,0:17:14.47,Default,,0000,0000,0000,,... un {\i1} Habu {\i0} (víbora) y...
+Dialogue: 0,0:17:14.47,0:17:18.59,Default,,0000,0000,0000,,... una luna\Ncreciente invertida que significa rebelión!
+Dialogue: 0,0:17:18.59,0:17:22.31,Default,,0000,0000,0000,, "El día del Festival\Ndel Fuego. Crepúsculo: la segunda hora del pájaro.
+Dialogue: 0,0:17:22.31,0:17:24.73,Default,,0000,0000,0000,, En el puerto de Habu ".
+Dialogue: 0,0:17:24.73,0:17:30.70,Default,,0000,0000,0000,, "La segunda hora del pájaro"\Nsignifica 5:30 PM a 6 PM en relojes en el extranjero.
+Dialogue: 0,0:17:31.52,0:17:35.83,Default,,0000,0000,0000,, No te preocupes. Las\Npersonas que viven en la Tierra de Wano lo entenderán.
+Dialogue: 0,0:17:38.66,0:17:45.50,Default,,0000,0000,0000,, ¡Debemos dar la vuelta y entregar estos volantes a\Naquellos que tienen la marca de la luna en sus tobillos izquierdos inmediatamente!
+Dialogue: 0,0:17:45.58,0:17:48.58,Default,,0000,0000,0000,, La marca de la luna es el símbolo de la rebelión.
+Dialogue: 0,0:17:48.58,0:17:50.65,Default,,0000,0000,0000,, ¡Son nuestros aliados!
+Dialogue: 0,0:17:50.65,0:17:54.43,Default,,0000,0000,0000,, No sabemos\Ndónde están en la tierra de Wano...
+Dialogue: 0,0:17:54.84,0:17:57.63,Default,,0000,0000,0000,, Pero para\Ndistribuir a tantas personas como sea posible,
+Dialogue: 0,0:17:57.63,0:18:01.15,Default,,0000,0000,0000,, Nuestros amigos se extienden por todo el país. 
+Dialogue: 0,0:18:02.06,0:18:08.06,Default,,0000,0000,0000,,Zorojuro- {\i1} dono{\i0} y Usohachi- {\i1} dono{\i0} también están\Nllevando a cabo esta tarea en la capital.
+Dialogue: 0,0:18:08.06,0:18:11.86,Default,,0000,0000,0000,, Oh, apuesto a que Zoro no está ayudando en absoluto.
+Dialogue: 0,0:18:14.32,0:18:19.36,Default,,0000,0000,0000,, Además, para\Nno perderse después de llegar a Onigashima,
+Dialogue: 0,0:18:19.36,0:18:25.04,Default,,0000,0000,0000,, Estamos tratando de obtener los\Nplanos de la mansión de Kaido del carpintero que la diseñó.
+Dialogue: 0,0:18:25.04,0:18:28.87,Default,,0000,0000,0000,, Así que estamos\Nhaciendo que Franosuke- <ono dono{\i0} trabaje para él.
+Dialogue: 0,0:18:28.87,0:18:33.71,Default,,0000,0000,0000,, En cuanto a Orobi- {\i1} dono{\i0} , queremos\Nsaber los movimientos exactos que hacen las fuerzas de Orochi,
+Dialogue: 0,0:18:33.71,0:18:40.05,Default,,0000,0000,0000,, ¡así que le pedí que se hiciera pasar\Npor una geisha e intentara acercarse a Orochi mientras lo entretenía!
+Dialogue: 0,0:18:40.05,0:18:42.35,Default,,0000,0000,0000,, Escuché que ahora es muy popular.
+Dialogue: 0,0:18:42.35,0:18:45.89,Default,,0000,0000,0000,, ¡Quiero ver a Robin- {\i1} chan {\i0} en su disfraz de geisha!
+Dialogue: 0,0:18:45.89,0:18:50.27,Default,,0000,0000,0000,, Y ahora,\Nquiero delegar tareas a todos ustedes también.
+Dialogue: 0,0:18:50.27,0:18:55.23,Default,,0000,0000,0000,, La capacidad de Brook-\N<ono dono{\i0} ayudará a conseguir comida en la capital.
+Dialogue: 0,0:18:55.23,0:18:57.53,Default,,0000,0000,0000,, ¿Qué?  ¿Estás seguro?
+Dialogue: 0,0:18:57.53,0:19:02.32,Default,,0000,0000,0000,,La habilidad de Nami- {\i1} dono{\i0} para manipular el clima es como {\i1} ninjutsu{\i0} .\N ¡Así que posa como un {\i1} kunoichi{\i0} !
+Dialogue: 0,0:19:02.32,0:19:04.20,Default,,0000,0000,0000,, Esa es una ninja femenina, ¿verdad?
+Dialogue: 0,0:19:05.62,0:19:08.16,Default,,0000,0000,0000,, Un {\i1} kunoichi {\i0} - ¡Onami!
+Dialogue: 0,0:19:08.16,0:19:11.00,Default,,0000,0000,0000,, Nami- {\i1} san {\i0}... ¿una {\i1} kunoichi {\i0}?
+Dialogue: 0,0:19:11.00,0:19:17.14,Default,,0000,0000,0000,, ¡Lo que cocina Sanji- {\i1} dono{\i0} reunirá a\Nlas personas en un segundo, por lo que ayudará a encontrar personas!
+Dialogue: 0,0:19:17.38,0:19:18.97,Default,,0000,0000,0000,, Sanji- {\i1} dono {\i0}?
+Dialogue: 0,0:19:18.97,0:19:20.30,Default,,0000,0000,0000,, Sí, lo haré!
+Dialogue: 0,0:19:20.30,0:19:21.84,Default,,0000,0000,0000,, ¿Que hay de mí?
+Dialogue: 0,0:19:21.84,0:19:28.10,Default,,0000,0000,0000,,Zanahoria {\i1} dono{\i0} y Chopper {\i1} dono{\i0} ,\Nquiero que veas a Dogstorm junto con Kiku.
+Dialogue: 0,0:19:28.10,0:19:30.81,Default,,0000,0000,0000,, Kin'emon!   ¡Yo también quiero ser un ninja!
+Dialogue: 0,0:19:30.81,0:19:32.31,Default,,0000,0000,0000,, ¡Todo bien!
+Dialogue: 0,0:19:32.31,0:19:36.98,Default,,0000,0000,0000,,¡Proporcionaré ropa adecuada\Npara cada uno de ustedes!
+Dialogue: 0,0:19:36.98,0:19:42.07,Default,,0000,0000,0000,, ¡Así que pon una hoja en tu cabeza y prepárate!
+Dialogue: 0,0:19:42.07,0:19:44.57,Default,,0000,0000,0000,, ¡¿Estás listo?!
+Dialogue: 0,0:19:44.57,0:19:45.74,Default,,0000,0000,0000,,¡Aquí va!
+Dialogue: 0,0:19:45.74,0:19:48.45,Default,,0000,0000,0000,,Este es mi poder mágico!
+Dialogue: 0,0:19:48.45,0:19:50.87,Default,,0000,0000,0000,, ¡Jutsu Garb-Garb!
+Dialogue: 0,0:19:50.87,0:19:52.25,Default,,0000,0000,0000,, ¡Maricón!
+Dialogue: 0,0:20:02.43,0:20:04.80,Default,,0000,0000,0000,,Nami- {\i1} san{\i0}
+Dialogue: 0,0:20:04.80,0:20:07.19,Default,,0000,0000,0000,, Ninja!
+Dialogue: 0,0:20:08.39,0:20:11.52,Default,,0000,0000,0000,, Baron Corpse, ¿qué es eso en tu cabeza?
+Dialogue: 0,0:20:11.52,0:20:13.02,Default,,0000,0000,0000,, Yo no sé...
+Dialogue: 0,0:20:13.02,0:20:14.60,Default,,0000,0000,0000,,¡¿Que es esto?!
+Dialogue: 0,0:20:14.73,0:20:15.52,Default,,0000,0000,0000,,Ahora...!
+Dialogue: 0,0:20:15.52,0:20:19.98,Default,,0000,0000,0000,,Te cambiaste a la ropa de estilo Land-of-Wano,\Nasí que quiero que trabajes en tus tareas.
+Dialogue: 0,0:20:19.98,0:20:21.49,Default,,0000,0000,0000,, ¡Espera, Kin'emon!
+Dialogue: 0,0:20:21.49,0:20:24.25,Default,,0000,0000,0000,, ¡¿Es realmente un atuendo de {\i1} kunoichi {\i0} ?!
+Dialogue: 0,0:20:24.25,0:20:26.57,Default,,0000,0000,0000,, Así es como {\i1} kunoichi {\i0}...
+Dialogue: 0,0:20:26.57,0:20:28.12,Default,,0000,0000,0000,,...¡Debería mirar!
+Dialogue: 0,0:20:28.12,0:20:30.46,Default,,0000,0000,0000,,¡¿Estas mintiendo?!
+Dialogue: 0,0:20:32.58,0:20:34.79,Default,,0000,0000,0000,,Ahora, voy a convocar una guía.
+Dialogue: 0,0:20:34.79,0:20:37.63,Default,,0000,0000,0000,, Ella es una verdadera {\i1} kunoichi {\i0}.
+Dialogue: 0,0:20:37.63,0:20:40.09,Default,,0000,0000,0000,, ¡Un verdadero {\i1} kunoichi {\i0}!
+Dialogue: 0,0:20:40.09,0:20:42.14,Default,,0000,0000,0000,, Eso es un gran placer!
+Dialogue: 0,0:20:42.14,0:20:44.60,Default,,0000,0000,0000,, Shinobu!
+Dialogue: 0,0:20:50.51,0:20:51.98,Default,,0000,0000,0000,, ¡¿Qué?!
+Dialogue: 0,0:20:53.81,0:20:54.81,Default,,0000,0000,0000,,¡¿Me llamaste?!
+Dialogue: 0,0:20:54.81,0:20:57.70,Default,,0000,0000,0000,,¡Esto está totalmente mal!
+Dialogue: 0,0:20:58.90,0:21:01.03,Default,,0000,0000,0000,, ¡¿Qué?!
+Dialogue: 0,0:21:03.03,0:21:04.73,Default,,0000,0000,0000,,No lo haré...
+Dialogue: 0,0:21:04.73,0:21:06.28,Default,,0000,0000,0000,,...perder la esperanza...
+Dialogue: 0,0:21:06.28,0:21:10.24,Default,,0000,0000,0000,,¡Oh no!  ¡Está temblando de sorpresa!
+Dialogue: 0,0:21:10.24,0:21:13.89,Default,,0000,0000,0000,, Kin'emon!   ¿Es este tu gusto?
+Dialogue: 0,0:21:13.89,0:21:19.13,Default,,0000,0000,0000,, {\i1} Kunoichi{\i0} son sexys o desaliñadas.\N Solo hay dos tipos de ellos...
+Dialogue: 0,0:21:24.13,0:21:26.34,Default,,0000,0000,0000,, Si lo aprieto, debería estar bien...
+Dialogue: 0,0:21:26.34,0:21:29.18,Default,,0000,0000,0000,, Brook, ¿cómo estás disfrazado?
+Dialogue: 0,0:21:29.18,0:21:32.64,Default,,0000,0000,0000,, Una persona que usa bragas en la cabeza.
+Dialogue: 0,0:21:32.64,0:21:35.48,Default,,0000,0000,0000,, ¡Eso es lo que pensaba pero estaba equivocado!
+Dialogue: 0,0:21:35.48,0:21:37.03,Default,,0000,0000,0000,, ¡Veo!
+Dialogue: 0,0:21:40.27,0:21:42.90,Default,,0000,0000,0000,,Siendo joven...
+Dialogue: 0,0:21:42.90,0:21:44.36,Default,,0000,0000,0000,,... no está tan mal...
+Dialogue: 0,0:21:44.36,0:21:46.78,Default,,0000,0000,0000,, Me llamo Shinobu!
+Dialogue: 0,0:21:46.11,0:21:50.67,On Top,,0000,0000,0000,, SHINOBU - UN VETERANO {\i1} KUNOICHI {\i0} 
+Dialogue: 0,0:21:46.78,0:21:50.32,Default,,0000,0000,0000,,Solía ​​ser como una hermana menor de Kin- {\i1} sama {\i0}.
+Dialogue: 0,0:21:50.32,0:21:52.29,Default,,0000,0000,0000,, Pero ahora...
+Dialogue: 0,0:21:53.29,0:21:56.00,Default,,0000,0000,0000,,Mi movimiento característico es Seduction Jutsu...
+Dialogue: 0,0:21:56.00,0:21:58.12,Default,,0000,0000,0000,, Encantada de conocerte.
+Dialogue: 0,0:21:58.12,0:22:01.92,Default,,0000,0000,0000,,Si no fuera por Nami- {\i1} san{\i0} ,\Nmi espíritu se habría roto...
+Dialogue: 0,0:22:01.92,0:22:04.37,Default,,0000,0000,0000,, ¡No, Sanji!
+Dialogue: 0,0:22:04.37,0:22:06.51,Default,,0000,0000,0000,, Entiendo, joven...
+Dialogue: 0,0:22:06.51,0:22:09.14,Default,,0000,0000,0000,, Las mujeres maduras son...
+Dialogue: 0,0:22:10.18,0:22:13.14,Default,,0000,0000,0000,,... como armas mortales...
+Dialogue: 0,0:22:16.06,0:22:17.18,Default,,0000,0000,0000,, ¡Bien!
+Dialogue: 0,0:22:17.18,0:22:20.19,Default,,0000,0000,0000,,Hasta la cita, nos separaremos,
+Dialogue: 0,0:22:20.19,0:22:23.91,Default,,0000,0000,0000,, ¡pero hay tres\Nsamurais particulares que quiero que busques!
+Dialogue: 0,0:22:24.78,0:22:28.19,Default,,0000,0000,0000,, Si\Npodemos encontrarlos, ¡serán de gran ayuda!
+Dialogue: 0,0:22:28.19,0:22:29.53,Default,,0000,0000,0000,, Kawamatsu.
+Dialogue: 0,0:22:29.53,0:22:30.82,Default,,0000,0000,0000,, Ashura Doji.
+Dialogue: 0,0:22:30.82,0:22:32.33,Default,,0000,0000,0000,, Denjiro
+Dialogue: 0,0:22:32.33,0:22:36.84,Default,,0000,0000,0000,, ¡Son samurais\Nque solían servir a Oden- {\i1} sama{\i0} como nosotros!
+Dialogue: 0,0:22:38.08,0:22:41.59,Default,,0000,0000,0000,, ¡Vamonos!  ¡Todos nuestros aliados reunidos aquí!
+Dialogue: 0,0:22:43.29,0:22:49.01,Default,,0000,0000,0000,, ¡Nuestros objetivos son el\NEmperador del Mar Kaido y el odioso Shogun - Kurozumi Orochi!
+Dialogue: 0,0:22:49.01,0:22:53.73,Default,,0000,0000,0000,, ¡La fecha de ejecución es dentro de dos\Nsemanas!  ¡En la noche del Festival del Fuego!
+Dialogue: 0,0:22:54.43,0:22:57.14,Default,,0000,0000,0000,, Haremos una redada...
+Dialogue: 0,0:22:57.14,0:23:01.20,Default,,0000,0000,0000,,... en Onigashima donde vive Kaido!
+Dialogue: 0,0:23:18.62,0:23:22.79,Default,,0000,0000,0000,,{\i1} ¡Jack que aparece\Nen la ciudad buscando a Luffy y Shutenmaru choque!{\i0}
+Dialogue: 0,0:23:22.79,0:23:25.92,Default,,0000,0000,0000,,{\i1} ¡La Tierra de Wano\Nestá en caos y todos tienen diferentes agendas!{\i0}
+Dialogue: 0,0:23:25.92,0:23:31.43,Default,,0000,0000,0000,,{\i1} Mientras la lucha feroz y uniforme\Ncontinúa, con un trueno, ¡Kaido aparece abriendo el cielo!{\i0}
+Dialogue: 0,0:23:31.43,0:23:36.14,Default,,0000,0000,0000,,{\i1} ¡Revela su verdadera apariencia\Ny sacude a Luffy y a los demás! {\i0}
+Dialogue: 0,0:23:36.14,0:23:40.73,Default,,0000,0000,0000,,En el próximo episodio de One Piece!  "¡El\Nhombre más fuerte del mundo! ¡Shutenmaru, el jefe de la brigada de ladrones!"
+Dialogue: 0,0:23:40.73,0:23:44.78,Default,,0000,0000,0000,, ¡Me convertiré en el Rey de los Piratas! 
+Dialogue: 0,0:23:44.34,0:23:46.34,Default,,0000,0000,0000,,
+Dialogue: 0,0:23:46.34,0:23:48.34,On Top,,0000,0000,0000,,
