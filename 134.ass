@@ -1,12 +1,6 @@
 [Script Info]
-Title: EspaÃ±ol (EspaÃ±a)
-Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
-Original Translation: 
-Original Editing: 
-Original Timing: 
-Synch Point: 
-Script Updated By: 
-Update Details: 
+Title: [Erai-raws] Español (España)
+
 ScriptType: v4.00+
 Collisions: Normal
 PlayResX: 640
@@ -33,203 +27,204 @@ Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+
 Dialogue: 0,0:00:05.48,0:00:06.42,Gen_Main,,0000,0000,0000,,Demasiado lento.
-Dialogue: 0,0:00:09.53,0:00:10.68,Gen_Main,,0000,0000,0000,,Â¡Sabio Pervertido!
-Dialogue: 0,0:00:12.03,0:00:13.62,Gen_Main,,0000,0000,0000,,Â¡No te dejarÃ©!
+Dialogue: 0,0:00:09.53,0:00:10.68,Gen_Main,,0000,0000,0000,,¡Sabio Pervertido!
+Dialogue: 0,0:00:12.03,0:00:13.62,Gen_Main,,0000,0000,0000,,¡No te dejaré!
 Dialogue: 0,0:00:14.53,0:00:15.86,Gen_Main,,0000,0000,0000,,Te veo.
-Dialogue: 0,0:00:24.21,0:00:26.17,Gen_Main,,0000,0000,0000,,RendÃ­os.
-Dialogue: 0,0:00:42.35,0:00:43.64,Gen_Main,,0000,0000,0000,,Â¡Sabio Pervertido!
-Dialogue: 0,0:01:04.00,0:01:05.31,Gen_Main,,0000,0000,0000,,No escaparÃ¡s.
-Dialogue: 0,0:01:05.46,0:01:09.29,Gen_Main,,0000,0000,0000,,Alto, Naruto. TÃº eres su objetivo.
-Dialogue: 0,0:01:10.00,0:01:12.55,Gen_Main,,0000,0000,0000,,Pero a este pasoâ€¦
-Dialogue: 0,0:01:20.18,0:01:21.62,Gen_Italics,,0000,0000,0000,,Â¿QuÃ© estÃ¡ pasando?
-Dialogue: 0,0:01:22.18,0:01:23.81,Gen_Italics,,0000,0000,0000,,Esos sonâ€¦
-Dialogue: 0,0:01:39.91,0:01:44.26,Gen_Main,,0000,0000,0000,,Te arrancarÃ© ese sello de golpe.
+Dialogue: 0,0:00:24.21,0:00:26.17,Gen_Main,,0000,0000,0000,,Rendíos.
+Dialogue: 0,0:00:42.35,0:00:43.64,Gen_Main,,0000,0000,0000,,¡Sabio Pervertido!
+Dialogue: 0,0:01:04.00,0:01:05.31,Gen_Main,,0000,0000,0000,,No escaparás.
+Dialogue: 0,0:01:05.46,0:01:09.29,Gen_Main,,0000,0000,0000,,Alto, Naruto. Tú eres su objetivo.
+Dialogue: 0,0:01:10.00,0:01:12.55,Gen_Main,,0000,0000,0000,,Pero a este paso…
+Dialogue: 0,0:01:20.18,0:01:21.62,Gen_Italics,,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:01:22.18,0:01:23.81,Gen_Italics,,0000,0000,0000,,Esos son…
+Dialogue: 0,0:01:39.91,0:01:44.26,Gen_Main,,0000,0000,0000,,Te arrancaré ese sello de golpe.
 Dialogue: 0,0:02:05.93,0:02:08.69,Gen_Main,,0000,0000,0000,,Me dais mucho trabajo.
-Dialogue: 0,0:02:09.90,0:02:13.40,Gen_Main,,0000,0000,0000,,Â¡Boruto, llÃ©vate a Naruto y huye!
-Dialogue: 0,0:02:14.36,0:02:15.91,Gen_Main,,0000,0000,0000,,Â¡No puedo irme!
-Dialogue: 0,0:02:16.49,0:02:21.04,Gen_Main,,0000,0000,0000,,HabÃ­amos venido aquÃ­\Na proteger a Naruto.
+Dialogue: 0,0:02:09.90,0:02:13.40,Gen_Main,,0000,0000,0000,,¡Boruto, llévate a Naruto y huye!
+Dialogue: 0,0:02:14.36,0:02:15.91,Gen_Main,,0000,0000,0000,,¡No puedo irme!
+Dialogue: 0,0:02:16.49,0:02:21.04,Gen_Main,,0000,0000,0000,,Habíamos venido aquí\Na proteger a Naruto.
 Dialogue: 0,0:02:21.20,0:02:23.11,Gen_Main,,0000,0000,0000,,No lo olvides.
-Dialogue: 0,0:02:23.28,0:02:25.42,Gen_Main,,0000,0000,0000,,Â¡No os lo permitirÃ©!
-Dialogue: 0,0:02:31.25,0:02:32.51,Gen_Main,,0000,0000,0000,,Â¡Idos!
-Dialogue: 0,0:02:33.29,0:02:34.55,Gen_Main,,0000,0000,0000,,Peroâ€¦
-Dialogue: 0,0:02:35.55,0:02:37.08,Gen_Main,,0000,0000,0000,,Â¡Que os vayÃ¡is!
-Dialogue: 0,0:02:50.14,0:02:52.73,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame! Â¡Que me sueltes!
-Dialogue: 0,0:02:53.19,0:02:54.65,Gen_Main,,0000,0000,0000,,Â¡No escaparÃ©is!
-Dialogue: 0,0:02:56.48,0:02:58.19,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame!
+Dialogue: 0,0:02:23.28,0:02:25.42,Gen_Main,,0000,0000,0000,,¡No os lo permitiré!
+Dialogue: 0,0:02:31.25,0:02:32.51,Gen_Main,,0000,0000,0000,,¡Idos!
+Dialogue: 0,0:02:33.29,0:02:34.55,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:02:35.55,0:02:37.08,Gen_Main,,0000,0000,0000,,¡Que os vayáis!
+Dialogue: 0,0:02:50.14,0:02:52.73,Gen_Main,,0000,0000,0000,,¡Suéltame! ¡Que me sueltes!
+Dialogue: 0,0:02:53.19,0:02:54.65,Gen_Main,,0000,0000,0000,,¡No escaparéis!
+Dialogue: 0,0:02:56.48,0:02:58.19,Gen_Main,,0000,0000,0000,,¡Suéltame!
 Dialogue: 0,0:04:45.35,0:04:50.01,Cart_EpiTitle,,0000,0000,0000,,{\pos(591,275)}El poder de ver el futuro
 Dialogue: 0,0:04:51.56,0:04:53.93,Gen_Main,,0000,0000,0000,,Parece que no nos ha seguido.
-Dialogue: 0,0:04:54.69,0:04:57.56,Gen_Main,,0000,0000,0000,,No te muevas. AÃºn no he acabado.
-Dialogue: 0,0:05:01.15,0:05:04.57,Gen_Main,,0000,0000,0000,,SuÃ©ltame. Â¡SuÃ©ltame!
+Dialogue: 0,0:04:54.69,0:04:57.56,Gen_Main,,0000,0000,0000,,No te muevas. Aún no he acabado.
+Dialogue: 0,0:05:01.15,0:05:04.57,Gen_Main,,0000,0000,0000,,Suéltame. ¡Suéltame!
 Dialogue: 0,0:05:05.36,0:05:06.53,Gen_Main,,0000,0000,0000,,No grites.
-Dialogue: 0,0:05:08.37,0:05:11.45,Gen_Main,,0000,0000,0000,,Por favor, dÃ©jame ir.
-Dialogue: 0,0:05:12.37,0:05:13.79,Gen_Main,,0000,0000,0000,,Â¿Para quÃ©?
-Dialogue: 0,0:05:14.29,0:05:16.77,Gen_Main,,0000,0000,0000,,Â¡Para ir a salvarlo!
-Dialogue: 0,0:05:17.29,0:05:20.29,Gen_Main,,0000,0000,0000,,Â¿PodrÃ¡s ganar si vuelves allÃ­?
+Dialogue: 0,0:05:08.37,0:05:11.45,Gen_Main,,0000,0000,0000,,Por favor, déjame ir.
+Dialogue: 0,0:05:12.37,0:05:13.79,Gen_Main,,0000,0000,0000,,¿Para qué?
+Dialogue: 0,0:05:14.29,0:05:16.77,Gen_Main,,0000,0000,0000,,¡Para ir a salvarlo!
+Dialogue: 0,0:05:17.29,0:05:20.29,Gen_Main,,0000,0000,0000,,¿Podrás ganar si vuelves allí?
 Dialogue: 0,0:05:35.02,0:05:38.02,Gen_Main,,0000,0000,0000,,Es un entrometido.
-Dialogue: 0,0:05:44.69,0:05:48.17,Gen_Main,,0000,0000,0000,,BuscarÃ© al dueÃ±o de esta espada.
-Dialogue: 0,0:06:04.88,0:06:07.62,Gen_Main,,0000,0000,0000,,Â¿QuiÃ©n eres?
+Dialogue: 0,0:05:44.69,0:05:48.17,Gen_Main,,0000,0000,0000,,Buscaré al dueño de esta espada.
+Dialogue: 0,0:06:04.88,0:06:07.62,Gen_Main,,0000,0000,0000,,¿Quién eres?
 Dialogue: 0,0:06:18.94,0:06:21.36,Gen_Main,,0000,0000,0000,,Pesa mucho.
 Dialogue: 0,0:06:23.98,0:06:25.80,Gen_Main,,0000,0000,0000,,Vamos.
-Dialogue: 0,0:06:31.87,0:06:38.00,Gen_Main,,0000,0000,0000,,Piensa bien en el motivo\Npor el que os pidiÃ³ que huyerais.
+Dialogue: 0,0:06:31.87,0:06:38.00,Gen_Main,,0000,0000,0000,,Piensa bien en el motivo\Npor el que os pidió que huyerais.
 Dialogue: 0,0:06:40.25,0:06:43.46,Gen_Main,,0000,0000,0000,,Ya has visto\Nlo que puede hacer Urashiki.
 Dialogue: 0,0:06:43.96,0:06:48.63,Gen_Main,,0000,0000,0000,,Mis ojos pueden ver el futuro.
 Dialogue: 0,0:06:49.43,0:06:53.88,Gen_Main,,0000,0000,0000,,No creo que estuviera mintiendo.
-Dialogue: 0,0:06:54.25,0:06:57.22,Gen_Main,,0000,0000,0000,,Â¿De verdad ve el futuro?
+Dialogue: 0,0:06:54.25,0:06:57.22,Gen_Main,,0000,0000,0000,,¿De verdad ve el futuro?
 Dialogue: 0,0:06:57.64,0:06:59.35,Gen_Main,,0000,0000,0000,,Es imposible.
 Dialogue: 0,0:06:59.85,0:07:02.73,Gen_Main,,0000,0000,0000,,Sea quien sea,
-Dialogue: 0,0:07:02.90,0:07:06.90,Gen_Main,,0000,0000,0000,,nunca habÃ­a oÃ­do hablar\Nde una tÃ©cnica para ver el futuro.
-Dialogue: 0,0:07:07.65,0:07:11.24,Gen_Main,,0000,0000,0000,,Pero si no descubrimos quÃ© truco usaâ€¦
-Dialogue: 0,0:07:11.66,0:07:14.48,Gen_Main,,0000,0000,0000,,Aun asÃ­, no puedo abandonarlo.
-Dialogue: 0,0:07:14.95,0:07:15.91,Gen_Main,,0000,0000,0000,,Chicoâ€¦
-Dialogue: 0,0:07:16.08,0:07:18.24,Gen_Main,,0000,0000,0000,,Â¡No abandonarÃ© a un compaÃ±ero!
-Dialogue: 0,0:07:18.75,0:07:21.42,Gen_Main,,0000,0000,0000,,TÃº sÃ­ que sabes.
-Dialogue: 0,0:07:22.37,0:07:24.84,Gen_Main,,0000,0000,0000,,Â¡No puedes ir!
-Dialogue: 0,0:07:25.00,0:07:26.34,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame!
-Dialogue: 0,0:07:26.50,0:07:32.26,Gen_Main,,0000,0000,0000,,Â¿No entiendes que no podemos vencerlo\Nsin saber quÃ© tÃ©cnica usa?
-Dialogue: 0,0:07:39.93,0:07:41.46,Gen_Main,,0000,0000,0000,,La sangreâ€¦
-Dialogue: 0,0:07:42.98,0:07:47.40,Gen_Main,,0000,0000,0000,,Â¡Espera! ExplÃ­cate un poco mÃ¡s.
-Dialogue: 0,0:07:48.40,0:07:51.90,Gen_Main,,0000,0000,0000,,TodavÃ­a no sÃ© mucho,\Npero quiero comprobar algo.
+Dialogue: 0,0:07:02.90,0:07:06.90,Gen_Main,,0000,0000,0000,,nunca había oído hablar\Nde una técnica para ver el futuro.
+Dialogue: 0,0:07:07.65,0:07:11.24,Gen_Main,,0000,0000,0000,,Pero si no descubrimos qué truco usa…
+Dialogue: 0,0:07:11.66,0:07:14.48,Gen_Main,,0000,0000,0000,,Aun así, no puedo abandonarlo.
+Dialogue: 0,0:07:14.95,0:07:15.91,Gen_Main,,0000,0000,0000,,Chico…
+Dialogue: 0,0:07:16.08,0:07:18.24,Gen_Main,,0000,0000,0000,,¡No abandonaré a un compañero!
+Dialogue: 0,0:07:18.75,0:07:21.42,Gen_Main,,0000,0000,0000,,Tú sí que sabes.
+Dialogue: 0,0:07:22.37,0:07:24.84,Gen_Main,,0000,0000,0000,,¡No puedes ir!
+Dialogue: 0,0:07:25.00,0:07:26.34,Gen_Main,,0000,0000,0000,,¡Suéltame!
+Dialogue: 0,0:07:26.50,0:07:32.26,Gen_Main,,0000,0000,0000,,¿No entiendes que no podemos vencerlo\Nsin saber qué técnica usa?
+Dialogue: 0,0:07:39.93,0:07:41.46,Gen_Main,,0000,0000,0000,,La sangre…
+Dialogue: 0,0:07:42.98,0:07:47.40,Gen_Main,,0000,0000,0000,,¡Espera! Explícate un poco más.
+Dialogue: 0,0:07:48.40,0:07:51.90,Gen_Main,,0000,0000,0000,,Todavía no sé mucho,\Npero quiero comprobar algo.
 Dialogue: 0,0:07:52.49,0:07:54.91,Gen_Main,,0000,0000,0000,,Seguidme, por favor.
-Dialogue: 0,0:08:12.30,0:08:15.46,Gen_Main,,0000,0000,0000,,Â¿Se lo ha llevado un niÃ±o?
-Dialogue: 0,0:08:20.10,0:08:24.23,Gen_Main,,0000,0000,0000,,Â¿QuÃ© estÃ¡ pasando?\NÂ¿QuiÃ©n era ese enemigo?
+Dialogue: 0,0:08:12.30,0:08:15.46,Gen_Main,,0000,0000,0000,,¿Se lo ha llevado un niño?
+Dialogue: 0,0:08:20.10,0:08:24.23,Gen_Main,,0000,0000,0000,,¿Qué está pasando?\N¿Quién era ese enemigo?
 Dialogue: 0,0:08:29.19,0:08:32.46,Gen_Main,,0000,0000,0000,,Necesito que despiertes pronto.
-Dialogue: 0,0:08:39.03,0:08:41.20,Gen_Main,,0000,0000,0000,,Â¿Me oyes?
-Dialogue: 0,0:08:42.50,0:08:47.54,Gen_Main,,0000,0000,0000,,No sÃ© quiÃ©n eres,\Npero no te pongas en peligro.
-Dialogue: 0,0:08:48.17,0:08:53.26,Gen_Main,,0000,0000,0000,,Â¿Por quÃ© no nos ahorramos\Ntrabajo a ambos?
-Dialogue: 0,0:08:53.84,0:08:58.80,Gen_Main,,0000,0000,0000,,Si me entregas a ese hombre,\Nte perdonarÃ© la vida.
-Dialogue: 0,0:08:59.41,0:09:00.75,Gen_Italics,,0000,0000,0000,,Â¿Nos ha encontrado?
-Dialogue: 0,0:09:01.60,0:09:03.35,Gen_Italics,,0000,0000,0000,,No, todavÃ­a no.
-Dialogue: 0,0:09:04.10,0:09:10.86,Gen_Main,,0000,0000,0000,,Â¿Por quÃ© morir\Npor un hombre que ni conoces?
-Dialogue: 0,0:09:12.03,0:09:14.91,Gen_Italics,,0000,0000,0000,,Â¿QuÃ© estoy haciendo?
-Dialogue: 0,0:09:15.07,0:09:17.11,Gen_Italics,,0000,0000,0000,,Si ni siquiera sÃ© quiÃ©n es.
+Dialogue: 0,0:08:39.03,0:08:41.20,Gen_Main,,0000,0000,0000,,¿Me oyes?
+Dialogue: 0,0:08:42.50,0:08:47.54,Gen_Main,,0000,0000,0000,,No sé quién eres,\Npero no te pongas en peligro.
+Dialogue: 0,0:08:48.17,0:08:53.26,Gen_Main,,0000,0000,0000,,¿Por qué no nos ahorramos\Ntrabajo a ambos?
+Dialogue: 0,0:08:53.84,0:08:58.80,Gen_Main,,0000,0000,0000,,Si me entregas a ese hombre,\Nte perdonaré la vida.
+Dialogue: 0,0:08:59.41,0:09:00.75,Gen_Italics,,0000,0000,0000,,¿Nos ha encontrado?
+Dialogue: 0,0:09:01.60,0:09:03.35,Gen_Italics,,0000,0000,0000,,No, todavía no.
+Dialogue: 0,0:09:04.10,0:09:10.86,Gen_Main,,0000,0000,0000,,¿Por qué morir\Npor un hombre que ni conoces?
+Dialogue: 0,0:09:12.03,0:09:14.91,Gen_Italics,,0000,0000,0000,,¿Qué estoy haciendo?
+Dialogue: 0,0:09:15.07,0:09:17.11,Gen_Italics,,0000,0000,0000,,Si ni siquiera sé quién es.
 Dialogue: 0,0:09:20.49,0:09:24.11,Gen_Main,,0000,0000,0000,,Soy un hombre generoso.
-Dialogue: 0,0:09:24.29,0:09:28.37,Gen_Main,,0000,0000,0000,,Y no quiero hacer daÃ±o\Na un niÃ±o inocente.
-Dialogue: 0,0:09:29.84,0:09:33.06,Gen_Main,,0000,0000,0000,,PodrÃ­a encontraros usando mis ojos,
-Dialogue: 0,0:09:33.21,0:09:36.28,Gen_Main,,0000,0000,0000,,pero prefiero no malgastar energÃ­as.
-Dialogue: 0,0:09:47.81,0:09:50.15,Gen_Main,,0000,0000,0000,,QuÃ© mocoso mÃ¡s persistente.
-Dialogue: 0,0:10:07.66,0:10:08.67,Gen_Main,,0000,0000,0000,,Â¡SÃ­!
-Dialogue: 0,0:10:15.51,0:10:18.66,Gen_Main,,0000,0000,0000,,Â¿CÃ³mo demonios lo hace?
-Dialogue: 0,0:10:18.84,0:10:20.84,Gen_Main,,0000,0000,0000,,Â¿Tiene ojos en la coronilla?
-Dialogue: 0,0:10:21.35,0:10:25.60,Gen_Main,,0000,0000,0000,,AtacÃ¡is una y otra vez. Â¿No os cansÃ¡is?
-Dialogue: 0,0:10:26.14,0:10:30.57,Gen_Main,,0000,0000,0000,,Â¿CÃ³mo puedes esquivar\Ntodos nuestros ataques?
-Dialogue: 0,0:10:36.65,0:10:37.95,Gen_Italics,,0000,0000,0000,,Â¿Lo lograrÃ¡?
+Dialogue: 0,0:09:24.29,0:09:28.37,Gen_Main,,0000,0000,0000,,Y no quiero hacer daño\Na un niño inocente.
+Dialogue: 0,0:09:29.84,0:09:33.06,Gen_Main,,0000,0000,0000,,Podría encontraros usando mis ojos,
+Dialogue: 0,0:09:33.21,0:09:36.28,Gen_Main,,0000,0000,0000,,pero prefiero no malgastar energías.
+Dialogue: 0,0:09:47.81,0:09:50.15,Gen_Main,,0000,0000,0000,,Qué mocoso más persistente.
+Dialogue: 0,0:10:07.66,0:10:08.67,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:10:15.51,0:10:18.66,Gen_Main,,0000,0000,0000,,¿Cómo demonios lo hace?
+Dialogue: 0,0:10:18.84,0:10:20.84,Gen_Main,,0000,0000,0000,,¿Tiene ojos en la coronilla?
+Dialogue: 0,0:10:21.35,0:10:25.60,Gen_Main,,0000,0000,0000,,Atacáis una y otra vez. ¿No os cansáis?
+Dialogue: 0,0:10:26.14,0:10:30.57,Gen_Main,,0000,0000,0000,,¿Cómo puedes esquivar\Ntodos nuestros ataques?
+Dialogue: 0,0:10:36.65,0:10:37.95,Gen_Italics,,0000,0000,0000,,¿Lo logrará?
 Dialogue: 0,0:10:48.41,0:10:53.60,Gen_Main,,0000,0000,0000,,Ya he dicho que puedo ver el futuro.
-Dialogue: 0,0:10:58.38,0:11:01.09,Gen_Main,,0000,0000,0000,,Â¡Katon: Karyuu Endan!
-Dialogue: 0,0:10:58.38,0:11:01.09,Cart_Nota,,0000,0000,0000,,Arte Ninja de Fuego:\NBala de Fuego de DragÃ³n
-Dialogue: 0,0:11:22.24,0:11:25.75,Gen_Main,,0000,0000,0000,,AsÃ­ que habÃ©is vuelto todos.
+Dialogue: 0,0:10:58.38,0:11:01.09,Gen_Main,,0000,0000,0000,,¡Katon: Karyuu Endan!
+Dialogue: 0,0:10:58.38,0:11:01.09,Cart_Nota,,0000,0000,0000,,Arte Ninja de Fuego:\NBala de Fuego de Dragón
+Dialogue: 0,0:11:22.24,0:11:25.75,Gen_Main,,0000,0000,0000,,Así que habéis vuelto todos.
 Dialogue: 0,0:11:25.91,0:11:28.37,Gen_Main,,0000,0000,0000,,Vuestra amistad me va a hacer llorar.
-Dialogue: 0,0:11:31.08,0:11:32.51,Gen_Main,,0000,0000,0000,,Â¡Gamayudan!
+Dialogue: 0,0:11:31.08,0:11:32.51,Gen_Main,,0000,0000,0000,,¡Gamayudan!
 Dialogue: 0,0:11:31.08,0:11:32.51,Cart_Nota,,0000,0000,0000,,Bala de Aceite de Sapo
-Dialogue: 0,0:12:02.03,0:12:04.36,Gen_Main,,0000,0000,0000,,Es inÃºtil que me ataques.
-Dialogue: 0,0:12:04.53,0:12:06.62,Gen_Main,,0000,0000,0000,,Â¡Doton: Doryuheki!
+Dialogue: 0,0:12:02.03,0:12:04.36,Gen_Main,,0000,0000,0000,,Es inútil que me ataques.
+Dialogue: 0,0:12:04.53,0:12:06.62,Gen_Main,,0000,0000,0000,,¡Doton: Doryuheki!
 Dialogue: 0,0:12:04.53,0:12:06.62,Cart_Nota,,0000,0000,0000,,Arte Ninja de Tierra: Muro de Tierra
 Dialogue: 0,0:12:22.88,0:12:26.15,Gen_Main,,0000,0000,0000,,Huir se les da de maravilla.
-Dialogue: 0,0:12:31.43,0:12:32.80,Gen_Main,,0000,0000,0000,,Â¿Lo has visto?
-Dialogue: 0,0:12:32.98,0:12:34.73,Gen_Main,,0000,0000,0000,,SÃ­.
-Dialogue: 0,0:12:37.69,0:12:43.37,Gen_Main,,0000,0000,0000,,La sangre de su ropa\Nse ha secado antes que la mÃ­a.
+Dialogue: 0,0:12:31.43,0:12:32.80,Gen_Main,,0000,0000,0000,,¿Lo has visto?
+Dialogue: 0,0:12:32.98,0:12:34.73,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:37.69,0:12:43.37,Gen_Main,,0000,0000,0000,,La sangre de su ropa\Nse ha secado antes que la mía.
 Dialogue: 0,0:12:58.13,0:13:00.75,Gen_Main,,0000,0000,0000,,Es hora de acabar con esto.
-Dialogue: 0,0:13:04.38,0:13:06.97,Gen_Main,,0000,0000,0000,,TenÃ­as razÃ³n.
+Dialogue: 0,0:13:04.38,0:13:06.97,Gen_Main,,0000,0000,0000,,Tenías razón.
 Dialogue: 0,0:13:08.97,0:13:13.85,Gen_Main,,0000,0000,0000,,Pero has hecho algo muy peligroso\Npara comprobarlo.
-Dialogue: 0,0:13:14.48,0:13:19.04,Gen_Main,,0000,0000,0000,,HabrÃ­a sospechado\Nde un ataque demasiado obvio.
-Dialogue: 0,0:13:19.73,0:13:22.53,Gen_Main,,0000,0000,0000,,Sangre, Â¿eh? Entiendo.
-Dialogue: 0,0:13:22.94,0:13:25.22,Gen_Main,,0000,0000,0000,,Â¿Entiendes?
-Dialogue: 0,0:13:25.70,0:13:28.55,Gen_Main,,0000,0000,0000,,Â¿Sabes quÃ© tÃ©cnica usa?
+Dialogue: 0,0:13:14.48,0:13:19.04,Gen_Main,,0000,0000,0000,,Habría sospechado\Nde un ataque demasiado obvio.
+Dialogue: 0,0:13:19.73,0:13:22.53,Gen_Main,,0000,0000,0000,,Sangre, ¿eh? Entiendo.
+Dialogue: 0,0:13:22.94,0:13:25.22,Gen_Main,,0000,0000,0000,,¿Entiendes?
+Dialogue: 0,0:13:25.70,0:13:28.55,Gen_Main,,0000,0000,0000,,¿Sabes qué técnica usa?
 Dialogue: 0,0:13:29.16,0:13:33.53,Gen_Main,,0000,0000,0000,,La sangre de su ropa se ha secado\Nantes que la de la tuya.
-Dialogue: 0,0:13:33.70,0:13:35.08,Gen_Main,,0000,0000,0000,,Por lo tantoâ€¦
-Dialogue: 0,0:13:35.75,0:13:37.08,Gen_Main,,0000,0000,0000,,Â¿Por lo tanto?
+Dialogue: 0,0:13:33.70,0:13:35.08,Gen_Main,,0000,0000,0000,,Por lo tanto…
+Dialogue: 0,0:13:35.75,0:13:37.08,Gen_Main,,0000,0000,0000,,¿Por lo tanto?
 Dialogue: 0,0:13:39.54,0:13:41.59,Gen_Main,,0000,0000,0000,,Pues eso.
-Dialogue: 0,0:13:41.94,0:13:43.80,Gen_Main,,0000,0000,0000,,Â¡Eso lo hemos visto todos!
-Dialogue: 0,0:13:43.96,0:13:46.66,Gen_Main,,0000,0000,0000,,Â¿TÃº sabes quÃ© tÃ©cnica usa?
+Dialogue: 0,0:13:41.94,0:13:43.80,Gen_Main,,0000,0000,0000,,¡Eso lo hemos visto todos!
+Dialogue: 0,0:13:43.96,0:13:46.66,Gen_Main,,0000,0000,0000,,¿Tú sabes qué técnica usa?
 Dialogue: 0,0:13:47.80,0:13:49.55,Gen_Main,,0000,0000,0000,,No, yo tampoco.
-Dialogue: 0,0:13:50.05,0:13:55.04,Gen_Main,,0000,0000,0000,,Â¿Es posible que Urashiki\Ndesprendiera calor?
-Dialogue: 0,0:13:55.18,0:13:58.60,Gen_Main,,0000,0000,0000,,No, no habÃ­a signos de eso.
-Dialogue: 0,0:13:59.06,0:14:02.77,Gen_Main,,0000,0000,0000,,Â¿Y que usara alguna tÃ©cnica Fuuton?
+Dialogue: 0,0:13:50.05,0:13:55.04,Gen_Main,,0000,0000,0000,,¿Es posible que Urashiki\Ndesprendiera calor?
+Dialogue: 0,0:13:55.18,0:13:58.60,Gen_Main,,0000,0000,0000,,No, no había signos de eso.
+Dialogue: 0,0:13:59.06,0:14:02.77,Gen_Main,,0000,0000,0000,,¿Y que usara alguna técnica Fuuton?
 Dialogue: 0,0:14:02.94,0:14:04.57,Gen_Main,,0000,0000,0000,,Tampoco.
-Dialogue: 0,0:14:04.73,0:14:09.13,Gen_Main,,0000,0000,0000,,Â¿QuÃ©? Explicadlo\Npara que yo tambiÃ©n lo entienda.
+Dialogue: 0,0:14:04.73,0:14:09.13,Gen_Main,,0000,0000,0000,,¿Qué? Explicadlo\Npara que yo también lo entienda.
 Dialogue: 0,0:14:09.66,0:14:14.44,Gen_Main,,0000,0000,0000,,Se me ocurren tres motivos\Npor los que puede secarse la sangre.
-Dialogue: 0,0:14:14.62,0:14:17.57,Gen_Main,,0000,0000,0000,,Que Ã©l mismo desprenda mÃ¡s calor,
-Dialogue: 0,0:14:17.75,0:14:20.86,Gen_Main,,0000,0000,0000,,que recibiera mÃ¡s viento
-Dialogue: 0,0:14:21.00,0:14:24.30,Gen_Main,,0000,0000,0000,,o que para Ã©l
-Dialogue: 0,0:14:24.77,0:14:28.71,Gen_Main,,0000,0000,0000,,pasara mÃ¡s tiempo que para nosotros.
-Dialogue: 0,0:14:28.88,0:14:30.44,Gen_Main,,0000,0000,0000,,Â¿MÃ¡s tiempo?
-Dialogue: 0,0:14:30.59,0:14:31.93,Gen_Main,,0000,0000,0000,,Â¿QuÃ© quieres decir?
-Dialogue: 0,0:14:32.43,0:14:39.22,Gen_Main,,0000,0000,0000,,Me extraÃ±Ã³ que dijera\Nque es capaz de ver el futuro.
+Dialogue: 0,0:14:14.62,0:14:17.57,Gen_Main,,0000,0000,0000,,Que él mismo desprenda más calor,
+Dialogue: 0,0:14:17.75,0:14:20.86,Gen_Main,,0000,0000,0000,,que recibiera más viento
+Dialogue: 0,0:14:21.00,0:14:24.30,Gen_Main,,0000,0000,0000,,o que para él
+Dialogue: 0,0:14:24.77,0:14:28.71,Gen_Main,,0000,0000,0000,,pasara más tiempo que para nosotros.
+Dialogue: 0,0:14:28.88,0:14:30.44,Gen_Main,,0000,0000,0000,,¿Más tiempo?
+Dialogue: 0,0:14:30.59,0:14:31.93,Gen_Main,,0000,0000,0000,,¿Qué quieres decir?
+Dialogue: 0,0:14:32.43,0:14:39.22,Gen_Main,,0000,0000,0000,,Me extrañó que dijera\Nque es capaz de ver el futuro.
 Dialogue: 0,0:14:39.77,0:14:44.93,Gen_Main,,0000,0000,0000,,No me lo creo,\Npero tal vez sea parcialmente cierto.
-Dialogue: 0,0:14:45.11,0:14:46.40,Gen_Main,,0000,0000,0000,,Â¿Parcialmente?
+Dialogue: 0,0:14:45.11,0:14:46.40,Gen_Main,,0000,0000,0000,,¿Parcialmente?
 Dialogue: 0,0:14:46.90,0:14:49.48,Gen_Main,,0000,0000,0000,,No es que prevea el futuro,
-Dialogue: 0,0:14:50.07,0:14:56.37,Gen_Main,,0000,0000,0000,,sino que vuelve al pasado\NdespuÃ©s de ver el futuro.
-Dialogue: 0,0:14:56.83,0:14:59.80,Gen_Main,,0000,0000,0000,,Â¿Que vuelve? Entoncesâ€¦
-Dialogue: 0,0:15:00.33,0:15:04.93,Gen_Main,,0000,0000,0000,,Es posible que pueda\Nvolver atrÃ¡s en el tiempo.
-Dialogue: 0,0:15:05.88,0:15:10.55,Gen_Main,,0000,0000,0000,,Â¿Puede hacer algo mÃ¡s\Naparte de moverse por el espacio-tiempo?
-Dialogue: 0,0:15:10.72,0:15:17.37,Gen_Main,,0000,0000,0000,,Eso explicarÃ­a\Ntodas las cosas raras que hace.
+Dialogue: 0,0:14:50.07,0:14:56.37,Gen_Main,,0000,0000,0000,,sino que vuelve al pasado\Ndespués de ver el futuro.
+Dialogue: 0,0:14:56.83,0:14:59.80,Gen_Main,,0000,0000,0000,,¿Que vuelve? Entonces…
+Dialogue: 0,0:15:00.33,0:15:04.93,Gen_Main,,0000,0000,0000,,Es posible que pueda\Nvolver atrás en el tiempo.
+Dialogue: 0,0:15:05.88,0:15:10.55,Gen_Main,,0000,0000,0000,,¿Puede hacer algo más\Naparte de moverse por el espacio-tiempo?
+Dialogue: 0,0:15:10.72,0:15:17.37,Gen_Main,,0000,0000,0000,,Eso explicaría\Ntodas las cosas raras que hace.
 Dialogue: 0,0:15:25.36,0:15:27.48,Gen_Main,,0000,0000,0000,,Los he encontrado.
-Dialogue: 0,0:15:31.53,0:15:33.20,Gen_Main,,0000,0000,0000,,No escaparÃ©is.
-Dialogue: 0,0:15:33.37,0:15:34.45,Gen_Main,,0000,0000,0000,,Â¡Cuidado!
+Dialogue: 0,0:15:31.53,0:15:33.20,Gen_Main,,0000,0000,0000,,No escaparéis.
+Dialogue: 0,0:15:33.37,0:15:34.45,Gen_Main,,0000,0000,0000,,¡Cuidado!
 Dialogue: 0,0:15:34.62,0:15:37.49,Gen_Main,,0000,0000,0000,,Si puede rebobinar el tiempo,\Nes peligroso.
-Dialogue: 0,0:15:43.42,0:15:45.91,Gen_Main,,0000,0000,0000,,Â¿Ya os habÃ©is dado cuenta?
-Dialogue: 0,0:15:46.09,0:15:49.48,Gen_Main,,0000,0000,0000,,AsÃ­ es. El tiempo estÃ¡ de mi lado.
-Dialogue: 0,0:15:50.26,0:15:54.97,Gen_Main,,0000,0000,0000,,HarÃ© que dejÃ©is de respirar\Nde una vez por todas.
+Dialogue: 0,0:15:43.42,0:15:45.91,Gen_Main,,0000,0000,0000,,¿Ya os habéis dado cuenta?
+Dialogue: 0,0:15:46.09,0:15:49.48,Gen_Main,,0000,0000,0000,,Así es. El tiempo está de mi lado.
+Dialogue: 0,0:15:50.26,0:15:54.97,Gen_Main,,0000,0000,0000,,Haré que dejéis de respirar\Nde una vez por todas.
 Dialogue: 0,0:16:02.23,0:16:05.77,Gen_Italics,,0000,0000,0000,,Ese mocoso no deja de moverse.
-Dialogue: 0,0:16:05.94,0:16:09.23,Gen_Italics,,0000,0000,0000,,Pero sÃ© lo que vas a hacer.
-Dialogue: 0,0:16:11.78,0:16:14.64,Gen_Main,,0000,0000,0000,,Lo que vivÃ­s vosotros en segundos
+Dialogue: 0,0:16:05.94,0:16:09.23,Gen_Italics,,0000,0000,0000,,Pero sé lo que vas a hacer.
+Dialogue: 0,0:16:11.78,0:16:14.64,Gen_Main,,0000,0000,0000,,Lo que vivís vosotros en segundos
 Dialogue: 0,0:16:14.78,0:16:20.51,Gen_Main,,0000,0000,0000,,yo puedo revivirlo decenas de veces.
-Dialogue: 0,0:16:20.95,0:16:24.77,Gen_Main,,0000,0000,0000,,Y asÃ­ elegir mi mejor baza.
+Dialogue: 0,0:16:20.95,0:16:24.77,Gen_Main,,0000,0000,0000,,Y así elegir mi mejor baza.
 Dialogue: 0,0:16:28.77,0:16:31.80,Gen_Main,,0000,0000,0000,,Generalmente se usa para defenderse.
 Dialogue: 0,0:16:31.97,0:16:38.01,Gen_Main,,0000,0000,0000,,Pero con gente tan torpe como vosotros\Npuedo usar este poder para atacar.
-Dialogue: 0,0:16:38.47,0:16:39.68,Gen_Main,,0000,0000,0000,,Desgraciadoâ€¦
-Dialogue: 0,0:16:39.85,0:16:41.57,Gen_Main,,0000,0000,0000,,EnfÃ¡date.
-Dialogue: 0,0:16:41.73,0:16:44.19,Gen_Main,,0000,0000,0000,,AsÃ­ me facilitarÃ¡s el trabajo.
-Dialogue: 0,0:16:44.73,0:16:48.82,Gen_Main,,0000,0000,0000,,Esta vez no fallarÃ©, Naruto Uzumaki.
+Dialogue: 0,0:16:38.47,0:16:39.68,Gen_Main,,0000,0000,0000,,Desgraciado…
+Dialogue: 0,0:16:39.85,0:16:41.57,Gen_Main,,0000,0000,0000,,Enfádate.
+Dialogue: 0,0:16:41.73,0:16:44.19,Gen_Main,,0000,0000,0000,,Así me facilitarás el trabajo.
+Dialogue: 0,0:16:44.73,0:16:48.82,Gen_Main,,0000,0000,0000,,Esta vez no fallaré, Naruto Uzumaki.
 Dialogue: 0,0:17:12.76,0:17:15.59,Gen_Main,,0000,0000,0000,,Ninpou: Gamakuchishibari.
 Dialogue: 0,0:17:12.76,0:17:15.59,Cart_Nota,,0000,0000,0000,,Arte Ninja: Atadura de Boca de Sapo
 Dialogue: 0,0:17:16.09,0:17:20.26,Gen_Main,,0000,0000,0000,,Estamos dentro del Gran Sapo\Ndel monte Myoboku.
-Dialogue: 0,0:17:22.47,0:17:26.77,Gen_Main,,0000,0000,0000,,Conque estamos en un estÃ³mago.
-Dialogue: 0,0:17:27.40,0:17:30.07,Gen_Main,,0000,0000,0000,,Interesante elecciÃ³n.
-Dialogue: 0,0:17:30.48,0:17:34.71,Gen_Main,,0000,0000,0000,,Aunque puedas rebobinar el tiempo,\Nsolo serÃ¡ unos segundos.
-Dialogue: 0,0:17:34.94,0:17:38.91,Gen_Main,,0000,0000,0000,,Si no, ya estarÃ­amos muertos.
-Dialogue: 0,0:17:39.07,0:17:40.24,Gen_Main,,0000,0000,0000,,Â¿Y quÃ©?
-Dialogue: 0,0:17:40.41,0:17:46.37,Gen_Main,,0000,0000,0000,,Digo que ni siquiera tÃº podrÃ¡s\Nvolver fuera de este estÃ³mago.
-Dialogue: 0,0:17:47.87,0:17:50.73,Gen_Main,,0000,0000,0000,,Â¿Pretendes disolverme\Ncon Ã¡cido estomacal?
-Dialogue: 0,0:17:51.29,0:17:56.06,Gen_Main,,0000,0000,0000,,Si de verdad pensÃ¡is que me tenÃ©is\Nacorralado, os compadezco.
-Dialogue: 0,0:17:56.22,0:17:59.22,Gen_Main,,0000,0000,0000,,Vosotros no gastÃ©is mucha energÃ­a.
+Dialogue: 0,0:17:22.47,0:17:26.77,Gen_Main,,0000,0000,0000,,Conque estamos en un estómago.
+Dialogue: 0,0:17:27.40,0:17:30.07,Gen_Main,,0000,0000,0000,,Interesante elección.
+Dialogue: 0,0:17:30.48,0:17:34.71,Gen_Main,,0000,0000,0000,,Aunque puedas rebobinar el tiempo,\Nsolo será unos segundos.
+Dialogue: 0,0:17:34.94,0:17:38.91,Gen_Main,,0000,0000,0000,,Si no, ya estaríamos muertos.
+Dialogue: 0,0:17:39.07,0:17:40.24,Gen_Main,,0000,0000,0000,,¿Y qué?
+Dialogue: 0,0:17:40.41,0:17:46.37,Gen_Main,,0000,0000,0000,,Digo que ni siquiera tú podrás\Nvolver fuera de este estómago.
+Dialogue: 0,0:17:47.87,0:17:50.73,Gen_Main,,0000,0000,0000,,¿Pretendes disolverme\Ncon ácido estomacal?
+Dialogue: 0,0:17:51.29,0:17:56.06,Gen_Main,,0000,0000,0000,,Si de verdad pensáis que me tenéis\Nacorralado, os compadezco.
+Dialogue: 0,0:17:56.22,0:17:59.22,Gen_Main,,0000,0000,0000,,Vosotros no gastéis mucha energía.
 Dialogue: 0,0:18:34.55,0:18:36.17,Gen_Main,,0000,0000,0000,,Ya os lo dije.
 Dialogue: 0,0:18:36.34,0:18:41.93,Gen_Main,,0000,0000,0000,,Puedo repetir un momento decenas\Nde veces y elegir mi mejor baza.
-Dialogue: 0,0:18:42.10,0:18:45.37,Gen_Main,,0000,0000,0000,,Todo mientras vosotros pestaÃ±eÃ¡is.
-Dialogue: 0,0:18:46.18,0:18:51.22,Gen_Main,,0000,0000,0000,,Primero eliminarÃ© al que mÃ¡s molesta\Npara salir de aquÃ­.
-Dialogue: 0,0:19:32.40,0:19:35.11,Gen_Main,,0000,0000,0000,,QuÃ© extraÃ±o.
-Dialogue: 0,0:19:36.61,0:19:38.57,Gen_Main,,0000,0000,0000,,Â¿QuÃ© sucede?
+Dialogue: 0,0:18:42.10,0:18:45.37,Gen_Main,,0000,0000,0000,,Todo mientras vosotros pestañeáis.
+Dialogue: 0,0:18:46.18,0:18:51.22,Gen_Main,,0000,0000,0000,,Primero eliminaré al que más molesta\Npara salir de aquí.
+Dialogue: 0,0:19:32.40,0:19:35.11,Gen_Main,,0000,0000,0000,,Qué extraño.
+Dialogue: 0,0:19:36.61,0:19:38.57,Gen_Main,,0000,0000,0000,,¿Qué sucede?
 Dialogue: 0,0:19:39.40,0:19:40.84,Gen_Main,,0000,0000,0000,,Has picado.
-Dialogue: 0,0:19:41.28,0:19:43.82,Gen_Main,,0000,0000,0000,,Estamos dentro de un estÃ³mago.
-Dialogue: 0,0:19:44.82,0:19:49.17,Gen_Main,,0000,0000,0000,,Y aquÃ­ el aire\NestÃ¡ plagado de veneno Ã¡cido.
-Dialogue: 0,0:19:49.33,0:19:53.20,Gen_Main,,0000,0000,0000,,Es incoloro e inodoro,\NasÃ­ que no podÃ­as detectarlo.
+Dialogue: 0,0:19:41.28,0:19:43.82,Gen_Main,,0000,0000,0000,,Estamos dentro de un estómago.
+Dialogue: 0,0:19:44.82,0:19:49.17,Gen_Main,,0000,0000,0000,,Y aquí el aire\Nestá plagado de veneno ácido.
+Dialogue: 0,0:19:49.33,0:19:53.20,Gen_Main,,0000,0000,0000,,Es incoloro e inodoro,\Nasí que no podías detectarlo.
 Dialogue: 0,0:19:53.37,0:19:55.88,Gen_Main,,0000,0000,0000,,Puedes aguantarlo un rato,
 Dialogue: 0,0:19:56.04,0:20:00.31,Gen_Main,,0000,0000,0000,,pero en diez minutos\Nempieza a paralizarte el cuerpo.
 Dialogue: 0,0:20:01.38,0:20:02.34,Gen_Main,,0000,0000,0000,,No puede ser.
-Dialogue: 0,0:20:02.84,0:20:08.35,Gen_Main,,0000,0000,0000,,Has revivido varias veces\Nlos mismos momentos, Â¿no?
-Dialogue: 0,0:20:08.51,0:20:14.35,Gen_Main,,0000,0000,0000,,Por eso el veneno te ha afectado\NmÃ¡s rÃ¡pido que a nosotros.
-Dialogue: 0,0:20:16.61,0:20:20.37,Gen_Main,,0000,0000,0000,,Sois peores que los simiosâ€¦
-Dialogue: 0,0:20:21.53,0:20:26.28,Gen_Main,,0000,0000,0000,,pero Â¡os creÃ©is muy astutos!
-Dialogue: 0,0:20:27.20,0:20:28.08,Gen_Main,,0000,0000,0000,,Â¡Ahora!
-Dialogue: 0,0:20:28.33,0:20:29.20,Gen_Main,,0000,0000,0000,,Â¡SÃ­!
-Dialogue: 0,0:20:56.27,0:20:57.73,Gen_Main,,0000,0000,0000,,Te lo merecÃ­as.
-Dialogue: 0,0:21:02.07,0:21:04.35,Gen_Main,,0000,0000,0000,,Â¿HabÃ©is visto eso?
-Dialogue: 0,0:21:04.53,0:21:08.40,Gen_Main,,0000,0000,0000,,Naruto es increÃ­ble.
+Dialogue: 0,0:20:02.84,0:20:08.35,Gen_Main,,0000,0000,0000,,Has revivido varias veces\Nlos mismos momentos, ¿no?
+Dialogue: 0,0:20:08.51,0:20:14.35,Gen_Main,,0000,0000,0000,,Por eso el veneno te ha afectado\Nmás rápido que a nosotros.
+Dialogue: 0,0:20:16.61,0:20:20.37,Gen_Main,,0000,0000,0000,,Sois peores que los simios…
+Dialogue: 0,0:20:21.53,0:20:26.28,Gen_Main,,0000,0000,0000,,pero ¡os creéis muy astutos!
+Dialogue: 0,0:20:27.20,0:20:28.08,Gen_Main,,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:20:28.33,0:20:29.20,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:20:56.27,0:20:57.73,Gen_Main,,0000,0000,0000,,Te lo merecías.
+Dialogue: 0,0:21:02.07,0:21:04.35,Gen_Main,,0000,0000,0000,,¿Habéis visto eso?
+Dialogue: 0,0:21:04.53,0:21:08.40,Gen_Main,,0000,0000,0000,,Naruto es increíble.
 Dialogue: 0,0:21:08.57,0:21:11.33,Gen_Main,,0000,0000,0000,,Me tiemblan las piernas.
 Dialogue: 0,0:21:12.66,0:21:14.06,Gen_Main,,0000,0000,0000,,Lo hemos logrado.
-Dialogue: 0,0:21:14.84,0:21:15.62,Gen_Main,,0000,0000,0000,,SÃ­.
-Dialogue: 0,0:21:27.22,0:21:29.60,Gen_Main,,0000,0000,0000,,Esa tÃ©cnica era impresionante.
-Dialogue: 0,0:21:29.76,0:21:33.93,Gen_Main,,0000,0000,0000,,Supongo que la llamarÃ© Naruto Stream.
-Dialogue: 0,0:21:34.10,0:21:38.69,Gen_Main,,0000,0000,0000,,Â¿EstriquÃ©?\NNo sÃ© quÃ© significa, pero suena bien.
-Dialogue: 0,0:21:39.40,0:21:40.71,Gen_Main,,0000,0000,0000,,Â¿Verdad?
-Dialogue: 0,0:23:23.96,0:23:55.93,Cart_Avance,,0000,0000,0000,,PrÃ³ximo episodio
-Dialogue: 0,0:23:26.71,0:23:28.28,Gen_Main,,0000,0000,0000,,Â¡Se acabÃ³, Urashiki!
-Dialogue: 0,0:23:28.42,0:23:29.97,Gen_Main,,0000,0000,0000,,Â¿Que se acabÃ³?
-Dialogue: 0,0:23:30.13,0:23:33.51,Gen_Main,,0000,0000,0000,,SerÃ¡ mejor que no me subestimes.
-Dialogue: 0,0:23:33.81,0:23:36.01,Gen_Main,,0000,0000,0000,,Â¿No has tenido suficiente?
+Dialogue: 0,0:21:14.84,0:21:15.62,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:27.22,0:21:29.60,Gen_Main,,0000,0000,0000,,Esa técnica era impresionante.
+Dialogue: 0,0:21:29.76,0:21:33.93,Gen_Main,,0000,0000,0000,,Supongo que la llamaré Naruto Stream.
+Dialogue: 0,0:21:34.10,0:21:38.69,Gen_Main,,0000,0000,0000,,¿Estriqué?\NNo sé qué significa, pero suena bien.
+Dialogue: 0,0:21:39.40,0:21:40.71,Gen_Main,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:23:23.96,0:23:55.93,Cart_Avance,,0000,0000,0000,,Próximo episodio
+Dialogue: 0,0:23:26.71,0:23:28.28,Gen_Main,,0000,0000,0000,,¡Se acabó, Urashiki!
+Dialogue: 0,0:23:28.42,0:23:29.97,Gen_Main,,0000,0000,0000,,¿Que se acabó?
+Dialogue: 0,0:23:30.13,0:23:33.51,Gen_Main,,0000,0000,0000,,Será mejor que no me subestimes.
+Dialogue: 0,0:23:33.81,0:23:36.01,Gen_Main,,0000,0000,0000,,¿No has tenido suficiente?
 Dialogue: 0,0:23:36.18,0:23:37.64,Gen_Main,,0000,0000,0000,,No habla por hablar.
-Dialogue: 0,0:23:37.81,0:23:40.31,Gen_Main,,0000,0000,0000,,AÃºn esconde algo.
-Dialogue: 0,0:23:40.56,0:23:43.51,Gen_Main,,0000,0000,0000,,PrÃ³ximo episodio\Nde {\i1}Boruto - Naruto Next Generations{\i0}:
+Dialogue: 0,0:23:37.81,0:23:40.31,Gen_Main,,0000,0000,0000,,Aún esconde algo.
+Dialogue: 0,0:23:40.56,0:23:43.51,Gen_Main,,0000,0000,0000,,Próximo episodio\Nde {\i1}Boruto - Naruto Next Generations{\i0}:
 Dialogue: 0,0:23:43.69,0:23:45.52,Gen_Main,,0000,0000,0000,,"Batalla final contra Urashiki".
 Dialogue: 0,0:23:43.88,0:23:55.93,Cart_Next,,0000,0000,0000,,Batalla final contra Urashiki
-Dialogue: 0,0:23:48.59,0:23:51.35,Gen_Main,,0000,0000,0000,,Â¡Os matarÃ© a todos!
+Dialogue: 0,0:23:48.59,0:23:51.35,Gen_Main,,0000,0000,0000,,¡Os mataré a todos!
