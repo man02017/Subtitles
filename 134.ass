@@ -1,6 +1,6 @@
 [Script Info]
-Title: English (US)
-Original Script: tvtm  [http://www.crunchyroll.com/user/tvtm]
+Title: EspaÃ±ol (EspaÃ±a)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
 Original Translation: 
 Original Editing: 
 Original Timing: 
@@ -11,237 +11,225 @@ ScriptType: v4.00+
 Collisions: Normal
 PlayResX: 640
 PlayResY: 360
-Timer: 100.0000
+Timer: 0.0000
 WrapStyle: 0
 
 [V4+ Styles]
 Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
-Style: Default,Arial,24,&H00FFFFFF,&H00FFFFFF,&H00020203,&H00000000,0,0,0,0,120,100,0,0,1,0,1,2,0018,0018,0015,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H007C05BB,&H007C05BB,-1,0,0,0,100,100,0,0,1,2,1,3,0040,0060,0110,1
+Style: Cart_Avance,Arial,16,&H00FFFFFF,&H000000FF,&H0078655F,&H0078655F,-1,-1,0,0,100,100,0,0,1,1,1,7,0080,0020,0070,1
+Style: Cart_Next,Arial,22,&H00FFFFFF,&H000000FF,&H00908784,&H00908784,-1,-1,0,0,100,100,0,0,1,1,1,3,0080,0050,0085,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
 
 [Events]
 Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-Dialogue: 0,0:00:05.63,0:00:06.63,Default,,0000,0000,0000,,Too slow.
-Dialogue: 0,0:00:09.55,0:00:10.55,Default,,0000,0000,0000,,Pervy Sage!
-Dialogue: 0,0:00:12.30,0:00:13.67,Default,,0000,0000,0000,,I'm not gonna let you!
-Dialogue: 0,0:00:14.67,0:00:15.96,Default,,0000,0000,0000,,I can see it.
-Dialogue: 0,0:00:24.17,0:00:25.92,Default,,0000,0000,0000,,Please, just give up already.
-Dialogue: 0,0:00:42.34,0:00:43.34,Default,,0000,0000,0000,,Pervy Sage!
-Dialogue: 0,0:01:04.05,0:01:05.21,Default,,0000,0000,0000,,I'm not gonna let you!
-Dialogue: 0,0:01:05.50,0:01:06.88,Default,,0000,0000,0000,,Stop, Naruto!
-Dialogue: 0,0:01:07.21,0:01:09.38,Default,,0000,0000,0000,,You're the one he's after!
-Dialogue: 0,0:01:10.21,0:01:11.21,Default,,0000,0000,0000,,But—!
-Dialogue: 0,0:01:11.38,0:01:12.25,Default,,0000,0000,0000,,If it keeps going like this—!
-Dialogue: 0,0:01:20.21,0:01:21.25,Default,,0000,0000,0000,,{\i1}What's going on?{\i0}
-Dialogue: 0,0:01:22.38,0:01:23.63,Default,,0000,0000,0000,,{\i1}It's those guys—!{\i0}
-Dialogue: 0,0:01:39.96,0:01:44.25,Default,,0000,0000,0000,,I'll tear off your seal\Nin one fell swoop!
-Dialogue: 0,0:02:06.09,0:02:08.71,Default,,0000,0000,0000,,You certainly know\Nhow to waste my time.
-Dialogue: 0,0:02:10.13,0:02:11.13,Default,,0000,0000,0000,,Boruto!
-Dialogue: 0,0:02:11.21,0:02:13.34,Default,,0000,0000,0000,,Take Naruto and get away!
-Dialogue: 0,0:02:13.46,0:02:15.80,Default,,0000,0000,0000,,What?\NThere's no way I can do that!
-Dialogue: 0,0:02:16.50,0:02:20.67,Default,,0000,0000,0000,,We came here to protect Naruto!
-Dialogue: 0,0:02:21.42,0:02:23.13,Default,,0000,0000,0000,,Don't forget that!
-Dialogue: 0,0:02:23.17,0:02:25.13,Default,,0000,0000,0000,,I'm not going to let you!
-Dialogue: 0,0:02:31.21,0:02:32.21,Default,,0000,0000,0000,,Go!
-Dialogue: 0,0:02:33.42,0:02:34.42,Default,,0000,0000,0000,,But—!
-Dialogue: 0,0:02:35.55,0:02:36.96,Default,,0000,0000,0000,,Go!
-Dialogue: 0,0:02:50.21,0:02:52.75,Default,,0000,0000,0000,,Let go!\NLet go of me!
-Dialogue: 0,0:02:53.25,0:02:54.84,Default,,0000,0000,0000,,I won't let you get away!
-Dialogue: 0,0:02:56.63,0:02:58.09,Default,,0000,0000,0000,,Let go!
-Dialogue: 0,0:04:45.20,0:04:50.20,Default,,0000,0000,0000,,{\i1}The Power to See the Future{\i0}\N\N\N
-Dialogue: 0,0:04:51.66,0:04:53.95,Default,,0000,0000,0000,,It doesn't seem like\Nhe followed us.
-Dialogue: 0,0:04:55.75,0:04:57.45,Default,,0000,0000,0000,,I'm still wrapping you up!
-Dialogue: 0,0:05:01.33,0:05:04.29,Default,,0000,0000,0000,,Let go!\NPlease let me go!
-Dialogue: 0,0:05:05.41,0:05:06.41,Default,,0000,0000,0000,,Settle down.
-Dialogue: 0,0:05:08.41,0:05:09.41,Default,,0000,0000,0000,,Please!
-Dialogue: 0,0:05:09.62,0:05:11.16,Default,,0000,0000,0000,,Undo this!
-Dialogue: 0,0:05:12.33,0:05:13.75,Default,,0000,0000,0000,,And then what?
-Dialogue: 0,0:05:14.20,0:05:16.45,Default,,0000,0000,0000,,Go and save him!\NWhat else?!
-Dialogue: 0,0:05:17.33,0:05:20.25,Default,,0000,0000,0000,,Are you sure you'd win\Nif you went back?
-Dialogue: 0,0:05:35.25,0:05:37.87,Default,,0000,0000,0000,,Now you've gone and done it!
-Dialogue: 0,0:05:44.91,0:05:47.83,Default,,0000,0000,0000,,I guess I'll go look for its owner.
-Dialogue: 0,0:06:05.00,0:06:07.33,Default,,0000,0000,0000,,Just who are you, anyway?
-Dialogue: 0,0:06:19.37,0:06:21.25,Default,,0000,0000,0000,,So heavy!
-Dialogue: 0,0:06:24.25,0:06:25.54,Default,,0000,0000,0000,,Cha!
-Dialogue: 0,0:06:31.87,0:06:35.25,Default,,0000,0000,0000,,Think carefully about\Nwhy he did all of that
-Dialogue: 0,0:06:36.33,0:06:37.83,Default,,0000,0000,0000,,to allow you to get away.
-Dialogue: 0,0:06:40.16,0:06:43.00,Default,,0000,0000,0000,,You saw Urashiki's moves too,\Ndidn't you?
-Dialogue: 0,0:06:44.04,0:06:48.25,Default,,0000,0000,0000,,{\i1}My eyes can see the future!{\i0}
-Dialogue: 0,0:06:49.45,0:06:50.50,Default,,0000,0000,0000,,What he said…
-Dialogue: 0,0:06:51.37,0:06:53.54,Default,,0000,0000,0000,,I don't think it was just a bluff.
-Dialogue: 0,0:06:54.20,0:06:57.04,Default,,0000,0000,0000,,So, he really knows\Nabout the future?
-Dialogue: 0,0:06:57.79,0:06:59.00,Default,,0000,0000,0000,,That's impossible.
-Dialogue: 0,0:06:59.95,0:07:02.37,Default,,0000,0000,0000,,Whoever he is,
-Dialogue: 0,0:07:03.00,0:07:06.62,Default,,0000,0000,0000,,I've never heard of a jutsu\Nthat enables one to see the future.
-Dialogue: 0,0:07:07.75,0:07:11.33,Default,,0000,0000,0000,,Still, until we figure out\Nwhat his trick is…
-Dialogue: 0,0:07:11.62,0:07:14.33,Default,,0000,0000,0000,,That's why we can't abandon him!
-Dialogue: 0,0:07:15.00,0:07:16.00,Default,,0000,0000,0000,,Boruto…
-Dialogue: 0,0:07:16.25,0:07:17.95,Default,,0000,0000,0000,,I never abandon my friends!
-Dialogue: 0,0:07:18.66,0:07:21.20,Default,,0000,0000,0000,,Hey, you got that right!
-Dialogue: 0,0:07:22.20,0:07:24.58,Default,,0000,0000,0000,,I said, you can't go!
-Dialogue: 0,0:07:25.04,0:07:26.20,Default,,0000,0000,0000,,Let me go!
-Dialogue: 0,0:07:26.70,0:07:29.12,Default,,0000,0000,0000,,As long as we can't\Nfigure out his jutsu,
-Dialogue: 0,0:07:29.20,0:07:31.08,Default,,0000,0000,0000,,there's no chance of winning.
-Dialogue: 0,0:07:31.16,0:07:32.29,Default,,0000,0000,0000,,Don't you understand that?
-Dialogue: 0,0:07:40.04,0:07:41.12,Default,,0000,0000,0000,,That blood!
-Dialogue: 0,0:07:43.20,0:07:44.66,Default,,0000,0000,0000,,Hey, wait!
-Dialogue: 0,0:07:44.95,0:07:47.16,Default,,0000,0000,0000,,Give us more details!
-Dialogue: 0,0:07:48.33,0:07:52.20,Default,,0000,0000,0000,,I don't know for sure yet,\Nbut I want to test something out.
-Dialogue: 0,0:07:52.58,0:07:54.29,Default,,0000,0000,0000,,Anyway, just come with me!
-Dialogue: 0,0:08:12.37,0:08:15.29,Default,,0000,0000,0000,,A child, is it?
-Dialogue: 0,0:08:20.29,0:08:21.83,Default,,0000,0000,0000,,What's going on here?!
-Dialogue: 0,0:08:22.37,0:08:24.16,Default,,0000,0000,0000,,Who is that enemy?
-Dialogue: 0,0:08:29.16,0:08:32.20,Default,,0000,0000,0000,,You have to wake up now,\Nor we'll be in trouble!
-Dialogue: 0,0:08:39.16,0:08:40.91,Default,,0000,0000,0000,,Can you hear me?
-Dialogue: 0,0:08:42.70,0:08:45.29,Default,,0000,0000,0000,,I don't know who you are\Nor where you're from.
-Dialogue: 0,0:08:45.37,0:08:47.62,Default,,0000,0000,0000,,But you should stop doing\Nsuch dangerous things!
-Dialogue: 0,0:08:48.20,0:08:49.58,Default,,0000,0000,0000,,How about it?
-Dialogue: 0,0:08:49.66,0:08:53.12,Default,,0000,0000,0000,,Let's stop wasting\Neach other's time.
-Dialogue: 0,0:08:54.04,0:08:58.95,Default,,0000,0000,0000,,If you give that man to me,\NI'll spare you your life at least.
-Dialogue: 0,0:08:59.79,0:09:00.79,Default,,0000,0000,0000,,{\i1}He found us!{\i0}
-Dialogue: 0,0:09:01.66,0:09:03.25,Default,,0000,0000,0000,,{\i1}No, he couldn't have…not yet.{\i0}
-Dialogue: 0,0:09:04.25,0:09:06.16,Default,,0000,0000,0000,,There's no need to die,
-Dialogue: 0,0:09:06.25,0:09:10.83,Default,,0000,0000,0000,,saving a man you know\Nnothing about, is there?
-Dialogue: 0,0:09:12.25,0:09:14.70,Default,,0000,0000,0000,,{\i1}What am I doing?!{\i0}
-Dialogue: 0,0:09:15.20,0:09:17.08,Default,,0000,0000,0000,,{\i1}Why am I risking my life{\i0}\N{\i1}for someone I don't know?{\i0}
-Dialogue: 0,0:09:20.50,0:09:24.12,Default,,0000,0000,0000,,Despite all appearances,\NI'm quite tolerant, you know.
-Dialogue: 0,0:09:24.20,0:09:28.08,Default,,0000,0000,0000,,I don't want to end up\Nhurting an innocent child.
-Dialogue: 0,0:09:29.95,0:09:33.00,Default,,0000,0000,0000,,I could find you quite easily\Nwith my eyes,
-Dialogue: 0,0:09:33.20,0:09:36.12,Default,,0000,0000,0000,,but I don't want to waste\Nany strength unnecessarily.
-Dialogue: 0,0:09:47.83,0:09:50.04,Default,,0000,0000,0000,,Such a stubborn brat aren't you?!
-Dialogue: 0,0:10:07.95,0:10:08.95,Default,,0000,0000,0000,,We did it!
-Dialogue: 0,0:10:15.50,0:10:18.37,Default,,0000,0000,0000,,Damn it, what's going on?
-Dialogue: 0,0:10:18.83,0:10:20.91,Default,,0000,0000,0000,,Do you have eyes in the back\Nof your head or something?
-Dialogue: 0,0:10:21.29,0:10:23.45,Default,,0000,0000,0000,,How relentless.
-Dialogue: 0,0:10:23.54,0:10:25.29,Default,,0000,0000,0000,,Putting me through\Nall this trouble.
-Dialogue: 0,0:10:26.29,0:10:30.25,Default,,0000,0000,0000,,How can you easily\Nevade our attacks?
-Dialogue: 0,0:10:36.62,0:10:37.66,Default,,0000,0000,0000,,{\i1}Can they do it?{\i0}
-Dialogue: 0,0:10:48.50,0:10:53.54,Default,,0000,0000,0000,,Didn't I tell you already that\Nmy eyes can see the future?
-Dialogue: 0,0:10:58.37,0:11:00.66,Default,,0000,0000,0000,,Fire Style: Dragon Flame Bomb!
-Dialogue: 0,0:11:22.16,0:11:25.37,Default,,0000,0000,0000,,So, you brazenly snuck back?
-Dialogue: 0,0:11:26.08,0:11:28.29,Default,,0000,0000,0000,,Your friendship is so touching.
-Dialogue: 0,0:11:31.20,0:11:32.45,Default,,0000,0000,0000,,Toad Oil Bomb!
-Dialogue: 0,0:12:02.25,0:12:04.25,Default,,0000,0000,0000,,An attack like that is futile.
-Dialogue: 0,0:12:04.75,0:12:06.50,Default,,0000,0000,0000,,Earth Style: Mud Wall!
-Dialogue: 0,0:12:23.00,0:12:25.66,Default,,0000,0000,0000,,They're quick to flee.
-Dialogue: 0,0:12:31.41,0:12:32.41,Default,,0000,0000,0000,,Did you see that?
-Dialogue: 0,0:12:33.12,0:12:34.37,Default,,0000,0000,0000,,Yeah, I did.
-Dialogue: 0,0:12:37.70,0:12:39.41,Default,,0000,0000,0000,,The blood that got on his clothes
-Dialogue: 0,0:12:40.79,0:12:43.04,Default,,0000,0000,0000,,dried quicker than mine.
-Dialogue: 0,0:12:58.29,0:13:00.33,Default,,0000,0000,0000,,{\i1}Let's end this now, shall we?{\i0}
-Dialogue: 0,0:13:04.45,0:13:06.50,Default,,0000,0000,0000,,It went just like\Nyou said it would.
-Dialogue: 0,0:13:09.33,0:13:13.75,Default,,0000,0000,0000,,You're reckless, taking a big risk\Njust to verify that.
-Dialogue: 0,0:13:14.54,0:13:18.62,Default,,0000,0000,0000,,If our attack was too obvious,\Nhe would've gotten suspicious.
-Dialogue: 0,0:13:19.79,0:13:22.33,Default,,0000,0000,0000,,Blood, eh?\NI see!
-Dialogue: 0,0:13:23.00,0:13:25.08,Default,,0000,0000,0000,,I see?
-Dialogue: 0,0:13:25.66,0:13:28.33,Default,,0000,0000,0000,,Does that mean you've figured out\Nhow his jutsu works?
-Dialogue: 0,0:13:29.29,0:13:33.16,Default,,0000,0000,0000,,The blood that got on his clothes\Ndried faster than yours.
-Dialogue: 0,0:13:33.70,0:13:34.70,Default,,0000,0000,0000,,In other words—!
-Dialogue: 0,0:13:35.83,0:13:36.83,Default,,0000,0000,0000,,In other words?
-Dialogue: 0,0:13:39.58,0:13:41.54,Default,,0000,0000,0000,,That's all, ya know!
-Dialogue: 0,0:13:42.12,0:13:43.79,Default,,0000,0000,0000,,That's exactly what I said!
-Dialogue: 0,0:13:43.87,0:13:46.54,Default,,0000,0000,0000,,Well then, did {\i1}you{\i0} figure it out?
-Dialogue: 0,0:13:47.87,0:13:49.16,Default,,0000,0000,0000,,I don't have a clue either.
-Dialogue: 0,0:13:50.16,0:13:51.16,Default,,0000,0000,0000,,Could it be possible that
-Dialogue: 0,0:13:51.16,0:13:55.00,Default,,0000,0000,0000,,Urashiki released heat\Nfrom within himself earlier?
-Dialogue: 0,0:13:55.12,0:13:58.25,Default,,0000,0000,0000,,No. I don't think there were\Nany signs of that.
-Dialogue: 0,0:13:59.16,0:14:02.54,Default,,0000,0000,0000,,Is there a chance that he used\Nsomething like a Wind Style?
-Dialogue: 0,0:14:03.20,0:14:04.20,Default,,0000,0000,0000,,Same.
-Dialogue: 0,0:14:04.87,0:14:06.41,Default,,0000,0000,0000,,What?! C'mon!
-Dialogue: 0,0:14:06.50,0:14:09.16,Default,,0000,0000,0000,,Explain it so that\NI can understand too!
-Dialogue: 0,0:14:09.75,0:14:14.16,Default,,0000,0000,0000,,If we consider how blood can dry,\Nthere are three ways.
-Dialogue: 0,0:14:14.75,0:14:17.25,Default,,0000,0000,0000,,He dried it with heat\Nhe produced himself.
-Dialogue: 0,0:14:17.83,0:14:22.37,Default,,0000,0000,0000,,He was around a lot of wind, or…
-Dialogue: 0,0:14:23.33,0:14:28.29,Default,,0000,0000,0000,,A longer duration of time elapsed,\Njust for him.
-Dialogue: 0,0:14:29.00,0:14:30.37,Default,,0000,0000,0000,,A longer duration of time?
-Dialogue: 0,0:14:30.54,0:14:31.54,Default,,0000,0000,0000,,What do you mean?
-Dialogue: 0,0:14:32.33,0:14:36.54,Default,,0000,0000,0000,,The way he boasted about\Nbeing able to see the future
-Dialogue: 0,0:14:36.62,0:14:39.04,Default,,0000,0000,0000,,has been bothering me.
-Dialogue: 0,0:14:39.70,0:14:41.79,Default,,0000,0000,0000,,I thought he was just bluffing…
-Dialogue: 0,0:14:42.62,0:14:44.66,Default,,0000,0000,0000,,However, it could be half-true.
-Dialogue: 0,0:14:45.25,0:14:46.25,Default,,0000,0000,0000,,Half?
-Dialogue: 0,0:14:47.00,0:14:49.29,Default,,0000,0000,0000,,Instead of having a premonition\Nof the future…
-Dialogue: 0,0:14:50.33,0:14:52.95,Default,,0000,0000,0000,,What if he actually\Ngoes to the future,
-Dialogue: 0,0:14:53.04,0:14:56.04,Default,,0000,0000,0000,,then uses some way\Nto come back to the present?
-Dialogue: 0,0:14:56.91,0:14:58.25,Default,,0000,0000,0000,,Come back?
-Dialogue: 0,0:14:58.62,0:14:59.62,Default,,0000,0000,0000,,No way!
-Dialogue: 0,0:15:00.29,0:15:04.58,Default,,0000,0000,0000,,Maybe he can turn back time.
-Dialogue: 0,0:15:06.20,0:15:10.04,Default,,0000,0000,0000,,So, he has another ability aside\Nfrom the Transportation Technique?
-Dialogue: 0,0:15:10.75,0:15:12.25,Default,,0000,0000,0000,,Without a doubt…
-Dialogue: 0,0:15:12.91,0:15:17.33,Default,,0000,0000,0000,,That would explain all the weird\Nphenomena up until now.
-Dialogue: 0,0:15:25.29,0:15:27.08,Default,,0000,0000,0000,,I found you!
-Dialogue: 0,0:15:31.54,0:15:33.12,Default,,0000,0000,0000,,You're not getting away anymore!
-Dialogue: 0,0:15:33.37,0:15:34.37,Default,,0000,0000,0000,,Be careful!
-Dialogue: 0,0:15:34.87,0:15:37.16,Default,,0000,0000,0000,,If he can turn back time,\Nit's gonna be bad!
-Dialogue: 0,0:15:43.45,0:15:46.16,Default,,0000,0000,0000,,So, you finally realized it?
-Dialogue: 0,0:15:46.25,0:15:49.25,Default,,0000,0000,0000,,Yes, time is on my side!
-Dialogue: 0,0:15:50.25,0:15:54.37,Default,,0000,0000,0000,,I'll smother your breaths\Nbefore you even realize it!
-Dialogue: 0,0:16:02.25,0:16:05.58,Default,,0000,0000,0000,,{\i1}What a fidgety brat.{\i0}
-Dialogue: 0,0:16:05.95,0:16:09.50,Default,,0000,0000,0000,,{\i1}However, I've read all your moves.{\i0}
-Dialogue: 0,0:16:11.83,0:16:14.58,Default,,0000,0000,0000,,Even if only a few seconds\Npass for you…
-Dialogue: 0,0:16:14.79,0:16:20.16,Default,,0000,0000,0000,,For me, I can relive the moment,\Nseveral…no, dozens of times!
-Dialogue: 0,0:16:21.00,0:16:24.70,Default,,0000,0000,0000,,And it allows me to select\Nthe best possible move!
-Dialogue: 0,0:16:28.87,0:16:31.79,Default,,0000,0000,0000,,Initially, this ability was\Na defensive jutsu.
-Dialogue: 0,0:16:32.12,0:16:38.16,Default,,0000,0000,0000,,But against idiots like you,\NI can easily use it offensively!
-Dialogue: 0,0:16:38.45,0:16:39.75,Default,,0000,0000,0000,,Why you—!
-Dialogue: 0,0:16:39.83,0:16:44.20,Default,,0000,0000,0000,,Yes, get angry!\NThat makes my job much easier.
-Dialogue: 0,0:16:44.79,0:16:48.75,Default,,0000,0000,0000,,I won't let you get away this time,\NNaruto Uzumaki!
-Dialogue: 0,0:17:12.79,0:17:15.37,Default,,0000,0000,0000,,Ninja Art: Toad Mouth Trap!
-Dialogue: 0,0:17:16.20,0:17:19.70,Default,,0000,0000,0000,,We are inside the belly of\Nthe Great Toad of Mt. Myoboku
-Dialogue: 0,0:17:22.54,0:17:26.37,Default,,0000,0000,0000,,I see…so I'm inside a stomach.
-Dialogue: 0,0:17:27.37,0:17:29.70,Default,,0000,0000,0000,,You do such interesting things!
-Dialogue: 0,0:17:30.70,0:17:32.37,Default,,0000,0000,0000,,Even if you can turn back time,
-Dialogue: 0,0:17:32.45,0:17:34.20,Default,,0000,0000,0000,,I've deduced that it's only\Nfor a few seconds.
-Dialogue: 0,0:17:35.12,0:17:38.83,Default,,0000,0000,0000,,Otherwise, we'd have been\Ndead long ago.
-Dialogue: 0,0:17:39.08,0:17:40.20,Default,,0000,0000,0000,,So what?
-Dialogue: 0,0:17:40.29,0:17:42.87,Default,,0000,0000,0000,,In other words,\Neven you can't go back to
-Dialogue: 0,0:17:42.95,0:17:46.04,Default,,0000,0000,0000,,the moment before\Nyou entered the belly!
-Dialogue: 0,0:17:48.00,0:17:50.79,Default,,0000,0000,0000,,Don't tell me you plan on\Ndissolving me in stomach acid?
-Dialogue: 0,0:17:51.33,0:17:56.25,Default,,0000,0000,0000,,How pitiful that you think you can\Nstop me with something like this!
-Dialogue: 0,0:17:56.33,0:17:58.95,Default,,0000,0000,0000,,Reserve your strength, you two.
-Dialogue: 0,0:18:34.62,0:18:36.16,Default,,0000,0000,0000,,Didn't I already tell you?!
-Dialogue: 0,0:18:36.16,0:18:39.45,Default,,0000,0000,0000,,I can replay the same moment\Ndozens of times…
-Dialogue: 0,0:18:39.54,0:18:41.70,Default,,0000,0000,0000,,…and select the best possible move!
-Dialogue: 0,0:18:42.12,0:18:45.16,Default,,0000,0000,0000,,All before you can even blink!
-Dialogue: 0,0:18:46.29,0:18:49.08,Default,,0000,0000,0000,,I'll begin by eliminating\Nthe nuisances,
-Dialogue: 0,0:18:49.16,0:18:51.08,Default,,0000,0000,0000,,and proceed at my leisure.
-Dialogue: 0,0:19:32.41,0:19:35.00,Default,,0000,0000,0000,,This is…\NQuite strange!
-Dialogue: 0,0:19:36.62,0:19:38.29,Default,,0000,0000,0000,,What's going on?!
-Dialogue: 0,0:19:39.54,0:19:40.62,Default,,0000,0000,0000,,We got you.
-Dialogue: 0,0:19:41.20,0:19:43.62,Default,,0000,0000,0000,,I told you we're inside the belly.
-Dialogue: 0,0:19:44.95,0:19:49.04,Default,,0000,0000,0000,,And the air in here is\Nfilled with acidic poison.
-Dialogue: 0,0:19:49.29,0:19:53.08,Default,,0000,0000,0000,,Since it's colorless and odorless,\Nit's hard to detect.
-Dialogue: 0,0:19:53.33,0:19:57.08,Default,,0000,0000,0000,,Even if you can endure it for\Na little while, after ten minutes,
-Dialogue: 0,0:19:57.16,0:20:00.16,Default,,0000,0000,0000,,the poison begins to\Nparalyze your entire body.
-Dialogue: 0,0:20:01.41,0:20:02.41,Default,,0000,0000,0000,,No way!
-Dialogue: 0,0:20:02.79,0:20:05.04,Default,,0000,0000,0000,,You've been reliving\Nthat earlier attack
-Dialogue: 0,0:20:05.12,0:20:08.33,Default,,0000,0000,0000,,over and over again, haven't you?
-Dialogue: 0,0:20:08.62,0:20:11.12,Default,,0000,0000,0000,,That means,\Nthe poison's effect on you
-Dialogue: 0,0:20:11.20,0:20:14.29,Default,,0000,0000,0000,,is many times stronger\Nthan its effect on us.
-Dialogue: 0,0:20:16.62,0:20:20.33,Default,,0000,0000,0000,,In spite of being on a lower rung\Nof existence than a monkey…
-Dialogue: 0,0:20:21.66,0:20:26.45,Default,,0000,0000,0000,,…you're pretty arrogant,\Naren't you?!
-Dialogue: 0,0:20:27.25,0:20:28.25,Default,,0000,0000,0000,,Let's do this!
-Dialogue: 0,0:20:28.45,0:20:29.45,Default,,0000,0000,0000,,Right!
-Dialogue: 0,0:20:56.25,0:20:57.37,Default,,0000,0000,0000,,That's what you get!
-Dialogue: 0,0:21:02.12,0:21:04.29,Default,,0000,0000,0000,,Did you see that just now?
-Dialogue: 0,0:21:05.16,0:21:08.25,Default,,0000,0000,0000,,Amazing, Big Bro Naruto!
-Dialogue: 0,0:21:08.54,0:21:10.83,Default,,0000,0000,0000,,My feet went out from under me!
-Dialogue: 0,0:21:12.79,0:21:13.79,Default,,0000,0000,0000,,We did it!
-Dialogue: 0,0:21:15.20,0:21:16.20,Default,,0000,0000,0000,,Yeah!
-Dialogue: 0,0:21:27.41,0:21:29.54,Default,,0000,0000,0000,,That jutsu earlier was amazing!
-Dialogue: 0,0:21:29.62,0:21:30.41,Default,,0000,0000,0000,,Yeah.
-Dialogue: 0,0:21:30.50,0:21:33.70,Default,,0000,0000,0000,,Should we call it…\NNaruto Stream?
-Dialogue: 0,0:21:34.20,0:21:35.20,Default,,0000,0000,0000,,Huh?
-Dialogue: 0,0:21:35.37,0:21:36.70,Default,,0000,0000,0000,,I don't know why, but…
-Dialogue: 0,0:21:36.79,0:21:38.70,Default,,0000,0000,0000,,It has a nice\Nrefreshing ring to it!
-Dialogue: 0,0:21:39.25,0:21:40.33,Default,,0000,0000,0000,,Right?
-Dialogue: 0,0:23:26.82,0:23:28.41,Default,,0000,0000,0000,,It's over, Urashiki!
-Dialogue: 0,0:23:28.70,0:23:29.95,Default,,0000,0000,0000,,It's over?
-Dialogue: 0,0:23:30.41,0:23:32.07,Default,,0000,0000,0000,,I wish you would stop\Ngetting carried away
-Dialogue: 0,0:23:32.16,0:23:33.87,Default,,0000,0000,0000,,with underestimating me.
-Dialogue: 0,0:23:33.99,0:23:36.12,Default,,0000,0000,0000,,Do you wanna get beat up some more?
-Dialogue: 0,0:23:36.32,0:23:37.87,Default,,0000,0000,0000,,He's not bluffing.
-Dialogue: 0,0:23:37.95,0:23:40.28,Default,,0000,0000,0000,,He still has something\Nup his sleeve!
-Dialogue: 0,0:23:40.91,0:23:43.53,Default,,0000,0000,0000,,Next time on Boruto:\NNaruto Next Generations:
-Dialogue: 0,0:23:44.03,0:23:45.66,Default,,0000,0000,0000,,"The Last Battle: Urashiki."\N\N\N
-Dialogue: 0,0:23:48.70,0:23:51.32,Default,,0000,0000,0000,,I'm gonna beat you all to death!\N\N\N
-Dialogue: 0,0:23:51.41,0:23:54.03,Default,,0000,0000,0000,,THE LAST BATTLE: URASHIKI\N\N\N
+Dialogue: 0,0:00:05.48,0:00:06.42,Gen_Main,,0000,0000,0000,,Demasiado lento.
+Dialogue: 0,0:00:09.53,0:00:10.68,Gen_Main,,0000,0000,0000,,Â¡Sabio Pervertido!
+Dialogue: 0,0:00:12.03,0:00:13.62,Gen_Main,,0000,0000,0000,,Â¡No te dejarÃ©!
+Dialogue: 0,0:00:14.53,0:00:15.86,Gen_Main,,0000,0000,0000,,Te veo.
+Dialogue: 0,0:00:24.21,0:00:26.17,Gen_Main,,0000,0000,0000,,RendÃ­os.
+Dialogue: 0,0:00:42.35,0:00:43.64,Gen_Main,,0000,0000,0000,,Â¡Sabio Pervertido!
+Dialogue: 0,0:01:04.00,0:01:05.31,Gen_Main,,0000,0000,0000,,No escaparÃ¡s.
+Dialogue: 0,0:01:05.46,0:01:09.29,Gen_Main,,0000,0000,0000,,Alto, Naruto. TÃº eres su objetivo.
+Dialogue: 0,0:01:10.00,0:01:12.55,Gen_Main,,0000,0000,0000,,Pero a este pasoâ€¦
+Dialogue: 0,0:01:20.18,0:01:21.62,Gen_Italics,,0000,0000,0000,,Â¿QuÃ© estÃ¡ pasando?
+Dialogue: 0,0:01:22.18,0:01:23.81,Gen_Italics,,0000,0000,0000,,Esos sonâ€¦
+Dialogue: 0,0:01:39.91,0:01:44.26,Gen_Main,,0000,0000,0000,,Te arrancarÃ© ese sello de golpe.
+Dialogue: 0,0:02:05.93,0:02:08.69,Gen_Main,,0000,0000,0000,,Me dais mucho trabajo.
+Dialogue: 0,0:02:09.90,0:02:13.40,Gen_Main,,0000,0000,0000,,Â¡Boruto, llÃ©vate a Naruto y huye!
+Dialogue: 0,0:02:14.36,0:02:15.91,Gen_Main,,0000,0000,0000,,Â¡No puedo irme!
+Dialogue: 0,0:02:16.49,0:02:21.04,Gen_Main,,0000,0000,0000,,HabÃ­amos venido aquÃ­\Na proteger a Naruto.
+Dialogue: 0,0:02:21.20,0:02:23.11,Gen_Main,,0000,0000,0000,,No lo olvides.
+Dialogue: 0,0:02:23.28,0:02:25.42,Gen_Main,,0000,0000,0000,,Â¡No os lo permitirÃ©!
+Dialogue: 0,0:02:31.25,0:02:32.51,Gen_Main,,0000,0000,0000,,Â¡Idos!
+Dialogue: 0,0:02:33.29,0:02:34.55,Gen_Main,,0000,0000,0000,,Peroâ€¦
+Dialogue: 0,0:02:35.55,0:02:37.08,Gen_Main,,0000,0000,0000,,Â¡Que os vayÃ¡is!
+Dialogue: 0,0:02:50.14,0:02:52.73,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame! Â¡Que me sueltes!
+Dialogue: 0,0:02:53.19,0:02:54.65,Gen_Main,,0000,0000,0000,,Â¡No escaparÃ©is!
+Dialogue: 0,0:02:56.48,0:02:58.19,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame!
+Dialogue: 0,0:04:45.35,0:04:50.01,Cart_EpiTitle,,0000,0000,0000,,{\pos(591,275)}El poder de ver el futuro
+Dialogue: 0,0:04:51.56,0:04:53.93,Gen_Main,,0000,0000,0000,,Parece que no nos ha seguido.
+Dialogue: 0,0:04:54.69,0:04:57.56,Gen_Main,,0000,0000,0000,,No te muevas. AÃºn no he acabado.
+Dialogue: 0,0:05:01.15,0:05:04.57,Gen_Main,,0000,0000,0000,,SuÃ©ltame. Â¡SuÃ©ltame!
+Dialogue: 0,0:05:05.36,0:05:06.53,Gen_Main,,0000,0000,0000,,No grites.
+Dialogue: 0,0:05:08.37,0:05:11.45,Gen_Main,,0000,0000,0000,,Por favor, dÃ©jame ir.
+Dialogue: 0,0:05:12.37,0:05:13.79,Gen_Main,,0000,0000,0000,,Â¿Para quÃ©?
+Dialogue: 0,0:05:14.29,0:05:16.77,Gen_Main,,0000,0000,0000,,Â¡Para ir a salvarlo!
+Dialogue: 0,0:05:17.29,0:05:20.29,Gen_Main,,0000,0000,0000,,Â¿PodrÃ¡s ganar si vuelves allÃ­?
+Dialogue: 0,0:05:35.02,0:05:38.02,Gen_Main,,0000,0000,0000,,Es un entrometido.
+Dialogue: 0,0:05:44.69,0:05:48.17,Gen_Main,,0000,0000,0000,,BuscarÃ© al dueÃ±o de esta espada.
+Dialogue: 0,0:06:04.88,0:06:07.62,Gen_Main,,0000,0000,0000,,Â¿QuiÃ©n eres?
+Dialogue: 0,0:06:18.94,0:06:21.36,Gen_Main,,0000,0000,0000,,Pesa mucho.
+Dialogue: 0,0:06:23.98,0:06:25.80,Gen_Main,,0000,0000,0000,,Vamos.
+Dialogue: 0,0:06:31.87,0:06:38.00,Gen_Main,,0000,0000,0000,,Piensa bien en el motivo\Npor el que os pidiÃ³ que huyerais.
+Dialogue: 0,0:06:40.25,0:06:43.46,Gen_Main,,0000,0000,0000,,Ya has visto\Nlo que puede hacer Urashiki.
+Dialogue: 0,0:06:43.96,0:06:48.63,Gen_Main,,0000,0000,0000,,Mis ojos pueden ver el futuro.
+Dialogue: 0,0:06:49.43,0:06:53.88,Gen_Main,,0000,0000,0000,,No creo que estuviera mintiendo.
+Dialogue: 0,0:06:54.25,0:06:57.22,Gen_Main,,0000,0000,0000,,Â¿De verdad ve el futuro?
+Dialogue: 0,0:06:57.64,0:06:59.35,Gen_Main,,0000,0000,0000,,Es imposible.
+Dialogue: 0,0:06:59.85,0:07:02.73,Gen_Main,,0000,0000,0000,,Sea quien sea,
+Dialogue: 0,0:07:02.90,0:07:06.90,Gen_Main,,0000,0000,0000,,nunca habÃ­a oÃ­do hablar\Nde una tÃ©cnica para ver el futuro.
+Dialogue: 0,0:07:07.65,0:07:11.24,Gen_Main,,0000,0000,0000,,Pero si no descubrimos quÃ© truco usaâ€¦
+Dialogue: 0,0:07:11.66,0:07:14.48,Gen_Main,,0000,0000,0000,,Aun asÃ­, no puedo abandonarlo.
+Dialogue: 0,0:07:14.95,0:07:15.91,Gen_Main,,0000,0000,0000,,Chicoâ€¦
+Dialogue: 0,0:07:16.08,0:07:18.24,Gen_Main,,0000,0000,0000,,Â¡No abandonarÃ© a un compaÃ±ero!
+Dialogue: 0,0:07:18.75,0:07:21.42,Gen_Main,,0000,0000,0000,,TÃº sÃ­ que sabes.
+Dialogue: 0,0:07:22.37,0:07:24.84,Gen_Main,,0000,0000,0000,,Â¡No puedes ir!
+Dialogue: 0,0:07:25.00,0:07:26.34,Gen_Main,,0000,0000,0000,,Â¡SuÃ©ltame!
+Dialogue: 0,0:07:26.50,0:07:32.26,Gen_Main,,0000,0000,0000,,Â¿No entiendes que no podemos vencerlo\Nsin saber quÃ© tÃ©cnica usa?
+Dialogue: 0,0:07:39.93,0:07:41.46,Gen_Main,,0000,0000,0000,,La sangreâ€¦
+Dialogue: 0,0:07:42.98,0:07:47.40,Gen_Main,,0000,0000,0000,,Â¡Espera! ExplÃ­cate un poco mÃ¡s.
+Dialogue: 0,0:07:48.40,0:07:51.90,Gen_Main,,0000,0000,0000,,TodavÃ­a no sÃ© mucho,\Npero quiero comprobar algo.
+Dialogue: 0,0:07:52.49,0:07:54.91,Gen_Main,,0000,0000,0000,,Seguidme, por favor.
+Dialogue: 0,0:08:12.30,0:08:15.46,Gen_Main,,0000,0000,0000,,Â¿Se lo ha llevado un niÃ±o?
+Dialogue: 0,0:08:20.10,0:08:24.23,Gen_Main,,0000,0000,0000,,Â¿QuÃ© estÃ¡ pasando?\NÂ¿QuiÃ©n era ese enemigo?
+Dialogue: 0,0:08:29.19,0:08:32.46,Gen_Main,,0000,0000,0000,,Necesito que despiertes pronto.
+Dialogue: 0,0:08:39.03,0:08:41.20,Gen_Main,,0000,0000,0000,,Â¿Me oyes?
+Dialogue: 0,0:08:42.50,0:08:47.54,Gen_Main,,0000,0000,0000,,No sÃ© quiÃ©n eres,\Npero no te pongas en peligro.
+Dialogue: 0,0:08:48.17,0:08:53.26,Gen_Main,,0000,0000,0000,,Â¿Por quÃ© no nos ahorramos\Ntrabajo a ambos?
+Dialogue: 0,0:08:53.84,0:08:58.80,Gen_Main,,0000,0000,0000,,Si me entregas a ese hombre,\Nte perdonarÃ© la vida.
+Dialogue: 0,0:08:59.41,0:09:00.75,Gen_Italics,,0000,0000,0000,,Â¿Nos ha encontrado?
+Dialogue: 0,0:09:01.60,0:09:03.35,Gen_Italics,,0000,0000,0000,,No, todavÃ­a no.
+Dialogue: 0,0:09:04.10,0:09:10.86,Gen_Main,,0000,0000,0000,,Â¿Por quÃ© morir\Npor un hombre que ni conoces?
+Dialogue: 0,0:09:12.03,0:09:14.91,Gen_Italics,,0000,0000,0000,,Â¿QuÃ© estoy haciendo?
+Dialogue: 0,0:09:15.07,0:09:17.11,Gen_Italics,,0000,0000,0000,,Si ni siquiera sÃ© quiÃ©n es.
+Dialogue: 0,0:09:20.49,0:09:24.11,Gen_Main,,0000,0000,0000,,Soy un hombre generoso.
+Dialogue: 0,0:09:24.29,0:09:28.37,Gen_Main,,0000,0000,0000,,Y no quiero hacer daÃ±o\Na un niÃ±o inocente.
+Dialogue: 0,0:09:29.84,0:09:33.06,Gen_Main,,0000,0000,0000,,PodrÃ­a encontraros usando mis ojos,
+Dialogue: 0,0:09:33.21,0:09:36.28,Gen_Main,,0000,0000,0000,,pero prefiero no malgastar energÃ­as.
+Dialogue: 0,0:09:47.81,0:09:50.15,Gen_Main,,0000,0000,0000,,QuÃ© mocoso mÃ¡s persistente.
+Dialogue: 0,0:10:07.66,0:10:08.67,Gen_Main,,0000,0000,0000,,Â¡SÃ­!
+Dialogue: 0,0:10:15.51,0:10:18.66,Gen_Main,,0000,0000,0000,,Â¿CÃ³mo demonios lo hace?
+Dialogue: 0,0:10:18.84,0:10:20.84,Gen_Main,,0000,0000,0000,,Â¿Tiene ojos en la coronilla?
+Dialogue: 0,0:10:21.35,0:10:25.60,Gen_Main,,0000,0000,0000,,AtacÃ¡is una y otra vez. Â¿No os cansÃ¡is?
+Dialogue: 0,0:10:26.14,0:10:30.57,Gen_Main,,0000,0000,0000,,Â¿CÃ³mo puedes esquivar\Ntodos nuestros ataques?
+Dialogue: 0,0:10:36.65,0:10:37.95,Gen_Italics,,0000,0000,0000,,Â¿Lo lograrÃ¡?
+Dialogue: 0,0:10:48.41,0:10:53.60,Gen_Main,,0000,0000,0000,,Ya he dicho que puedo ver el futuro.
+Dialogue: 0,0:10:58.38,0:11:01.09,Gen_Main,,0000,0000,0000,,Â¡Katon: Karyuu Endan!
+Dialogue: 0,0:10:58.38,0:11:01.09,Cart_Nota,,0000,0000,0000,,Arte Ninja de Fuego:\NBala de Fuego de DragÃ³n
+Dialogue: 0,0:11:22.24,0:11:25.75,Gen_Main,,0000,0000,0000,,AsÃ­ que habÃ©is vuelto todos.
+Dialogue: 0,0:11:25.91,0:11:28.37,Gen_Main,,0000,0000,0000,,Vuestra amistad me va a hacer llorar.
+Dialogue: 0,0:11:31.08,0:11:32.51,Gen_Main,,0000,0000,0000,,Â¡Gamayudan!
+Dialogue: 0,0:11:31.08,0:11:32.51,Cart_Nota,,0000,0000,0000,,Bala de Aceite de Sapo
+Dialogue: 0,0:12:02.03,0:12:04.36,Gen_Main,,0000,0000,0000,,Es inÃºtil que me ataques.
+Dialogue: 0,0:12:04.53,0:12:06.62,Gen_Main,,0000,0000,0000,,Â¡Doton: Doryuheki!
+Dialogue: 0,0:12:04.53,0:12:06.62,Cart_Nota,,0000,0000,0000,,Arte Ninja de Tierra: Muro de Tierra
+Dialogue: 0,0:12:22.88,0:12:26.15,Gen_Main,,0000,0000,0000,,Huir se les da de maravilla.
+Dialogue: 0,0:12:31.43,0:12:32.80,Gen_Main,,0000,0000,0000,,Â¿Lo has visto?
+Dialogue: 0,0:12:32.98,0:12:34.73,Gen_Main,,0000,0000,0000,,SÃ­.
+Dialogue: 0,0:12:37.69,0:12:43.37,Gen_Main,,0000,0000,0000,,La sangre de su ropa\Nse ha secado antes que la mÃ­a.
+Dialogue: 0,0:12:58.13,0:13:00.75,Gen_Main,,0000,0000,0000,,Es hora de acabar con esto.
+Dialogue: 0,0:13:04.38,0:13:06.97,Gen_Main,,0000,0000,0000,,TenÃ­as razÃ³n.
+Dialogue: 0,0:13:08.97,0:13:13.85,Gen_Main,,0000,0000,0000,,Pero has hecho algo muy peligroso\Npara comprobarlo.
+Dialogue: 0,0:13:14.48,0:13:19.04,Gen_Main,,0000,0000,0000,,HabrÃ­a sospechado\Nde un ataque demasiado obvio.
+Dialogue: 0,0:13:19.73,0:13:22.53,Gen_Main,,0000,0000,0000,,Sangre, Â¿eh? Entiendo.
+Dialogue: 0,0:13:22.94,0:13:25.22,Gen_Main,,0000,0000,0000,,Â¿Entiendes?
+Dialogue: 0,0:13:25.70,0:13:28.55,Gen_Main,,0000,0000,0000,,Â¿Sabes quÃ© tÃ©cnica usa?
+Dialogue: 0,0:13:29.16,0:13:33.53,Gen_Main,,0000,0000,0000,,La sangre de su ropa se ha secado\Nantes que la de la tuya.
+Dialogue: 0,0:13:33.70,0:13:35.08,Gen_Main,,0000,0000,0000,,Por lo tantoâ€¦
+Dialogue: 0,0:13:35.75,0:13:37.08,Gen_Main,,0000,0000,0000,,Â¿Por lo tanto?
+Dialogue: 0,0:13:39.54,0:13:41.59,Gen_Main,,0000,0000,0000,,Pues eso.
+Dialogue: 0,0:13:41.94,0:13:43.80,Gen_Main,,0000,0000,0000,,Â¡Eso lo hemos visto todos!
+Dialogue: 0,0:13:43.96,0:13:46.66,Gen_Main,,0000,0000,0000,,Â¿TÃº sabes quÃ© tÃ©cnica usa?
+Dialogue: 0,0:13:47.80,0:13:49.55,Gen_Main,,0000,0000,0000,,No, yo tampoco.
+Dialogue: 0,0:13:50.05,0:13:55.04,Gen_Main,,0000,0000,0000,,Â¿Es posible que Urashiki\Ndesprendiera calor?
+Dialogue: 0,0:13:55.18,0:13:58.60,Gen_Main,,0000,0000,0000,,No, no habÃ­a signos de eso.
+Dialogue: 0,0:13:59.06,0:14:02.77,Gen_Main,,0000,0000,0000,,Â¿Y que usara alguna tÃ©cnica Fuuton?
+Dialogue: 0,0:14:02.94,0:14:04.57,Gen_Main,,0000,0000,0000,,Tampoco.
+Dialogue: 0,0:14:04.73,0:14:09.13,Gen_Main,,0000,0000,0000,,Â¿QuÃ©? Explicadlo\Npara que yo tambiÃ©n lo entienda.
+Dialogue: 0,0:14:09.66,0:14:14.44,Gen_Main,,0000,0000,0000,,Se me ocurren tres motivos\Npor los que puede secarse la sangre.
+Dialogue: 0,0:14:14.62,0:14:17.57,Gen_Main,,0000,0000,0000,,Que Ã©l mismo desprenda mÃ¡s calor,
+Dialogue: 0,0:14:17.75,0:14:20.86,Gen_Main,,0000,0000,0000,,que recibiera mÃ¡s viento
+Dialogue: 0,0:14:21.00,0:14:24.30,Gen_Main,,0000,0000,0000,,o que para Ã©l
+Dialogue: 0,0:14:24.77,0:14:28.71,Gen_Main,,0000,0000,0000,,pasara mÃ¡s tiempo que para nosotros.
+Dialogue: 0,0:14:28.88,0:14:30.44,Gen_Main,,0000,0000,0000,,Â¿MÃ¡s tiempo?
+Dialogue: 0,0:14:30.59,0:14:31.93,Gen_Main,,0000,0000,0000,,Â¿QuÃ© quieres decir?
+Dialogue: 0,0:14:32.43,0:14:39.22,Gen_Main,,0000,0000,0000,,Me extraÃ±Ã³ que dijera\Nque es capaz de ver el futuro.
+Dialogue: 0,0:14:39.77,0:14:44.93,Gen_Main,,0000,0000,0000,,No me lo creo,\Npero tal vez sea parcialmente cierto.
+Dialogue: 0,0:14:45.11,0:14:46.40,Gen_Main,,0000,0000,0000,,Â¿Parcialmente?
+Dialogue: 0,0:14:46.90,0:14:49.48,Gen_Main,,0000,0000,0000,,No es que prevea el futuro,
+Dialogue: 0,0:14:50.07,0:14:56.37,Gen_Main,,0000,0000,0000,,sino que vuelve al pasado\NdespuÃ©s de ver el futuro.
+Dialogue: 0,0:14:56.83,0:14:59.80,Gen_Main,,0000,0000,0000,,Â¿Que vuelve? Entoncesâ€¦
+Dialogue: 0,0:15:00.33,0:15:04.93,Gen_Main,,0000,0000,0000,,Es posible que pueda\Nvolver atrÃ¡s en el tiempo.
+Dialogue: 0,0:15:05.88,0:15:10.55,Gen_Main,,0000,0000,0000,,Â¿Puede hacer algo mÃ¡s\Naparte de moverse por el espacio-tiempo?
+Dialogue: 0,0:15:10.72,0:15:17.37,Gen_Main,,0000,0000,0000,,Eso explicarÃ­a\Ntodas las cosas raras que hace.
+Dialogue: 0,0:15:25.36,0:15:27.48,Gen_Main,,0000,0000,0000,,Los he encontrado.
+Dialogue: 0,0:15:31.53,0:15:33.20,Gen_Main,,0000,0000,0000,,No escaparÃ©is.
+Dialogue: 0,0:15:33.37,0:15:34.45,Gen_Main,,0000,0000,0000,,Â¡Cuidado!
+Dialogue: 0,0:15:34.62,0:15:37.49,Gen_Main,,0000,0000,0000,,Si puede rebobinar el tiempo,\Nes peligroso.
+Dialogue: 0,0:15:43.42,0:15:45.91,Gen_Main,,0000,0000,0000,,Â¿Ya os habÃ©is dado cuenta?
+Dialogue: 0,0:15:46.09,0:15:49.48,Gen_Main,,0000,0000,0000,,AsÃ­ es. El tiempo estÃ¡ de mi lado.
+Dialogue: 0,0:15:50.26,0:15:54.97,Gen_Main,,0000,0000,0000,,HarÃ© que dejÃ©is de respirar\Nde una vez por todas.
+Dialogue: 0,0:16:02.23,0:16:05.77,Gen_Italics,,0000,0000,0000,,Ese mocoso no deja de moverse.
+Dialogue: 0,0:16:05.94,0:16:09.23,Gen_Italics,,0000,0000,0000,,Pero sÃ© lo que vas a hacer.
+Dialogue: 0,0:16:11.78,0:16:14.64,Gen_Main,,0000,0000,0000,,Lo que vivÃ­s vosotros en segundos
+Dialogue: 0,0:16:14.78,0:16:20.51,Gen_Main,,0000,0000,0000,,yo puedo revivirlo decenas de veces.
+Dialogue: 0,0:16:20.95,0:16:24.77,Gen_Main,,0000,0000,0000,,Y asÃ­ elegir mi mejor baza.
+Dialogue: 0,0:16:28.77,0:16:31.80,Gen_Main,,0000,0000,0000,,Generalmente se usa para defenderse.
+Dialogue: 0,0:16:31.97,0:16:38.01,Gen_Main,,0000,0000,0000,,Pero con gente tan torpe como vosotros\Npuedo usar este poder para atacar.
+Dialogue: 0,0:16:38.47,0:16:39.68,Gen_Main,,0000,0000,0000,,Desgraciadoâ€¦
+Dialogue: 0,0:16:39.85,0:16:41.57,Gen_Main,,0000,0000,0000,,EnfÃ¡date.
+Dialogue: 0,0:16:41.73,0:16:44.19,Gen_Main,,0000,0000,0000,,AsÃ­ me facilitarÃ¡s el trabajo.
+Dialogue: 0,0:16:44.73,0:16:48.82,Gen_Main,,0000,0000,0000,,Esta vez no fallarÃ©, Naruto Uzumaki.
+Dialogue: 0,0:17:12.76,0:17:15.59,Gen_Main,,0000,0000,0000,,Ninpou: Gamakuchishibari.
+Dialogue: 0,0:17:12.76,0:17:15.59,Cart_Nota,,0000,0000,0000,,Arte Ninja: Atadura de Boca de Sapo
+Dialogue: 0,0:17:16.09,0:17:20.26,Gen_Main,,0000,0000,0000,,Estamos dentro del Gran Sapo\Ndel monte Myoboku.
+Dialogue: 0,0:17:22.47,0:17:26.77,Gen_Main,,0000,0000,0000,,Conque estamos en un estÃ³mago.
+Dialogue: 0,0:17:27.40,0:17:30.07,Gen_Main,,0000,0000,0000,,Interesante elecciÃ³n.
+Dialogue: 0,0:17:30.48,0:17:34.71,Gen_Main,,0000,0000,0000,,Aunque puedas rebobinar el tiempo,\Nsolo serÃ¡ unos segundos.
+Dialogue: 0,0:17:34.94,0:17:38.91,Gen_Main,,0000,0000,0000,,Si no, ya estarÃ­amos muertos.
+Dialogue: 0,0:17:39.07,0:17:40.24,Gen_Main,,0000,0000,0000,,Â¿Y quÃ©?
+Dialogue: 0,0:17:40.41,0:17:46.37,Gen_Main,,0000,0000,0000,,Digo que ni siquiera tÃº podrÃ¡s\Nvolver fuera de este estÃ³mago.
+Dialogue: 0,0:17:47.87,0:17:50.73,Gen_Main,,0000,0000,0000,,Â¿Pretendes disolverme\Ncon Ã¡cido estomacal?
+Dialogue: 0,0:17:51.29,0:17:56.06,Gen_Main,,0000,0000,0000,,Si de verdad pensÃ¡is que me tenÃ©is\Nacorralado, os compadezco.
+Dialogue: 0,0:17:56.22,0:17:59.22,Gen_Main,,0000,0000,0000,,Vosotros no gastÃ©is mucha energÃ­a.
+Dialogue: 0,0:18:34.55,0:18:36.17,Gen_Main,,0000,0000,0000,,Ya os lo dije.
+Dialogue: 0,0:18:36.34,0:18:41.93,Gen_Main,,0000,0000,0000,,Puedo repetir un momento decenas\Nde veces y elegir mi mejor baza.
+Dialogue: 0,0:18:42.10,0:18:45.37,Gen_Main,,0000,0000,0000,,Todo mientras vosotros pestaÃ±eÃ¡is.
+Dialogue: 0,0:18:46.18,0:18:51.22,Gen_Main,,0000,0000,0000,,Primero eliminarÃ© al que mÃ¡s molesta\Npara salir de aquÃ­.
+Dialogue: 0,0:19:32.40,0:19:35.11,Gen_Main,,0000,0000,0000,,QuÃ© extraÃ±o.
+Dialogue: 0,0:19:36.61,0:19:38.57,Gen_Main,,0000,0000,0000,,Â¿QuÃ© sucede?
+Dialogue: 0,0:19:39.40,0:19:40.84,Gen_Main,,0000,0000,0000,,Has picado.
+Dialogue: 0,0:19:41.28,0:19:43.82,Gen_Main,,0000,0000,0000,,Estamos dentro de un estÃ³mago.
+Dialogue: 0,0:19:44.82,0:19:49.17,Gen_Main,,0000,0000,0000,,Y aquÃ­ el aire\NestÃ¡ plagado de veneno Ã¡cido.
+Dialogue: 0,0:19:49.33,0:19:53.20,Gen_Main,,0000,0000,0000,,Es incoloro e inodoro,\NasÃ­ que no podÃ­as detectarlo.
+Dialogue: 0,0:19:53.37,0:19:55.88,Gen_Main,,0000,0000,0000,,Puedes aguantarlo un rato,
+Dialogue: 0,0:19:56.04,0:20:00.31,Gen_Main,,0000,0000,0000,,pero en diez minutos\Nempieza a paralizarte el cuerpo.
+Dialogue: 0,0:20:01.38,0:20:02.34,Gen_Main,,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:20:02.84,0:20:08.35,Gen_Main,,0000,0000,0000,,Has revivido varias veces\Nlos mismos momentos, Â¿no?
+Dialogue: 0,0:20:08.51,0:20:14.35,Gen_Main,,0000,0000,0000,,Por eso el veneno te ha afectado\NmÃ¡s rÃ¡pido que a nosotros.
+Dialogue: 0,0:20:16.61,0:20:20.37,Gen_Main,,0000,0000,0000,,Sois peores que los simiosâ€¦
+Dialogue: 0,0:20:21.53,0:20:26.28,Gen_Main,,0000,0000,0000,,pero Â¡os creÃ©is muy astutos!
+Dialogue: 0,0:20:27.20,0:20:28.08,Gen_Main,,0000,0000,0000,,Â¡Ahora!
+Dialogue: 0,0:20:28.33,0:20:29.20,Gen_Main,,0000,0000,0000,,Â¡SÃ­!
+Dialogue: 0,0:20:56.27,0:20:57.73,Gen_Main,,0000,0000,0000,,Te lo merecÃ­as.
+Dialogue: 0,0:21:02.07,0:21:04.35,Gen_Main,,0000,0000,0000,,Â¿HabÃ©is visto eso?
+Dialogue: 0,0:21:04.53,0:21:08.40,Gen_Main,,0000,0000,0000,,Naruto es increÃ­ble.
+Dialogue: 0,0:21:08.57,0:21:11.33,Gen_Main,,0000,0000,0000,,Me tiemblan las piernas.
+Dialogue: 0,0:21:12.66,0:21:14.06,Gen_Main,,0000,0000,0000,,Lo hemos logrado.
+Dialogue: 0,0:21:14.84,0:21:15.62,Gen_Main,,0000,0000,0000,,SÃ­.
+Dialogue: 0,0:21:27.22,0:21:29.60,Gen_Main,,0000,0000,0000,,Esa tÃ©cnica era impresionante.
+Dialogue: 0,0:21:29.76,0:21:33.93,Gen_Main,,0000,0000,0000,,Supongo que la llamarÃ© Naruto Stream.
+Dialogue: 0,0:21:34.10,0:21:38.69,Gen_Main,,0000,0000,0000,,Â¿EstriquÃ©?\NNo sÃ© quÃ© significa, pero suena bien.
+Dialogue: 0,0:21:39.40,0:21:40.71,Gen_Main,,0000,0000,0000,,Â¿Verdad?
+Dialogue: 0,0:23:23.96,0:23:55.93,Cart_Avance,,0000,0000,0000,,PrÃ³ximo episodio
+Dialogue: 0,0:23:26.71,0:23:28.28,Gen_Main,,0000,0000,0000,,Â¡Se acabÃ³, Urashiki!
+Dialogue: 0,0:23:28.42,0:23:29.97,Gen_Main,,0000,0000,0000,,Â¿Que se acabÃ³?
+Dialogue: 0,0:23:30.13,0:23:33.51,Gen_Main,,0000,0000,0000,,SerÃ¡ mejor que no me subestimes.
+Dialogue: 0,0:23:33.81,0:23:36.01,Gen_Main,,0000,0000,0000,,Â¿No has tenido suficiente?
+Dialogue: 0,0:23:36.18,0:23:37.64,Gen_Main,,0000,0000,0000,,No habla por hablar.
+Dialogue: 0,0:23:37.81,0:23:40.31,Gen_Main,,0000,0000,0000,,AÃºn esconde algo.
+Dialogue: 0,0:23:40.56,0:23:43.51,Gen_Main,,0000,0000,0000,,PrÃ³ximo episodio\Nde {\i1}Boruto - Naruto Next Generations{\i0}:
+Dialogue: 0,0:23:43.69,0:23:45.52,Gen_Main,,0000,0000,0000,,"Batalla final contra Urashiki".
+Dialogue: 0,0:23:43.88,0:23:55.93,Cart_Next,,0000,0000,0000,,Batalla final contra Urashiki
+Dialogue: 0,0:23:48.59,0:23:51.35,Gen_Main,,0000,0000,0000,,Â¡Os matarÃ© a todos!
