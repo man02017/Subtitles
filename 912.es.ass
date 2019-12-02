@@ -1,5 +1,5 @@
 [Script Info]
-Title: EspaÃ±ol
+Title: Español
 Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
 Original Translation: 
 Original Editing: 
@@ -31,9 +31,9 @@ Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0
 Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
 
 [Events]
-Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:11.42,0:00:15.61,Gen_Italics_top,,0000,0000,0000,,One dream one wish
-Dialogue: 0,0:00:11.42,0:00:15.61,Gen_Main,,0000,0000,0000,,Un sueÃ±o. Un deseo.
+Dialogue: 0,0:00:11.42,0:00:15.61,Gen_Main,,0000,0000,0000,,Un sueño. Un deseo.
 Dialogue: 0,0:00:15.96,0:00:20.62,Gen_Italics_top,,0000,0000,0000,,kanaetai nara over the top
 Dialogue: 0,0:00:15.96,0:00:20.62,Gen_Main,,0000,0000,0000,,Si quieres cumplirlo, sube a la cima.
 Dialogue: 0,0:00:36.62,0:00:39.81,Gen_Italics_top,,0000,0000,0000,,mitakoto mo nai sekai mezashi
@@ -43,232 +43,232 @@ Dialogue: 0,0:00:41.12,0:00:45.06,Gen_Main,,0000,0000,0000,,Soportando fuertes v
 Dialogue: 0,0:00:45.25,0:00:49.92,Gen_Italics_top,,0000,0000,0000,,tsukisusumanakya dame sa\Nichibannori shitain da
 Dialogue: 0,0:00:45.25,0:00:49.92,Gen_Main,,0000,0000,0000,,Debo seguir\Nporque quiero llegar primero.
 Dialogue: 0,0:00:50.10,0:00:56.18,Gen_Italics_top,,0000,0000,0000,,shinpai toka atomawashi\Ndouse shoubu ichika bachika
-Dialogue: 0,0:00:50.10,0:00:56.18,Gen_Main,,0000,0000,0000,,PreocÃºpate despuÃ©s\Nporque solo podemos hundirnos o nadar.
+Dialogue: 0,0:00:50.10,0:00:56.18,Gen_Main,,0000,0000,0000,,Preocúpate después\Nporque solo podemos hundirnos o nadar.
 Dialogue: 0,0:00:58.32,0:01:02.37,Gen_Italics_top,,0000,0000,0000,,aite ga dekaku mietara
 Dialogue: 0,0:00:58.32,0:01:02.37,Gen_Main,,0000,0000,0000,,Que tus oponentes parezcan temibles
 Dialogue: 0,0:01:02.99,0:01:07.92,Gen_Italics_top,,0000,0000,0000,,kokoro ga chijinderu shouko
-Dialogue: 0,0:01:02.99,0:01:07.92,Gen_Main,,0000,0000,0000,,es una seÃ±al\Nde que tu corazÃ³n se encoge.
+Dialogue: 0,0:01:02.99,0:01:07.92,Gen_Main,,0000,0000,0000,,es una señal\Nde que tu corazón se encoge.
 Dialogue: 0,0:01:08.29,0:01:10.42,Gen_Italics_top,,0000,0000,0000,,nigeru nante choice wa nai
-Dialogue: 0,0:01:08.29,0:01:10.42,Gen_Main,,0000,0000,0000,,Huir no es una opciÃ³n.
+Dialogue: 0,0:01:08.29,0:01:10.42,Gen_Main,,0000,0000,0000,,Huir no es una opción.
 Dialogue: 0,0:01:10.60,0:01:12.80,Gen_Italics_top,,0000,0000,0000,,ippo soba he chikazukunda
-Dialogue: 0,0:01:10.60,0:01:12.80,Gen_Main,,0000,0000,0000,,Da un paso mÃ¡s.
+Dialogue: 0,0:01:10.60,0:01:12.80,Gen_Main,,0000,0000,0000,,Da un paso más.
 Dialogue: 0,0:01:12.92,0:01:15.17,Gen_Italics_top,,0000,0000,0000,,namaikitte homekotoba?
 Dialogue: 0,0:01:12.92,0:01:15.17,Gen_Main,,0000,0000,0000,,Que te llamen insolente es un cumplido.
 Dialogue: 0,0:01:15.30,0:01:19.32,Gen_Italics_top,,0000,0000,0000,,kitsui toki hodo warattoke
-Dialogue: 0,0:01:15.30,0:01:19.32,Gen_Main,,0000,0000,0000,,Cuando haya problemas\Nes cuando debes reÃ­r.
+Dialogue: 0,0:01:15.30,0:01:19.32,Gen_Main,,0000,0000,0000,,Cuando haya problemas\Nes cuando debes reír.
 Dialogue: 0,0:01:20.87,0:01:25.25,Gen_Italics_top,,0000,0000,0000,,atarashii ashita\Nsagashi ni ikitai no nara
-Dialogue: 0,0:01:20.87,0:01:25.25,Gen_Main,,0000,0000,0000,,Si quieres ver un nuevo maÃ±ana,
+Dialogue: 0,0:01:20.87,0:01:25.25,Gen_Main,,0000,0000,0000,,Si quieres ver un nuevo mañana,
 Dialogue: 0,0:01:25.50,0:01:30.61,Gen_Italics_top,,0000,0000,0000,,tobikkiri no jishin wo migaite
-Dialogue: 0,0:01:25.50,0:01:30.61,Gen_Main,,0000,0000,0000,,mejora tu Ãºnica confianza.
+Dialogue: 0,0:01:25.50,0:01:30.61,Gen_Main,,0000,0000,0000,,mejora tu única confianza.
 Dialogue: 0,0:01:30.83,0:01:35.15,Gen_Italics_top,,0000,0000,0000,,tabi wo shita ashiato ga
 Dialogue: 0,0:01:30.83,0:01:35.15,Gen_Main,,0000,0000,0000,,Hasta tus pasos,
 Dialogue: 0,0:01:35.38,0:01:38.61,Gen_Italics_top,,0000,0000,0000,,sou! chizu ni kawaru made
-Dialogue: 0,0:01:35.38,0:01:38.61,Gen_Main,,0000,0000,0000,,sÃ­, serÃ¡n un mapa.
+Dialogue: 0,0:01:35.38,0:01:38.61,Gen_Main,,0000,0000,0000,,sí, serán un mapa.
 Dialogue: 0,0:01:38.80,0:01:43.31,Gen_Italics_top,,0000,0000,0000,,atarashii horizon hora susundekita bun
 Dialogue: 0,0:01:38.80,0:01:43.31,Gen_Main,,0000,0000,0000,,Un nuevo horizonte,\Nmira lo lejos que has llegado.
 Dialogue: 0,0:01:43.66,0:01:48.35,Gen_Italics_top,,0000,0000,0000,,mabushisa to nanido ga joushou
-Dialogue: 0,0:01:43.66,0:01:48.35,Gen_Main,,0000,0000,0000,,Es mÃ¡s brillante\Ny el nivel de dificultad aumenta.
+Dialogue: 0,0:01:43.66,0:01:48.35,Gen_Main,,0000,0000,0000,,Es más brillante\Ny el nivel de dificultad aumenta.
 Dialogue: 0,0:01:48.73,0:01:53.07,Gen_Italics_top,,0000,0000,0000,,yumeutsutsu de okose hurricane
-Dialogue: 0,0:01:48.73,0:01:53.07,Gen_Main,,0000,0000,0000,,Vive en tu sueÃ±o y provoca un huracÃ¡n.
+Dialogue: 0,0:01:48.73,0:01:53.07,Gen_Main,,0000,0000,0000,,Vive en tu sueño y provoca un huracán.
 Dialogue: 0,0:01:53.44,0:01:57.90,Gen_Italics_top,,0000,0000,0000,,saa! chaato kakimidase
-Dialogue: 0,0:01:53.44,0:01:57.90,Gen_Main,,0000,0000,0000,,Â¡Vamos! Aumenta tu posiciÃ³n.
+Dialogue: 0,0:01:53.44,0:01:57.90,Gen_Main,,0000,0000,0000,,¡Vamos! Aumenta tu posición.
 Dialogue: 0,0:01:58.09,0:02:02.20,Gen_Italics_top,,0000,0000,0000,,One dream one wish
-Dialogue: 0,0:01:58.09,0:02:02.20,Gen_Main,,0000,0000,0000,,Un sueÃ±o. Un deseo.
+Dialogue: 0,0:01:58.09,0:02:02.20,Gen_Main,,0000,0000,0000,,Un sueño. Un deseo.
 Dialogue: 0,0:02:02.30,0:02:06.71,Gen_Italics_top,,0000,0000,0000,,yume wa nigenai zenbu knock out
-Dialogue: 0,0:02:02.30,0:02:06.71,Gen_Main,,0000,0000,0000,,Los sueÃ±os no huyen. DerrÃ­balo todo.
+Dialogue: 0,0:02:02.30,0:02:06.71,Gen_Main,,0000,0000,0000,,Los sueños no huyen. Derríbalo todo.
 Dialogue: 0,0:02:07.08,0:02:09.08,Gen_Italics_top,,0000,0000,0000,,Over the top
 Dialogue: 0,0:02:07.08,0:02:09.08,Gen_Main,,0000,0000,0000,,Sube a la cima.
-Dialogue: 0,0:02:12.90,0:02:16.69,Gen_Italics,,0000,0000,0000,,Luffy le robÃ³ un barco\Nlleno de comida a Speed
-Dialogue: 0,0:02:17.11,0:02:18.99,Gen_Italics,,0000,0000,0000,,y se lo llevÃ³ a Okobore.
-Dialogue: 0,0:02:24.20,0:02:27.12,Gen_Main,,0000,0000,0000,,Â¡Siento la tardanza!
-Dialogue: 0,0:02:37.46,0:02:40.26,Gen_Main,,0000,0000,0000,,Â¡Es agua!
-Dialogue: 0,0:02:40.38,0:02:43.47,Gen_Main,,0000,0000,0000,,Â¡No es venenosa! Â¡SÃ­rvanse!
-Dialogue: 0,0:02:49.06,0:02:52.61,Gen_Main,,0000,0000,0000,,HacÃ­a aÃ±os que no tenÃ­amos tanta agua.
-Dialogue: 0,0:02:52.77,0:02:55.27,Gen_Main,,0000,0000,0000,,Â¡Gracias a Dios! Â¡Gracias a Dios!
-Dialogue: 0,0:02:58.40,0:03:01.70,Gen_Main,,0000,0000,0000,,Todos estÃ¡n felices.
-Dialogue: 0,0:03:04.87,0:03:09.29,Gen_Main,,0000,0000,0000,,Â¡Soy Luffytaro!\NÂ¡DÃ­ganselo a quien venga!
-Dialogue: 0,0:03:09.75,0:03:12.83,Gen_Italics,,0000,0000,0000,,DespuÃ©s, todos se reÃºnen\Nen las ruinas del Castillo Oden,
+Dialogue: 0,0:02:12.90,0:02:16.69,Gen_Italics,,0000,0000,0000,,Luffy le robó un barco\Nlleno de comida a Speed
+Dialogue: 0,0:02:17.11,0:02:18.99,Gen_Italics,,0000,0000,0000,,y se lo llevó a Okobore.
+Dialogue: 0,0:02:24.20,0:02:27.12,Gen_Main,,0000,0000,0000,,¡Siento la tardanza!
+Dialogue: 0,0:02:37.46,0:02:40.26,Gen_Main,,0000,0000,0000,,¡Es agua!
+Dialogue: 0,0:02:40.38,0:02:43.47,Gen_Main,,0000,0000,0000,,¡No es venenosa! ¡Sírvanse!
+Dialogue: 0,0:02:49.06,0:02:52.61,Gen_Main,,0000,0000,0000,,Hacía años que no teníamos tanta agua.
+Dialogue: 0,0:02:52.77,0:02:55.27,Gen_Main,,0000,0000,0000,,¡Gracias a Dios! ¡Gracias a Dios!
+Dialogue: 0,0:02:58.40,0:03:01.70,Gen_Main,,0000,0000,0000,,Todos están felices.
+Dialogue: 0,0:03:04.87,0:03:09.29,Gen_Main,,0000,0000,0000,,¡Soy Luffytaro!\N¡Díganselo a quien venga!
+Dialogue: 0,0:03:09.75,0:03:12.83,Gen_Italics,,0000,0000,0000,,Después, todos se reúnen\Nen las ruinas del Castillo Oden,
 Dialogue: 0,0:03:13.09,0:03:17.13,Gen_Italics,,0000,0000,0000,,donde Kin'emon les habla de su plan.
-Dialogue: 0,0:03:17.42,0:03:19.78,Gen_Main,,0000,0000,0000,,Â¡Nuestros objetivos son\Nel Emperador Kaido
+Dialogue: 0,0:03:17.42,0:03:19.78,Gen_Main,,0000,0000,0000,,¡Nuestros objetivos son\Nel Emperador Kaido
 Dialogue: 0,0:03:20.29,0:03:23.09,Gen_Main,,0000,0000,0000,,y el odiado shogun Kurozumi Orochi!
-Dialogue: 0,0:03:23.38,0:03:27.56,Gen_Main,,0000,0000,0000,,Â¡La fecha serÃ¡ en dos semanas,\Nen la noche del festival!
-Dialogue: 0,0:03:28.68,0:03:35.23,Gen_Main,,0000,0000,0000,,Â¡Haremos un asalto en Onigashima,\Ndonde vive Kaido!
-Dialogue: 0,0:03:35.36,0:03:44.20,Cart_A_Ari,,0000,0000,0000,,El mÃ¡s fuerte\NÂ¡Shutenmaru, de la Brigada de Ladrones!
-Dialogue: 0,0:03:38.81,0:03:42.80,Gen_Main,,0000,0000,0000,,El mÃ¡s fuerte.\NÂ¡Shutenmaru, de la Brigada de Ladrones!
-Dialogue: 0,0:04:19.98,0:04:21.99,Gen_Main,,0000,0000,0000,,Â¡Hola!
-Dialogue: 0,0:04:22.41,0:04:24.86,Gen_Main,,0000,0000,0000,,Â¡CuÃ¡nto tiempo!
-Dialogue: 0,0:04:26.20,0:04:29.58,Gen_Main,,0000,0000,0000,,Lo siento, Â¿nos hemos visto antes?
-Dialogue: 0,0:04:29.74,0:04:32.20,Gen_Main,,0000,0000,0000,,Â¿QuÃ©? Â¡No puede ser!
-Dialogue: 0,0:04:32.50,0:04:35.96,Gen_Main,,0000,0000,0000,,Â¡No te has olvidado de mÃ­, Â¿verdad?!
-Dialogue: 0,0:04:36.13,0:04:39.46,Gen_Main,,0000,0000,0000,,Â¡JugÃ¡bamos todos los dÃ­as\Ncuando Ã©ramos niÃ±os!
-Dialogue: 0,0:04:39.80,0:04:43.59,Gen_Main,,0000,0000,0000,,Ah, sÃ­. Ya recuerdo.
-Dialogue: 0,0:04:43.76,0:04:46.43,Gen_Main,,0000,0000,0000,,CuÃ¡nto tiempo.
-Dialogue: 0,0:04:46.72,0:04:52.10,Gen_Main,,0000,0000,0000,,Â¡SÃ­, debimos encontrarnos por una razÃ³n!\NÂ¡Vayamos a beber luego!
-Dialogue: 0,0:04:52.39,0:04:53.79,Gen_Main,,0000,0000,0000,,SÃ­.
-Dialogue: 0,0:04:54.00,0:04:54.93,Gen_Main,,0000,0000,0000,,Â¡AdiÃ³s!
-Dialogue: 0,0:04:59.48,0:05:01.40,Gen_Main,,0000,0000,0000,,Â¿QuiÃ©n era ese?
-Dialogue: 0,0:05:03.28,0:05:04.61,Gen_Main,,0000,0000,0000,,Â¿CuÃ¡ndo me dio esto?
-Dialogue: 0,0:05:13.29,0:05:15.83,Gen_Main,,0000,0000,0000,,Esto esâ€¦
-Dialogue: 0,0:05:31.81,0:05:35.77,Gen_Main,,0000,0000,0000,,Â¿CÃ³mo va todo por allÃ­? Â¿Todo bien?
-Dialogue: 0,0:05:36.12,0:05:41.86,Gen_Main,,0000,0000,0000,,SÃ­. Si todo sale bien,\NOrochi me llamarÃ¡ pronto.
+Dialogue: 0,0:03:23.38,0:03:27.56,Gen_Main,,0000,0000,0000,,¡La fecha será en dos semanas,\Nen la noche del festival!
+Dialogue: 0,0:03:28.68,0:03:35.23,Gen_Main,,0000,0000,0000,,¡Haremos un asalto en Onigashima,\Ndonde vive Kaido!
+Dialogue: 0,0:03:35.36,0:03:44.20,Cart_A_Ari,,0000,0000,0000,,El más fuerte\N¡Shutenmaru, de la Brigada de Ladrones!
+Dialogue: 0,0:03:38.81,0:03:42.80,Gen_Main,,0000,0000,0000,,El más fuerte.\N¡Shutenmaru, de la Brigada de Ladrones!
+Dialogue: 0,0:04:19.98,0:04:21.99,Gen_Main,,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:04:22.41,0:04:24.86,Gen_Main,,0000,0000,0000,,¡Cuánto tiempo!
+Dialogue: 0,0:04:26.20,0:04:29.58,Gen_Main,,0000,0000,0000,,Lo siento, ¿nos hemos visto antes?
+Dialogue: 0,0:04:29.74,0:04:32.20,Gen_Main,,0000,0000,0000,,¿Qué? ¡No puede ser!
+Dialogue: 0,0:04:32.50,0:04:35.96,Gen_Main,,0000,0000,0000,,¡No te has olvidado de mí, ¿verdad?!
+Dialogue: 0,0:04:36.13,0:04:39.46,Gen_Main,,0000,0000,0000,,¡Jugábamos todos los días\Ncuando éramos niños!
+Dialogue: 0,0:04:39.80,0:04:43.59,Gen_Main,,0000,0000,0000,,Ah, sí. Ya recuerdo.
+Dialogue: 0,0:04:43.76,0:04:46.43,Gen_Main,,0000,0000,0000,,Cuánto tiempo.
+Dialogue: 0,0:04:46.72,0:04:52.10,Gen_Main,,0000,0000,0000,,¡Sí, debimos encontrarnos por una razón!\N¡Vayamos a beber luego!
+Dialogue: 0,0:04:52.39,0:04:53.79,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:04:54.00,0:04:54.93,Gen_Main,,0000,0000,0000,,¡Adiós!
+Dialogue: 0,0:04:59.48,0:05:01.40,Gen_Main,,0000,0000,0000,,¿Quién era ese?
+Dialogue: 0,0:05:03.28,0:05:04.61,Gen_Main,,0000,0000,0000,,¿Cuándo me dio esto?
+Dialogue: 0,0:05:13.29,0:05:15.83,Gen_Main,,0000,0000,0000,,Esto es…
+Dialogue: 0,0:05:31.81,0:05:35.77,Gen_Main,,0000,0000,0000,,¿Cómo va todo por allí? ¿Todo bien?
+Dialogue: 0,0:05:36.12,0:05:41.86,Gen_Main,,0000,0000,0000,,Sí. Si todo sale bien,\NOrochi me llamará pronto.
 Dialogue: 0,0:05:42.10,0:05:44.44,Gen_Main,,0000,0000,0000,,Eso es bueno.
-Dialogue: 0,0:05:44.73,0:05:49.32,Gen_Main,,0000,0000,0000,,Franosuke, Â¿conseguiste\Nlos planos de la mansiÃ³n de Kaido?
-Dialogue: 0,0:05:49.62,0:05:51.08,Gen_Main,,0000,0000,0000,,No, aÃºn no.
+Dialogue: 0,0:05:44.73,0:05:49.32,Gen_Main,,0000,0000,0000,,Franosuke, ¿conseguiste\Nlos planos de la mansión de Kaido?
+Dialogue: 0,0:05:49.62,0:05:51.08,Gen_Main,,0000,0000,0000,,No, aún no.
 Dialogue: 0,0:05:51.62,0:05:54.93,Gen_Main,,0000,0000,0000,,El jefe carpintero es muy complicado.
-Dialogue: 0,0:05:56.00,0:05:57.41,Gen_Main,,0000,0000,0000,,Â¿QuÃ© pasa contigo?
-Dialogue: 0,0:05:58.42,0:06:02.50,Gen_Main,,0000,0000,0000,,Hoy le entreguÃ© un volante\Na un tipo con la marca de la luna.
-Dialogue: 0,0:06:02.92,0:06:06.42,Gen_Main,,0000,0000,0000,,Mientras, conseguÃ­ buenas noticias.
-Dialogue: 0,0:06:06.59,0:06:07.66,Gen_Main,,0000,0000,0000,,Â¿Buenasâ€¦
-Dialogue: 0,0:06:08.17,0:06:09.72,Gen_Main,,0000,0000,0000,,â€¦noticias?
-Dialogue: 0,0:06:09.96,0:06:13.97,Gen_Main,,0000,0000,0000,,El nombre del que dicen que es\Nel hombre vivo mÃ¡s fuerte del mundo.
-Dialogue: 0,0:06:15.44,0:06:16.93,Gen_Main,,0000,0000,0000,,Â¿QuiÃ©n es?
+Dialogue: 0,0:05:56.00,0:05:57.41,Gen_Main,,0000,0000,0000,,¿Qué pasa contigo?
+Dialogue: 0,0:05:58.42,0:06:02.50,Gen_Main,,0000,0000,0000,,Hoy le entregué un volante\Na un tipo con la marca de la luna.
+Dialogue: 0,0:06:02.92,0:06:06.42,Gen_Main,,0000,0000,0000,,Mientras, conseguí buenas noticias.
+Dialogue: 0,0:06:06.59,0:06:07.66,Gen_Main,,0000,0000,0000,,¿Buenas…
+Dialogue: 0,0:06:08.17,0:06:09.72,Gen_Main,,0000,0000,0000,,…noticias?
+Dialogue: 0,0:06:09.96,0:06:13.97,Gen_Main,,0000,0000,0000,,El nombre del que dicen que es\Nel hombre vivo más fuerte del mundo.
+Dialogue: 0,0:06:15.44,0:06:16.93,Gen_Main,,0000,0000,0000,,¿Quién es?
 Dialogue: 0,0:06:17.60,0:06:20.44,Gen_Main,,0000,0000,0000,,El jefe de la Brigada de Ladrones\NAtamayama.
-Dialogue: 0,0:06:21.06,0:06:22.40,Gen_Main,,0000,0000,0000,,Â¡Shutenmaru!
+Dialogue: 0,0:06:21.06,0:06:22.40,Gen_Main,,0000,0000,0000,,¡Shutenmaru!
 Dialogue: 0,0:06:41.73,0:06:45.30,Gen_Main,,0000,0000,0000,,Oye, Kin'emon, entiendo el plan.
 Dialogue: 0,0:06:45.75,0:06:48.36,Gen_Main,,0000,0000,0000,,Pero hay algo que no entiendo.
-Dialogue: 0,0:06:49.34,0:06:53.55,Gen_Main,,0000,0000,0000,,Â¡SÃ­! Â¡No es fÃ¡cil de entender
+Dialogue: 0,0:06:49.34,0:06:53.55,Gen_Main,,0000,0000,0000,,¡Sí! ¡No es fácil de entender
 Dialogue: 0,0:06:53.68,0:06:56.93,Gen_Main,,0000,0000,0000,,el atractivo de una mujer madura!
-Dialogue: 0,0:06:57.81,0:07:00.06,Gen_Main,,0000,0000,0000,,El atractivo de una mujer maduraâ€¦
-Dialogue: 0,0:07:00.23,0:07:04.19,Gen_Main,,0000,0000,0000,,SÃ­â€¦ Tal vez sea demasiado joven\Npara entenderlo.
-Dialogue: 0,0:07:04.48,0:07:08.44,Gen_Main,,0000,0000,0000,,Â¡Escucha, muchacho!\NUn dÃ­a lo entenderÃ¡s.
-Dialogue: 0,0:07:09.45,0:07:13.62,Gen_Main,,0000,0000,0000,,Como sea, volvamos a lo que hablÃ¡bamos.
-Dialogue: 0,0:07:14.03,0:07:18.54,Gen_Main,,0000,0000,0000,,Dijiste que Oden venciÃ³ a Ashura Doji\Nhace 20 aÃ±os.
-Dialogue: 0,0:07:19.75,0:07:26.00,Gen_Main,,0000,0000,0000,,Entonces, Â¿por quÃ© estÃ¡\Nentre los aliados que buscamos?
-Dialogue: 0,0:07:27.30,0:07:30.72,Gen_Main,,0000,0000,0000,,Hay tres samurÃ¡is\Na quienes deben buscar.
-Dialogue: 0,0:07:30.92,0:07:33.80,Gen_Main,,0000,0000,0000,,Si los encontramos, nos ayudarÃ¡n mucho.
+Dialogue: 0,0:06:57.81,0:07:00.06,Gen_Main,,0000,0000,0000,,El atractivo de una mujer madura…
+Dialogue: 0,0:07:00.23,0:07:04.19,Gen_Main,,0000,0000,0000,,Sí… Tal vez sea demasiado joven\Npara entenderlo.
+Dialogue: 0,0:07:04.48,0:07:08.44,Gen_Main,,0000,0000,0000,,¡Escucha, muchacho!\NUn día lo entenderás.
+Dialogue: 0,0:07:09.45,0:07:13.62,Gen_Main,,0000,0000,0000,,Como sea, volvamos a lo que hablábamos.
+Dialogue: 0,0:07:14.03,0:07:18.54,Gen_Main,,0000,0000,0000,,Dijiste que Oden venció a Ashura Doji\Nhace 20 años.
+Dialogue: 0,0:07:19.75,0:07:26.00,Gen_Main,,0000,0000,0000,,Entonces, ¿por qué está\Nentre los aliados que buscamos?
+Dialogue: 0,0:07:27.30,0:07:30.72,Gen_Main,,0000,0000,0000,,Hay tres samuráis\Na quienes deben buscar.
+Dialogue: 0,0:07:30.92,0:07:33.80,Gen_Main,,0000,0000,0000,,Si los encontramos, nos ayudarán mucho.
 Dialogue: 0,0:07:34.34,0:07:38.27,Gen_Main,,0000,0000,0000,,Kawamatsu. Ashura Doji. Denjiro.
-Dialogue: 0,0:07:38.56,0:07:42.64,Gen_Main,,0000,0000,0000,,Â¡Eran samurÃ¡is que servÃ­an a Oden-sama\Nigual que nosotros!
+Dialogue: 0,0:07:38.56,0:07:42.64,Gen_Main,,0000,0000,0000,,¡Eran samuráis que servían a Oden-sama\Nigual que nosotros!
 Dialogue: 0,0:07:44.40,0:07:46.82,Gen_Main,,0000,0000,0000,,Es una buena pregunta.
 Dialogue: 0,0:07:47.44,0:07:50.80,Gen_Main,,0000,0000,0000,,Ashura Doji hizo las paces con Oden-sama
-Dialogue: 0,0:07:51.03,0:07:56.05,Gen_Main,,0000,0000,0000,,y le jurÃ³ lealtad cuando lo venciÃ³.
-Dialogue: 0,0:07:57.78,0:07:58.70,Gen_Main,,0000,0000,0000,,Peroâ€¦
-Dialogue: 0,0:07:59.12,0:08:04.00,Gen_Main,,0000,0000,0000,,OÃ­mos que se hizo lÃ­der de los Ladrones\NAtamayama llamÃ¡ndose Shutenmaru
+Dialogue: 0,0:07:51.03,0:07:56.05,Gen_Main,,0000,0000,0000,,y le juró lealtad cuando lo venció.
+Dialogue: 0,0:07:57.78,0:07:58.70,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:07:59.12,0:08:04.00,Gen_Main,,0000,0000,0000,,Oímos que se hizo líder de los Ladrones\NAtamayama llamándose Shutenmaru
 Dialogue: 0,0:08:04.17,0:08:06.92,Gen_Main,,0000,0000,0000,,y ha vuelto a hacer cosas malas.
-Dialogue: 0,0:08:08.71,0:08:11.51,Gen_Main,,0000,0000,0000,,Unos ladrones, Â¿eh?
-Dialogue: 0,0:08:12.80,0:08:13.93,Gen_Main,,0000,0000,0000,,Por ciertoâ€¦
-Dialogue: 0,0:08:14.72,0:08:17.14,Gen_Main,,0000,0000,0000,,Â¿Es fuerte?
-Dialogue: 0,0:08:17.97,0:08:23.69,Gen_Main,,0000,0000,0000,,SÃ­, se podrÃ­a decir que es\Nel samurÃ¡i mÃ¡s fuerte.
-Dialogue: 0,0:08:24.60,0:08:28.86,Gen_Main,,0000,0000,0000,,Como aliado, no hay nadie mÃ¡s confiable.
+Dialogue: 0,0:08:08.71,0:08:11.51,Gen_Main,,0000,0000,0000,,Unos ladrones, ¿eh?
+Dialogue: 0,0:08:12.80,0:08:13.93,Gen_Main,,0000,0000,0000,,Por cierto…
+Dialogue: 0,0:08:14.72,0:08:17.14,Gen_Main,,0000,0000,0000,,¿Es fuerte?
+Dialogue: 0,0:08:17.97,0:08:23.69,Gen_Main,,0000,0000,0000,,Sí, se podría decir que es\Nel samurái más fuerte.
+Dialogue: 0,0:08:24.60,0:08:28.86,Gen_Main,,0000,0000,0000,,Como aliado, no hay nadie más confiable.
 Dialogue: 0,0:08:31.11,0:08:34.36,Gen_Main,,0000,0000,0000,,Entonces,\Nhay que ponerlo de nuestro lado.
 Dialogue: 0,0:08:40.29,0:08:41.66,Gen_Main,,0000,0000,0000,,Cierto.
 Dialogue: 0,0:08:43.91,0:08:46.88,Cart_A_Ari,,0000,0000,0000,,Okobore
-Dialogue: 0,0:09:05.44,0:09:06.54,Gen_Main,,0000,0000,0000,,Â¡No puede ser!
-Dialogue: 0,0:09:06.68,0:09:09.98,Gen_Main,,0000,0000,0000,,PensÃ© que por fin podrÃ­amos\Ncomer lo que quisiÃ©ramos.
+Dialogue: 0,0:09:05.44,0:09:06.54,Gen_Main,,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:09:06.68,0:09:09.98,Gen_Main,,0000,0000,0000,,Pensé que por fin podríamos\Ncomer lo que quisiéramos.
 Dialogue: 0,0:09:28.21,0:09:34.17,Cart_A_Ari,,0000,0000,0000,,Shutenmaru\N{\fs18}Jefe de la Brigada de Ladrones Atamayama
 Dialogue: 0,0:09:44.35,0:09:45.89,Gen_Main,,0000,0000,0000,,Hola.
-Dialogue: 0,0:09:48.52,0:09:49.35,Gen_Main,,0000,0000,0000,,Â¡Adelante!
-Dialogue: 0,0:09:53.11,0:09:56.15,Gen_Main,,0000,0000,0000,,Â¡Estos tipos tienen cosas muy buenas!
-Dialogue: 0,0:09:56.28,0:09:58.95,Gen_Main,,0000,0000,0000,,Â¡No! Â¡Luffytaro-san nos dioâ€¦!
-Dialogue: 0,0:09:59.07,0:10:01.45,Gen_Main,,0000,0000,0000,,Â¡Luffytaro-san nos dio eso!
-Dialogue: 0,0:10:01.68,0:10:02.91,Gen_Main,,0000,0000,0000,,Â¡CÃ¡llate!
-Dialogue: 0,0:10:03.29,0:10:04.33,Gen_Main,,0000,0000,0000,,Â¡Madre!
-Dialogue: 0,0:10:04.49,0:10:09.00,Gen_Main,,0000,0000,0000,,TambiÃ©n hay fruta, sake y arroz.\NQuÃ© insolente.
-Dialogue: 0,0:10:09.29,0:10:12.42,Gen_Main,,0000,0000,0000,,Â¡RegrÃ©senlo! Â¡Quiero dÃ¡rselo a mi nieto!
-Dialogue: 0,0:10:13.74,0:10:16.30,Gen_Main,,0000,0000,0000,,Â¡CÃ¡llate, viejo! Ya muÃ©rete.
-Dialogue: 0,0:10:24.25,0:10:27.18,Gen_Main,,0000,0000,0000,,Â¡Estorbas, vieja! Â¡Â¿Quieres morir?!
-Dialogue: 0,0:10:34.32,0:10:39.49,Gen_Main,,0000,0000,0000,,Â¿QuiÃ©n demonios hizo esto?
-Dialogue: 0,0:10:39.86,0:10:43.31,Gen_Main,,0000,0000,0000,,Â¿Le dan comida a la gente como un hÃ©roe?
-Dialogue: 0,0:10:43.74,0:10:46.29,Gen_Main,,0000,0000,0000,,Solo es un sueÃ±o fugaz.
+Dialogue: 0,0:09:48.52,0:09:49.35,Gen_Main,,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:09:53.11,0:09:56.15,Gen_Main,,0000,0000,0000,,¡Estos tipos tienen cosas muy buenas!
+Dialogue: 0,0:09:56.28,0:09:58.95,Gen_Main,,0000,0000,0000,,¡No! ¡Luffytaro-san nos dio…!
+Dialogue: 0,0:09:59.07,0:10:01.45,Gen_Main,,0000,0000,0000,,¡Luffytaro-san nos dio eso!
+Dialogue: 0,0:10:01.68,0:10:02.91,Gen_Main,,0000,0000,0000,,¡Cállate!
+Dialogue: 0,0:10:03.29,0:10:04.33,Gen_Main,,0000,0000,0000,,¡Madre!
+Dialogue: 0,0:10:04.49,0:10:09.00,Gen_Main,,0000,0000,0000,,También hay fruta, sake y arroz.\NQué insolente.
+Dialogue: 0,0:10:09.29,0:10:12.42,Gen_Main,,0000,0000,0000,,¡Regrésenlo! ¡Quiero dárselo a mi nieto!
+Dialogue: 0,0:10:13.74,0:10:16.30,Gen_Main,,0000,0000,0000,,¡Cállate, viejo! Ya muérete.
+Dialogue: 0,0:10:24.25,0:10:27.18,Gen_Main,,0000,0000,0000,,¡Estorbas, vieja! ¡¿Quieres morir?!
+Dialogue: 0,0:10:34.32,0:10:39.49,Gen_Main,,0000,0000,0000,,¿Quién demonios hizo esto?
+Dialogue: 0,0:10:39.86,0:10:43.31,Gen_Main,,0000,0000,0000,,¿Le dan comida a la gente como un héroe?
+Dialogue: 0,0:10:43.74,0:10:46.29,Gen_Main,,0000,0000,0000,,Solo es un sueño fugaz.
 Dialogue: 0,0:10:46.41,0:10:49.46,Gen_Main,,0000,0000,0000,,Por fin tienen comida,
-Dialogue: 0,0:10:49.77,0:10:53.21,Gen_Main,,0000,0000,0000,,pero nosotros nos la llevamos\Ny se acabÃ³.
-Dialogue: 0,0:10:53.48,0:10:58.75,Gen_Main,,0000,0000,0000,,No hay samurÃ¡is\Nque apoyen a la gente pobre.
-Dialogue: 0,0:11:00.19,0:11:06.35,Gen_Main,,0000,0000,0000,,Y no hay hombres de verdad en este paÃ­s
-Dialogue: 0,0:11:06.52,0:11:09.39,Gen_Main,,0000,0000,0000,,que puedan dirigir a samurÃ¡is fuertes.
-Dialogue: 0,0:11:11.23,0:11:15.87,Gen_Main,,0000,0000,0000,,Â¡Wano estÃ¡ acabada!
-Dialogue: 0,0:11:20.03,0:11:24.74,Gen_Main,,0000,0000,0000,,Oye, vieja. Aunque vivas mucho mÃ¡s,
-Dialogue: 0,0:11:25.01,0:11:28.75,Gen_Main,,0000,0000,0000,,solo verÃ¡s una cruel realidad.
-Dialogue: 0,0:11:36.46,0:11:39.04,Gen_Main,,0000,0000,0000,,Te ahorrarÃ© el sufrimiento.
-Dialogue: 0,0:11:42.09,0:11:43.46,Gen_Main,,0000,0000,0000,,Â¡Abuela, huye!
-Dialogue: 0,0:11:43.59,0:11:45.01,Gen_Main,,0000,0000,0000,,Â¡Abuela!
+Dialogue: 0,0:10:49.77,0:10:53.21,Gen_Main,,0000,0000,0000,,pero nosotros nos la llevamos\Ny se acabó.
+Dialogue: 0,0:10:53.48,0:10:58.75,Gen_Main,,0000,0000,0000,,No hay samuráis\Nque apoyen a la gente pobre.
+Dialogue: 0,0:11:00.19,0:11:06.35,Gen_Main,,0000,0000,0000,,Y no hay hombres de verdad en este país
+Dialogue: 0,0:11:06.52,0:11:09.39,Gen_Main,,0000,0000,0000,,que puedan dirigir a samuráis fuertes.
+Dialogue: 0,0:11:11.23,0:11:15.87,Gen_Main,,0000,0000,0000,,¡Wano está acabada!
+Dialogue: 0,0:11:20.03,0:11:24.74,Gen_Main,,0000,0000,0000,,Oye, vieja. Aunque vivas mucho más,
+Dialogue: 0,0:11:25.01,0:11:28.75,Gen_Main,,0000,0000,0000,,solo verás una cruel realidad.
+Dialogue: 0,0:11:36.46,0:11:39.04,Gen_Main,,0000,0000,0000,,Te ahorraré el sufrimiento.
+Dialogue: 0,0:11:42.09,0:11:43.46,Gen_Main,,0000,0000,0000,,¡Abuela, huye!
+Dialogue: 0,0:11:43.59,0:11:45.01,Gen_Main,,0000,0000,0000,,¡Abuela!
 Dialogue: 0,0:11:50.81,0:11:55.23,Gen_Main,,0000,0000,0000,,Creo en las palabras de Otoki-sama.
-Dialogue: 0,0:11:57.82,0:11:59.78,Gen_Main,,0000,0000,0000,,Ella estÃ¡ muerta.
-Dialogue: 0,0:12:00.32,0:12:03.03,Gen_Main,,0000,0000,0000,,Estoy segura de que los nueve samurÃ¡is
-Dialogue: 0,0:12:03.20,0:12:06.20,Gen_Main,,0000,0000,0000,,cumplirÃ¡n el deseo de Oden-sama.
-Dialogue: 0,0:12:06.37,0:12:07.78,Gen_Main,,0000,0000,0000,,Â¡TonterÃ­as!
-Dialogue: 0,0:12:08.10,0:12:11.71,Gen_Main,,0000,0000,0000,,Â¡No pueden librar una guerra sin lÃ­der!
-Dialogue: 0,0:12:23.16,0:12:25.30,Gen_Main,,0000,0000,0000,,Â¡Shutenmaru-sama! Â¡Eso esâ€¦!
+Dialogue: 0,0:11:57.82,0:11:59.78,Gen_Main,,0000,0000,0000,,Ella está muerta.
+Dialogue: 0,0:12:00.32,0:12:03.03,Gen_Main,,0000,0000,0000,,Estoy segura de que los nueve samuráis
+Dialogue: 0,0:12:03.20,0:12:06.20,Gen_Main,,0000,0000,0000,,cumplirán el deseo de Oden-sama.
+Dialogue: 0,0:12:06.37,0:12:07.78,Gen_Main,,0000,0000,0000,,¡Tonterías!
+Dialogue: 0,0:12:08.10,0:12:11.71,Gen_Main,,0000,0000,0000,,¡No pueden librar una guerra sin líder!
+Dialogue: 0,0:12:23.16,0:12:25.30,Gen_Main,,0000,0000,0000,,¡Shutenmaru-sama! ¡Eso es…!
 Dialogue: 0,0:12:45.57,0:12:48.16,Gen_Main,,0000,0000,0000,,Por fin te encuentro.
-Dialogue: 0,0:12:53.29,0:12:55.92,Gen_Main,,0000,0000,0000,,LÃ­der de la Brigada de Ladrones.
+Dialogue: 0,0:12:53.29,0:12:55.92,Gen_Main,,0000,0000,0000,,Líder de la Brigada de Ladrones.
 Dialogue: 0,0:12:54.92,0:12:58.67,Cart_A_Ari,,0000,0000,0000,,Jack\N{\fs18}Cabecilla de los Piratas Bestia
-Dialogue: 0,0:12:56.33,0:12:58.67,Gen_Main,,0000,0000,0000,,Â¡Un monstruo!
-Dialogue: 0,0:12:59.29,0:13:04.38,Gen_Main,,0000,0000,0000,,SÃ© que vino por aquÃ­ un pirata\Nllamado Sombrero de Paja Luffy.
-Dialogue: 0,0:13:11.39,0:13:17.02,Gen_Main,,0000,0000,0000,,Si digo que no lo sÃ©,\NÂ¿cambiarÃ¡s tu actitud?
+Dialogue: 0,0:12:56.33,0:12:58.67,Gen_Main,,0000,0000,0000,,¡Un monstruo!
+Dialogue: 0,0:12:59.29,0:13:04.38,Gen_Main,,0000,0000,0000,,Sé que vino por aquí un pirata\Nllamado Sombrero de Paja Luffy.
+Dialogue: 0,0:13:11.39,0:13:17.02,Gen_Main,,0000,0000,0000,,Si digo que no lo sé,\N¿cambiarás tu actitud?
 Dialogue: 0,0:13:17.60,0:13:20.11,Gen_Main,,0000,0000,0000,,No abuses de tu suerte.
 Dialogue: 0,0:13:22.61,0:13:25.86,Gen_Main,,0000,0000,0000,,Te mantenemos vivo
 Dialogue: 0,0:13:26.24,0:13:29.98,Gen_Main,,0000,0000,0000,,solo porque Kaido-san\Nte quiere como subordinado.
 Dialogue: 0,0:13:30.87,0:13:35.00,Gen_Main,,0000,0000,0000,,No tengo que ofrecerte respeto.
-Dialogue: 0,0:13:40.88,0:13:43.63,Gen_Main,,0000,0000,0000,,Entonces, te dirÃ©.
-Dialogue: 0,0:13:46.26,0:13:48.72,Gen_Main,,0000,0000,0000,,Mi respuesta a eso esâ€¦
-Dialogue: 0,0:13:50.64,0:13:51.64,Gen_Main,,0000,0000,0000,,Â¡esto!
-Dialogue: 0,0:14:30.14,0:14:34.22,Gen_Main,,0000,0000,0000,,Kaido-sama estÃ¡ bebiendo\Ndemasiado de nuevo.
-Dialogue: 0,0:14:34.51,0:14:36.99,Gen_Main,,0000,0000,0000,,Â¿QuÃ© pasarÃ¡ si se embriagaâ€¦?
+Dialogue: 0,0:13:40.88,0:13:43.63,Gen_Main,,0000,0000,0000,,Entonces, te diré.
+Dialogue: 0,0:13:46.26,0:13:48.72,Gen_Main,,0000,0000,0000,,Mi respuesta a eso es…
+Dialogue: 0,0:13:50.64,0:13:51.64,Gen_Main,,0000,0000,0000,,¡esto!
+Dialogue: 0,0:14:30.14,0:14:34.22,Gen_Main,,0000,0000,0000,,Kaido-sama está bebiendo\Ndemasiado de nuevo.
+Dialogue: 0,0:14:34.51,0:14:36.99,Gen_Main,,0000,0000,0000,,¿Qué pasará si se embriaga…?
 Dialogue: 0,0:14:37.15,0:14:39.39,Gen_Main,,0000,0000,0000,,Da miedo pensarlo.
-Dialogue: 0,0:14:40.81,0:14:45.03,Gen_Main,,0000,0000,0000,,Â¡Quiero mÃ¡s sake! Â¡Traigan mÃ¡s!
-Dialogue: 0,0:14:45.15,0:14:46.78,Gen_Main,,0000,0000,0000,,Â¡SÃ­, seÃ±or!
-Dialogue: 0,0:14:49.36,0:14:51.74,Gen_Main,,0000,0000,0000,,Â¡Disculpe la espera!
-Dialogue: 0,0:15:06.83,0:15:10.51,Gen_Main,,0000,0000,0000,,Todo lo que estÃ¡ pasando es inaceptable.
-Dialogue: 0,0:15:10.97,0:15:11.92,Gen_Main,,0000,0000,0000,,Â¿Verdad?
-Dialogue: 0,0:15:12.09,0:15:13.76,Gen_Main,,0000,0000,0000,,SÃ­, eh, buenoâ€¦
-Dialogue: 0,0:15:18.43,0:15:21.52,Gen_Main,,0000,0000,0000,,Ya sÃ©. TrÃ¡emelos.
-Dialogue: 0,0:15:21.81,0:15:23.44,Gen_Main,,0000,0000,0000,,Â¿A quiÃ©nes?
-Dialogue: 0,0:15:23.81,0:15:27.07,Gen_Main,,0000,0000,0000,,Â¡Â¿Ni siquiera sabes de quiÃ©nes hablo?!
-Dialogue: 0,0:15:48.25,0:15:51.17,Gen_Main,,0000,0000,0000,,No subestimes a los samurÃ¡is.
-Dialogue: 0,0:15:59.47,0:16:01.18,Gen_Main,,0000,0000,0000,,Â¡Jack-sama!
+Dialogue: 0,0:14:40.81,0:14:45.03,Gen_Main,,0000,0000,0000,,¡Quiero más sake! ¡Traigan más!
+Dialogue: 0,0:14:45.15,0:14:46.78,Gen_Main,,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:14:49.36,0:14:51.74,Gen_Main,,0000,0000,0000,,¡Disculpe la espera!
+Dialogue: 0,0:15:06.83,0:15:10.51,Gen_Main,,0000,0000,0000,,Todo lo que está pasando es inaceptable.
+Dialogue: 0,0:15:10.97,0:15:11.92,Gen_Main,,0000,0000,0000,,¿Verdad?
+Dialogue: 0,0:15:12.09,0:15:13.76,Gen_Main,,0000,0000,0000,,Sí, eh, bueno…
+Dialogue: 0,0:15:18.43,0:15:21.52,Gen_Main,,0000,0000,0000,,Ya sé. Tráemelos.
+Dialogue: 0,0:15:21.81,0:15:23.44,Gen_Main,,0000,0000,0000,,¿A quiénes?
+Dialogue: 0,0:15:23.81,0:15:27.07,Gen_Main,,0000,0000,0000,,¡¿Ni siquiera sabes de quiénes hablo?!
+Dialogue: 0,0:15:48.25,0:15:51.17,Gen_Main,,0000,0000,0000,,No subestimes a los samuráis.
+Dialogue: 0,0:15:59.47,0:16:01.18,Gen_Main,,0000,0000,0000,,¡Jack-sama!
 Dialogue: 0,0:16:01.39,0:16:03.40,Gen_Main,,0000,0000,0000,,Desgraciado.
-Dialogue: 0,0:16:49.90,0:16:52.97,Gen_Main,,0000,0000,0000,,Â¡AtrÃ¡s! Â¡Shutenmaru y Jack-samaâ€¦!
-Dialogue: 0,0:16:53.12,0:16:54.70,Gen_Main,,0000,0000,0000,,Â¡EstÃ¡n peleando!
-Dialogue: 0,0:16:55.86,0:16:58.12,Gen_Main,,0000,0000,0000,,Â¡Es el fin!
-Dialogue: 0,0:17:55.09,0:17:58.93,Gen_Main,,0000,0000,0000,,Desde que muriÃ³,
+Dialogue: 0,0:16:49.90,0:16:52.97,Gen_Main,,0000,0000,0000,,¡Atrás! ¡Shutenmaru y Jack-sama…!
+Dialogue: 0,0:16:53.12,0:16:54.70,Gen_Main,,0000,0000,0000,,¡Están peleando!
+Dialogue: 0,0:16:55.86,0:16:58.12,Gen_Main,,0000,0000,0000,,¡Es el fin!
+Dialogue: 0,0:17:55.09,0:17:58.93,Gen_Main,,0000,0000,0000,,Desde que murió,
 Dialogue: 0,0:18:00.85,0:18:03.72,Gen_Main,,0000,0000,0000,,esperaba una oportunidad de morir.
-Dialogue: 0,0:18:10.11,0:18:11.19,Gen_Main,,0000,0000,0000,,Peroâ€¦
-Dialogue: 0,0:18:12.77,0:18:16.28,Gen_Main,,0000,0000,0000,,Â¡no pienso morir\Na manos de un vasallo como tÃº!
-Dialogue: 0,0:18:17.53,0:18:19.11,Gen_Main,,0000,0000,0000,,Â¡No fastidies!
-Dialogue: 0,0:18:32.75,0:18:34.30,Gen_Main,,0000,0000,0000,,Â¡Yoâ€¦
-Dialogue: 0,0:18:36.59,0:18:39.68,Gen_Main,,0000,0000,0000,,deberÃ­a haber muerto!
+Dialogue: 0,0:18:10.11,0:18:11.19,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:18:12.77,0:18:16.28,Gen_Main,,0000,0000,0000,,¡no pienso morir\Na manos de un vasallo como tú!
+Dialogue: 0,0:18:17.53,0:18:19.11,Gen_Main,,0000,0000,0000,,¡No fastidies!
+Dialogue: 0,0:18:32.75,0:18:34.30,Gen_Main,,0000,0000,0000,,¡Yo…
+Dialogue: 0,0:18:36.59,0:18:39.68,Gen_Main,,0000,0000,0000,,debería haber muerto!
 Dialogue: 0,0:18:51.48,0:18:55.33,Gen_Main,,0000,0000,0000,,Vivir es un fastidio.
-Dialogue: 0,0:20:01.84,0:20:04.18,Gen_Main,,0000,0000,0000,,Â¡Jack-sama!
-Dialogue: 0,0:20:04.84,0:20:06.64,Gen_Main,,0000,0000,0000,,Â¡Mire el cielo!
-Dialogue: 0,0:20:09.68,0:20:11.73,Gen_Main,,0000,0000,0000,,No puede ser. Â¿Por quÃ©?
-Dialogue: 0,0:20:14.31,0:20:18.15,Gen_Main,,0000,0000,0000,,Vino en persona. Â¿Por quÃ©?
-Dialogue: 0,0:20:18.38,0:20:20.28,Gen_Main,,0000,0000,0000,,Â¿Es por mÃ­? Â¿Es eso?
-Dialogue: 0,0:20:20.89,0:20:23.24,Gen_Main,,0000,0000,0000,,Â¡Â¿Viene a ejecutarme?!
-Dialogue: 0,0:20:24.82,0:20:26.20,Gen_Main,,0000,0000,0000,,Â¿QuÃ© pasa?
-Dialogue: 0,0:20:26.49,0:20:27.83,Gen_Main,,0000,0000,0000,,Â¿Va a llover?
-Dialogue: 0,0:20:28.74,0:20:29.83,Gen_Main,,0000,0000,0000,,Â¡No!
-Dialogue: 0,0:20:30.25,0:20:32.79,Gen_Main,,0000,0000,0000,,Â¡Oye, Sombrero de Paja! Â¡Ven aquÃ­!
-Dialogue: 0,0:20:33.60,0:20:34.87,Gen_Main,,0000,0000,0000,,Â¿QuÃ© pasa, Torao?
-Dialogue: 0,0:20:37.67,0:20:38.79,Gen_Main,,0000,0000,0000,,Â¿QuÃ©?
-Dialogue: 0,0:20:56.15,0:20:59.07,Gen_Main,,0000,0000,0000,,Nunca vi que el clima cambiara asÃ­.
+Dialogue: 0,0:20:01.84,0:20:04.18,Gen_Main,,0000,0000,0000,,¡Jack-sama!
+Dialogue: 0,0:20:04.84,0:20:06.64,Gen_Main,,0000,0000,0000,,¡Mire el cielo!
+Dialogue: 0,0:20:09.68,0:20:11.73,Gen_Main,,0000,0000,0000,,No puede ser. ¿Por qué?
+Dialogue: 0,0:20:14.31,0:20:18.15,Gen_Main,,0000,0000,0000,,Vino en persona. ¿Por qué?
+Dialogue: 0,0:20:18.38,0:20:20.28,Gen_Main,,0000,0000,0000,,¿Es por mí? ¿Es eso?
+Dialogue: 0,0:20:20.89,0:20:23.24,Gen_Main,,0000,0000,0000,,¡¿Viene a ejecutarme?!
+Dialogue: 0,0:20:24.82,0:20:26.20,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:20:26.49,0:20:27.83,Gen_Main,,0000,0000,0000,,¿Va a llover?
+Dialogue: 0,0:20:28.74,0:20:29.83,Gen_Main,,0000,0000,0000,,¡No!
+Dialogue: 0,0:20:30.25,0:20:32.79,Gen_Main,,0000,0000,0000,,¡Oye, Sombrero de Paja! ¡Ven aquí!
+Dialogue: 0,0:20:33.60,0:20:34.87,Gen_Main,,0000,0000,0000,,¿Qué pasa, Torao?
+Dialogue: 0,0:20:37.67,0:20:38.79,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:20:56.15,0:20:59.07,Gen_Main,,0000,0000,0000,,Nunca vi que el clima cambiara así.
 Dialogue: 0,0:21:08.88,0:21:11.12,Gen_Main,,0000,0000,0000,,Gracias. Me salvaste.
-Dialogue: 0,0:21:20.57,0:21:21.96,Gen_Main,,0000,0000,0000,,Â¡Momonosuke-sama!
-Dialogue: 0,0:21:22.16,0:21:24.27,Gen_Main,,0000,0000,0000,,Â¿Momonosuke-sama se hizoâ€¦
-Dialogue: 0,0:21:24.45,0:21:26.09,Gen_Main,,0000,0000,0000,,â€¦un dragÃ³n?
-Dialogue: 0,0:21:26.93,0:21:32.06,Gen_Main,,0000,0000,0000,,Lo explicarÃ© despuÃ©s, pero ahora\Nsu cuerpo puede convertirse asÃ­.
-Dialogue: 0,0:21:32.68,0:21:34.77,Gen_Main,,0000,0000,0000,,Â¡De entre todas las cosas,
-Dialogue: 0,0:21:34.97,0:21:38.06,Gen_Main,,0000,0000,0000,,tenÃ­a que ser un odioso dragÃ³n!
+Dialogue: 0,0:21:20.57,0:21:21.96,Gen_Main,,0000,0000,0000,,¡Momonosuke-sama!
+Dialogue: 0,0:21:22.16,0:21:24.27,Gen_Main,,0000,0000,0000,,¿Momonosuke-sama se hizo…
+Dialogue: 0,0:21:24.45,0:21:26.09,Gen_Main,,0000,0000,0000,,…un dragón?
+Dialogue: 0,0:21:26.93,0:21:32.06,Gen_Main,,0000,0000,0000,,Lo explicaré después, pero ahora\Nsu cuerpo puede convertirse así.
+Dialogue: 0,0:21:32.68,0:21:34.77,Gen_Main,,0000,0000,0000,,¡De entre todas las cosas,
+Dialogue: 0,0:21:34.97,0:21:38.06,Gen_Main,,0000,0000,0000,,tenía que ser un odioso dragón!
 Dialogue: 0,0:21:40.98,0:21:43.15,Gen_Main,,0000,0000,0000,,Tenemos problemas, Sombrero de Paja.
-Dialogue: 0,0:21:53.66,0:21:55.37,Gen_Main,,0000,0000,0000,,Â¡MuÃ©vanse! Â¡A un lado!
+Dialogue: 0,0:21:53.66,0:21:55.37,Gen_Main,,0000,0000,0000,,¡Muévanse! ¡A un lado!
 Dialogue: 0,0:22:05.72,0:22:07.28,Gen_Main,,0000,0000,0000,,No puede ser.
-Dialogue: 0,0:22:07.63,0:22:08.89,Gen_Main,,0000,0000,0000,,Â¿Por quÃ©?
+Dialogue: 0,0:22:07.63,0:22:08.89,Gen_Main,,0000,0000,0000,,¿Por qué?
 Dialogue: 0,0:22:18.48,0:22:20.77,Gen_Main,,0000,0000,0000,,Escucha, Jack.
-Dialogue: 0,0:22:21.31,0:22:22.61,Gen_Main,,0000,0000,0000,,SÃ­.
+Dialogue: 0,0:22:21.31,0:22:22.61,Gen_Main,,0000,0000,0000,,Sí.
 Dialogue: 0,0:22:25.11,0:22:28.45,Gen_Main,,0000,0000,0000,,Trae a esos mocosos
 Dialogue: 0,0:22:28.91,0:22:31.49,Gen_Main,,0000,0000,0000,,ahora mismo.
-Dialogue: 0,0:22:35.50,0:22:37.62,Gen_Main,,0000,0000,0000,,Â¡Â¿Un dragÃ³n?! Â¡Â¿QuÃ©?!
+Dialogue: 0,0:22:35.50,0:22:37.62,Gen_Main,,0000,0000,0000,,¡¿Un dragón?! ¡¿Qué?!
 Dialogue: 0,0:22:38.33,0:22:40.67,Gen_Main,,0000,0000,0000,,No puede ser peor.
-Dialogue: 0,0:22:41.42,0:22:42.38,Gen_Main,,0000,0000,0000,,Eseâ€¦
+Dialogue: 0,0:22:41.42,0:22:42.38,Gen_Main,,0000,0000,0000,,Ese…
 Dialogue: 0,0:22:45.55,0:22:47.67,Gen_Main,,0000,0000,0000,,es Kaido.
-Dialogue: 0,0:22:47.80,0:22:49.02,Gen_Main,,0000,0000,0000,,Â¡Â¿Kaido?!
-Dialogue: 0,0:22:49.25,0:22:51.47,Gen_Main,,0000,0000,0000,,No pensÃ© que aparecerÃ­a asÃ­.
+Dialogue: 0,0:22:47.80,0:22:49.02,Gen_Main,,0000,0000,0000,,¡¿Kaido?!
+Dialogue: 0,0:22:49.25,0:22:51.47,Gen_Main,,0000,0000,0000,,No pensé que aparecería así.
 Dialogue: 0,0:22:51.80,0:22:53.72,Gen_Main,,0000,0000,0000,,Estamos en un aprieto.
-Dialogue: 0,0:22:56.02,0:22:58.68,Gen_Main,,0000,0000,0000,,Â¡Momonosuke-sama, contrÃ³lese!
-Dialogue: 0,0:22:59.89,0:23:00.94,Gen_Main,,0000,0000,0000,,Â¡Ese esâ€¦
+Dialogue: 0,0:22:56.02,0:22:58.68,Gen_Main,,0000,0000,0000,,¡Momonosuke-sama, contrólese!
+Dialogue: 0,0:22:59.89,0:23:00.94,Gen_Main,,0000,0000,0000,,¡Ese es…
 Dialogue: 0,0:23:02.56,0:23:04.23,Gen_Main,,0000,0000,0000,,Kaido!
 Dialogue: 0,0:23:18.58,0:23:21.79,Gen_Italics,,0000,0000,0000,,Kaido azota Wano con su enorme poder.
 Dialogue: 0,0:23:22.08,0:23:24.46,Gen_Italics,,0000,0000,0000,,Luffy corre a detenerlo.
 Dialogue: 0,0:23:24.91,0:23:30.09,Gen_Italics,,0000,0000,0000,,Pero el golpe furioso de Kaido cae\Nen las ruinas del Castillo Oden.
-Dialogue: 0,0:23:30.73,0:23:35.88,Gen_Italics,,0000,0000,0000,,Luffy estÃ¡ indefenso.\NÂ¿Los Sombrero de Paja estarÃ¡n a salvo?
-Dialogue: 0,0:23:36.26,0:23:37.60,Gen_Main,,0000,0000,0000,,PrÃ³ximamente:
-Dialogue: 0,0:23:37.89,0:23:41.02,Gen_Main,,0000,0000,0000,,"Aniquilados. Â¡El furioso\Naliento explosivo de Kaido!".
-Dialogue: 0,0:23:41.19,0:23:43.55,Gen_Main,,0000,0000,0000,,Â¡Yo me convertirÃ©\Nen el Rey de los Piratas!
-Dialogue: 0,0:23:41.64,0:23:45.65,Cart_A_Ari,,0000,0000,0000,,Aniquilados\NÂ¡El furioso aliento explosivo de Kaido!
+Dialogue: 0,0:23:30.73,0:23:35.88,Gen_Italics,,0000,0000,0000,,Luffy está indefenso.\N¿Los Sombrero de Paja estarán a salvo?
+Dialogue: 0,0:23:36.26,0:23:37.60,Gen_Main,,0000,0000,0000,,Próximamente:
+Dialogue: 0,0:23:37.89,0:23:41.02,Gen_Main,,0000,0000,0000,,"Aniquilados. ¡El furioso\Naliento explosivo de Kaido!".
+Dialogue: 0,0:23:41.19,0:23:43.55,Gen_Main,,0000,0000,0000,,¡Yo me convertiré\Nen el Rey de los Piratas!
+Dialogue: 0,0:23:41.64,0:23:45.65,Cart_A_Ari,,0000,0000,0000,,Aniquilados\N¡El furioso aliento explosivo de Kaido!
