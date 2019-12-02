@@ -1,6 +1,12 @@
 [Script Info]
-Title: [Erai-raws] Español (España)
-
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
 ScriptType: v4.00+
 Collisions: Normal
 PlayResX: 640
@@ -26,8 +32,7 @@ Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9
 Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
 
 [Events]
-Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
-
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.48,0:00:06.42,Gen_Main,,0000,0000,0000,,Demasiado lento.
 Dialogue: 0,0:00:09.53,0:00:10.68,Gen_Main,,0000,0000,0000,,¡Sabio Pervertido!
 Dialogue: 0,0:00:12.03,0:00:13.62,Gen_Main,,0000,0000,0000,,¡No te dejaré!
