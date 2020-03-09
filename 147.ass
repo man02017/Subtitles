@@ -1,0 +1,287 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_EpiTitle,Arial,22,&H00FFFFFF,&H000000FF,&H006C04C0,&H00833CC7,-1,0,0,0,100,100,0,0,1,3,0,5,0040,0060,0110,1
+Style: Cart_Avance,Arial,16,&H00FFFFFF,&H000000FF,&H0078655F,&H0078655F,-1,-1,0,0,100,100,0,0,1,1,1,7,0080,0020,0070,1
+Style: Cart_Next,Arial,24,&H00FFFFFF,&H000000FF,&H00484848,&H00908784,-1,-1,0,0,100,100,0,0,1,2,0,3,0080,0050,0085,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:08.86,0:00:10.33,Gen_Main,,0000,0000,0000,,¿Llegamos?
+Dialogue: 0,0:00:10.48,0:00:11.42,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:11.57,0:00:15.44,Gen_Main,,0000,0000,0000,,Por la mañana debería llegar\Nel barco con la comida.
+Dialogue: 0,0:00:16.12,0:00:17.74,Gen_Main,,0000,0000,0000,,Ya falta poco.
+Dialogue: 0,0:00:18.91,0:00:21.42,Gen_Main,,0000,0000,0000,,Por fin podré salir de Hozuki.
+Dialogue: 0,0:00:21.83,0:00:25.00,Gen_Main,,0000,0000,0000,,Les estoy muy agradecido, Boruto.
+Dialogue: 0,0:00:26.04,0:00:26.88,Gen_Main,,0000,0000,0000,,No es na…
+Dialogue: 0,0:00:33.67,0:00:36.13,Gen_Main,,0000,0000,0000,,Veamos quién tiene más suerte.
+Dialogue: 0,0:00:42.81,0:00:45.66,Gen_Main,,0000,0000,0000,,¡Tú eres Tsukiyo!
+Dialogue: 0,0:00:46.98,0:00:49.00,Gen_Main,,0000,0000,0000,,Hoy hay luna llena.
+Dialogue: 0,0:00:49.61,0:00:51.91,Gen_Main,,0000,0000,0000,,Da una luz perfecta.
+Dialogue: 0,0:02:25.33,0:02:30.06,Cart_EpiTitle,,0000,0000,0000,,{\pos(520,264)}Batalla bajo la luna
+Dialogue: 0,0:02:28.62,0:02:30.06,Gen_Main,,0000,0000,0000,,Ese es Tsukiyo.
+Dialogue: 0,0:02:30.21,0:02:32.71,Gen_Main,,0000,0000,0000,,El número dos de la banda Mujina.
+Dialogue: 0,0:02:33.63,0:02:35.20,Gen_Main,,0000,0000,0000,,Hola, señorita.
+Dialogue: 0,0:02:35.38,0:02:38.75,Gen_Main,,0000,0000,0000,,Sabía que no eras una mera periodista.
+Dialogue: 0,0:02:38.92,0:02:42.30,Gen_Main,,0000,0000,0000,,Y por fin nos vemos, Kokuri.
+Dialogue: 0,0:02:45.68,0:02:49.62,Gen_Main,,0000,0000,0000,,Quien deja Mujina, se queda sin suerte.
+Dialogue: 0,0:02:49.77,0:02:52.71,Gen_Main,,0000,0000,0000,,Lo único que le espera es la muerte.
+Dialogue: 0,0:02:56.15,0:02:57.46,Gen_Main,,0000,0000,0000,,¿Es una sombra?
+Dialogue: 0,0:02:58.32,0:03:01.60,Gen_Main,,0000,0000,0000,,¿Hay más gente que las controla\Naparte de los Nara?
+Dialogue: 0,0:03:04.95,0:03:07.33,Gen_Main,,0000,0000,0000,,Es mi Tsukikage no Jutsu.
+Dialogue: 0,0:03:04.95,0:03:07.33,Cart_Nota,,0000,0000,0000,,Técnica de Sombra de Luna
+Dialogue: 0,0:03:07.49,0:03:10.60,Gen_Main,,0000,0000,0000,,Bajo la luna llena\Npuedo extraer todo su poder.
+Dialogue: 0,0:03:10.82,0:03:12.08,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:03:14.29,0:03:15.97,Gen_Main,,0000,0000,0000,,Nos sorprendiste,
+Dialogue: 0,0:03:16.13,0:03:19.55,Gen_Main,,0000,0000,0000,,pero ¿de verdad enfrentarás\Na los cuatro solo?
+Dialogue: 0,0:03:19.88,0:03:22.33,Gen_Main,,0000,0000,0000,,Estamos igualados.
+Dialogue: 0,0:03:24.72,0:03:28.95,Gen_Main,,0000,0000,0000,,Les mostraré en qué consiste mi técnica.
+Dialogue: 0,0:03:57.23,0:03:58.40,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:03:59.21,0:04:02.24,Gen_Main,,0000,0000,0000,,¿Puede crear clones de sombras de otros?
+Dialogue: 0,0:04:04.64,0:04:06.28,Gen_Main,,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:04:11.64,0:04:13.17,Gen_Main,,0000,0000,0000,,¿Tienen nuestra fuerza?
+Dialogue: 0,0:04:14.90,0:04:16.20,Gen_Main,,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:04:16.61,0:04:18.84,Gen_Main,,0000,0000,0000,,¡Katon: Goukakyu no Jutsu!
+Dialogue: 0,0:04:16.61,0:04:18.84,Cart_Nota,,0000,0000,0000,,Arte Ninja de Fuego: Gran Bola de Fuego
+Dialogue: 0,0:04:19.86,0:04:21.69,Gen_Main,,0000,0000,0000,,¡Raiton: Hebi Ikazuchi!
+Dialogue: 0,0:04:19.86,0:04:21.69,Cart_Nota,,0000,0000,0000,,Arte Ninja de Rayo:\NRelámpago de Serpiente
+Dialogue: 0,0:04:24.86,0:04:27.33,Gen_Main,,0000,0000,0000,,¿También copian las técnicas?
+Dialogue: 0,0:04:27.70,0:04:33.91,Gen_Main,,0000,0000,0000,,Ya dije que bajo la luna llena puedo\Nextraer todo el poder del Tsukikage.
+Dialogue: 0,0:04:38.67,0:04:41.21,Gen_Main,,0000,0000,0000,,No tienen suerte.
+Dialogue: 0,0:04:41.80,0:04:43.64,Gen_Main,,0000,0000,0000,,Boruto. Tenemos que…
+Dialogue: 0,0:04:44.01,0:04:45.68,Gen_Main,,0000,0000,0000,,Lo sé. Golpearle a él.
+Dialogue: 0,0:04:50.72,0:04:52.81,Gen_Main,,0000,0000,0000,,Eres muy predecible, chico.
+Dialogue: 0,0:04:56.73,0:04:59.08,Gen_Main,,0000,0000,0000,,¡Kokuri! Maldición.
+Dialogue: 0,0:04:59.23,0:05:00.57,Gen_Main,,0000,0000,0000,,¡Yo me encargo!
+Dialogue: 0,0:05:06.57,0:05:08.82,Gen_Main,,0000,0000,0000,,Por poco.
+Dialogue: 0,0:05:09.37,0:05:12.54,Gen_Main,,0000,0000,0000,,Veamos cuánto tiempo podrán protegerlo.
+Dialogue: 0,0:05:17.71,0:05:19.11,Gen_Main,,0000,0000,0000,,Es el fin.
+Dialogue: 0,0:05:19.71,0:05:22.02,Gen_Main,,0000,0000,0000,,Esto me pasa por huir.
+Dialogue: 0,0:05:30.58,0:05:34.64,Gen_Main,,0000,0000,0000,,¿Qué está pasando en Hozuki?
+Dialogue: 0,0:05:34.81,0:05:38.93,Gen_Main,,0000,0000,0000,,No podemos permitir\Nque se escape ni un preso.
+Dialogue: 0,0:05:39.10,0:05:40.93,Gen_Main,,0000,0000,0000,,Avisemos a los demás.
+Dialogue: 0,0:05:47.95,0:05:49.66,Gen_Main,,0000,0000,0000,,¡Huye, Kokuri!
+Dialogue: 0,0:05:51.49,0:05:54.35,Gen_Main,,0000,0000,0000,,¿Qué hacemos? A este paso…
+Dialogue: 0,0:05:54.91,0:05:59.50,Gen_Main,,0000,0000,0000,,Espera, ¿de dónde saca el chakra\Npara las técnicas de las sombras?
+Dialogue: 0,0:06:00.04,0:06:03.50,Gen_Main,,0000,0000,0000,,Si usan el de Tsukiyo, no durará mucho.
+Dialogue: 0,0:06:04.00,0:06:06.38,Gen_Main,,0000,0000,0000,,Por lo tanto… ¡Rasengan!
+Dialogue: 0,0:06:18.14,0:06:19.27,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:06:20.10,0:06:24.35,Gen_Main,,0000,0000,0000,,Gasté más chakra que normalmente.
+Dialogue: 0,0:06:25.23,0:06:28.28,Gen_Main,,0000,0000,0000,,¿Acaso extraen chakra de nosotros?
+Dialogue: 0,0:06:28.65,0:06:30.32,Gen_Main,,0000,0000,0000,,Correcto.
+Dialogue: 0,0:06:35.58,0:06:39.67,Gen_Main,,0000,0000,0000,,Alargar la pelea\Nsolo nos cansará más a nosotros.
+Dialogue: 0,0:06:40.12,0:06:42.42,Gen_Main,,0000,0000,0000,,Usen todas las técnicas que quieran.
+Dialogue: 0,0:06:42.88,0:06:45.66,Gen_Main,,0000,0000,0000,,Peleen contra sí mismos dándolo todo.
+Dialogue: 0,0:06:46.17,0:06:48.31,Gen_Main,,0000,0000,0000,,Si tienen suerte,
+Dialogue: 0,0:06:48.47,0:06:51.68,Gen_Main,,0000,0000,0000,,tal vez los derroten antes de caer.
+Dialogue: 0,0:07:08.82,0:07:11.82,Gen_Main,,0000,0000,0000,,Ay… ¿Estás bien?
+Dialogue: 0,0:07:13.16,0:07:15.75,Gen_Main,,0000,0000,0000,,Es demasiado fuerte, Boruto.
+Dialogue: 0,0:07:15.91,0:07:18.77,Gen_Main,,0000,0000,0000,,Sí. Necesitamos un plan.
+Dialogue: 0,0:07:23.21,0:07:24.15,Gen_Main,,0000,0000,0000,,Toma esto.
+Dialogue: 0,0:07:25.25,0:07:29.88,Gen_Main,,0000,0000,0000,,Escribí sobre los crímenes de Mujina\Ny los secretos del jefe de la banda.
+Dialogue: 0,0:07:31.01,0:07:34.77,Gen_Main,,0000,0000,0000,,Tómalo tú, por si me matara.
+Dialogue: 0,0:07:35.35,0:07:37.24,Gen_Main,,0000,0000,0000,,No digas eso.
+Dialogue: 0,0:07:37.39,0:07:39.14,Gen_Main,,0000,0000,0000,,No te rindas ahora.
+Dialogue: 0,0:07:39.68,0:07:44.00,Gen_Main,,0000,0000,0000,,Al descubrir que era parte de la banda,\Nhui por miedo.
+Dialogue: 0,0:07:44.15,0:07:47.80,Gen_Main,,0000,0000,0000,,No me responsabilicé del daño que causé.
+Dialogue: 0,0:07:48.19,0:07:50.77,Gen_Main,,0000,0000,0000,,Puede que deba pagar por ello.
+Dialogue: 0,0:07:51.28,0:07:52.95,Gen_Main,,0000,0000,0000,,Si te arrepentiste,
+Dialogue: 0,0:07:53.11,0:07:56.41,Gen_Main,,0000,0000,0000,,vive y testifica en contra de la banda.
+Dialogue: 0,0:07:56.91,0:07:58.02,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:08:00.95,0:08:04.24,Gen_Main,,0000,0000,0000,,Tú corre. No te rindas hasta el final.
+Dialogue: 0,0:08:07.71,0:08:09.28,Gen_Main,,0000,0000,0000,,No tocarás a Kokuri.
+Dialogue: 0,0:08:24.77,0:08:27.69,Gen_Main,,0000,0000,0000,,Enfrentarse a uno mismo\Nes bastante problemático.
+Dialogue: 0,0:08:40.74,0:08:42.08,Gen_Main,,0000,0000,0000,,¡Oh, no!
+Dialogue: 0,0:08:45.50,0:08:50.42,Gen_Main,,0000,0000,0000,,Esto va a ser un problema.\NTengo que acabar con esto pronto.
+Dialogue: 0,0:08:56.00,0:08:57.27,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:09:06.68,0:09:07.89,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:09:17.74,0:09:19.15,Gen_Main,,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:09:21.12,0:09:23.70,Gen_Main,,0000,0000,0000,,¿Evitan la luz de los focos?
+Dialogue: 0,0:09:29.68,0:09:31.10,Gen_Main,,0000,0000,0000,,¿Qué demonios…?
+Dialogue: 0,0:09:33.42,0:09:35.13,Gen_Main,,0000,0000,0000,,Puede que esa técnica…
+Dialogue: 0,0:09:35.72,0:09:37.66,Gen_Main,,0000,0000,0000,,Tengo que decírselo a Boruto.
+Dialogue: 0,0:09:38.34,0:09:39.73,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:09:58.70,0:10:00.46,Gen_Main,,0000,0000,0000,,Perfecto.
+Dialogue: 0,0:10:00.62,0:10:03.54,Gen_Main,,0000,0000,0000,,Se les acabó la suerte.
+Dialogue: 0,0:10:06.05,0:10:07.54,Gen_Main,,0000,0000,0000,,No se rinden.
+Dialogue: 0,0:10:10.25,0:10:13.11,Gen_Main,,0000,0000,0000,,Al contrario que nosotros, no se cansan.
+Dialogue: 0,0:10:13.55,0:10:17.20,Gen_Main,,0000,0000,0000,,A este paso, los matarán por protegerme.
+Dialogue: 0,0:10:22.55,0:10:25.71,Gen_Main,,0000,0000,0000,,Solo soy un estorbo.
+Dialogue: 0,0:10:39.12,0:10:40.13,Gen_Main,,0000,0000,0000,,¡Kokuri!
+Dialogue: 0,0:10:41.41,0:10:44.99,Gen_Main,,0000,0000,0000,,Es admirable que vengas a morir\Npor tu propio pie.
+Dialogue: 0,0:10:50.26,0:10:51.51,Gen_Main,,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:10:58.77,0:11:00.76,Gen_Main,,0000,0000,0000,,¿Por qué regresaste?
+Dialogue: 0,0:11:00.93,0:11:03.01,Gen_Main,,0000,0000,0000,,Escúchenme bien.
+Dialogue: 0,0:11:03.33,0:11:05.64,Gen_Main,,0000,0000,0000,,¿Qué pretenden?
+Dialogue: 0,0:11:07.93,0:11:09.14,Gen_Main,,0000,0000,0000,,¡Ahí están!
+Dialogue: 0,0:11:09.60,0:11:10.86,Gen_Main,,0000,0000,0000,,¡No se metan!
+Dialogue: 0,0:11:17.43,0:11:18.75,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:11:19.19,0:11:20.73,Gen_Main,,0000,0000,0000,,Si eso es cierto…
+Dialogue: 0,0:11:20.90,0:11:22.37,Gen_Main,,0000,0000,0000,,Déjenmelo a mí.
+Dialogue: 0,0:11:22.74,0:11:24.28,Gen_Main,,0000,0000,0000,,Gracias, Kokuri.
+Dialogue: 0,0:11:25.10,0:11:27.20,Gen_Main,,0000,0000,0000,,No sé si funcionará,
+Dialogue: 0,0:11:27.54,0:11:31.79,Gen_Main,,0000,0000,0000,,pero no quiero morir\Narrepentido y sin hacer nada.
+Dialogue: 0,0:11:32.10,0:11:35.92,Gen_Main,,0000,0000,0000,,Tranquilo.\NLa suerte está de nuestro lado.
+Dialogue: 0,0:11:44.88,0:11:48.43,Gen_Main,,0000,0000,0000,,Morir bajo esta luna\Nno está mal, ¿no creen?
+Dialogue: 0,0:11:48.73,0:11:50.55,Gen_Main,,0000,0000,0000,,¡En absoluto!
+Dialogue: 0,0:11:50.80,0:11:52.69,Gen_Main,,0000,0000,0000,,¡Raiton: Hebi Ikazuchi!
+Dialogue: 0,0:11:50.82,0:11:52.69,Cart_Nota,,0000,0000,0000,,Arte Ninja de Rayo:\NRelámpago de Serpiente
+Dialogue: 0,0:11:55.31,0:11:57.77,Gen_Main,,0000,0000,0000,,Estos niños no aprenden.
+Dialogue: 0,0:12:04.23,0:12:05.88,Gen_Main,,0000,0000,0000,,¿Era una cortina de humo?
+Dialogue: 0,0:12:10.80,0:12:12.20,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:12:16.08,0:12:17.95,Gen_Main,,0000,0000,0000,,Se acabó.
+Dialogue: 0,0:12:18.13,0:12:20.33,Gen_Main,,0000,0000,0000,,Es hora de que te rindas.
+Dialogue: 0,0:12:22.22,0:12:25.33,Gen_Main,,0000,0000,0000,,¿Dónde está Kokuri?
+Dialogue: 0,0:12:27.28,0:12:28.62,Gen_Main,,0000,0000,0000,,¡Aquí!
+Dialogue: 0,0:12:29.98,0:12:31.66,Gen_Main,,0000,0000,0000,,¿Qué pretenden?
+Dialogue: 0,0:12:37.66,0:12:39.15,Gen_Main,,0000,0000,0000,,¡No tan rápido!
+Dialogue: 0,0:12:46.32,0:12:47.53,Gen_Main,,0000,0000,0000,,No…
+Dialogue: 0,0:12:51.86,0:12:53.04,Gen_Main,,0000,0000,0000,,Maldi…
+Dialogue: 0,0:12:56.46,0:12:58.44,Gen_Main,,0000,0000,0000,,¡Lo logré!
+Dialogue: 0,0:12:59.19,0:13:01.17,Gen_Main,,0000,0000,0000,,Las sombras que crea la luna…
+Dialogue: 0,0:13:01.60,0:13:04.37,Gen_Main,,0000,0000,0000,,Desaparecen bajo otra luz.
+Dialogue: 0,0:13:04.55,0:13:06.13,Gen_Main,,0000,0000,0000,,Kokuri tenía razón.
+Dialogue: 0,0:13:08.96,0:13:10.80,Gen_Main,,0000,0000,0000,,¡No lo repetirás!
+Dialogue: 0,0:13:18.35,0:13:21.19,Gen_Main,,0000,0000,0000,,Los clones de sombra de luna\Nno son mi única arma.
+Dialogue: 0,0:13:21.46,0:13:23.46,Gen_Main,,0000,0000,0000,,¿La espada no desaparece?
+Dialogue: 0,0:13:27.49,0:13:28.62,Gen_Main,,0000,0000,0000,,Es fuerte.
+Dialogue: 0,0:13:31.49,0:13:33.87,Gen_Main,,0000,0000,0000,,No subestimen a la banda Mujina.
+Dialogue: 0,0:13:34.04,0:13:37.02,Gen_Main,,0000,0000,0000,,No me costará nada acabar con ustedes.
+Dialogue: 0,0:13:40.92,0:13:43.88,Gen_Main,,0000,0000,0000,,Ya no te quedan fuerzas, ¿eh?
+Dialogue: 0,0:13:45.00,0:13:47.13,Gen_Main,,0000,0000,0000,,¿Quieres comprobarlo?
+Dialogue: 0,0:13:51.10,0:13:52.76,Gen_Main,,0000,0000,0000,,No estoy solo.
+Dialogue: 0,0:13:52.93,0:13:57.31,Gen_Main,,0000,0000,0000,,Comprobemos si puedes\Nvencernos a los tres.
+Dialogue: 0,0:13:57.48,0:13:59.64,Gen_Main,,0000,0000,0000,,-¡Mitsuki!\N-De acuerdo.
+Dialogue: 0,0:14:00.08,0:14:01.20,Gen_Main,,0000,0000,0000,,¡Sarada!
+Dialogue: 0,0:14:01.36,0:14:02.65,Gen_Main,,0000,0000,0000,,Entendido.
+Dialogue: 0,0:14:06.53,0:14:08.28,Gen_Main,,0000,0000,0000,,¡Toma esto!
+Dialogue: 0,0:14:09.99,0:14:11.16,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:14:23.72,0:14:25.06,Gen_Main,,0000,0000,0000,,Lo logramos.
+Dialogue: 0,0:14:25.26,0:14:26.88,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:14:28.43,0:14:29.63,Gen_Main,,0000,0000,0000,,¡Boruto!
+Dialogue: 0,0:14:33.43,0:14:35.11,Gen_Main,,0000,0000,0000,,¿Lo vencieron?
+Dialogue: 0,0:14:35.27,0:14:38.55,Gen_Main,,0000,0000,0000,,Sí. Combinando nuestras fuerzas.
+Dialogue: 0,0:14:40.15,0:14:42.27,Gen_Main,,0000,0000,0000,,¿Fui de ayuda?
+Dialogue: 0,0:14:42.72,0:14:44.57,Gen_Main,,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:14:45.23,0:14:47.22,Gen_Main,,0000,0000,0000,,Tenía la mente en blanco,
+Dialogue: 0,0:14:47.64,0:14:50.82,Gen_Main,,0000,0000,0000,,pero decidí hacer todo lo posible\Nantes de morir.
+Dialogue: 0,0:14:51.21,0:14:52.78,Gen_Main,,0000,0000,0000,,Y salió bien.
+Dialogue: 0,0:14:53.06,0:14:55.77,Gen_Main,,0000,0000,0000,,Exagerado.
+Dialogue: 0,0:15:09.77,0:15:13.55,Gen_Main,,0000,0000,0000,,Aún me queda suerte.
+Dialogue: 0,0:15:20.58,0:15:22.35,Gen_Main,,0000,0000,0000,,¡Kokuri!
+Dialogue: 0,0:15:29.13,0:15:30.71,Gen_Main,,0000,0000,0000,,No, Boruto.
+Dialogue: 0,0:15:30.86,0:15:34.77,Gen_Main,,0000,0000,0000,,La corriente es demasiado fuerte.\NNo lo encontrarás.
+Dialogue: 0,0:15:35.12,0:15:36.33,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:15:42.30,0:15:43.57,Gen_Main,,0000,0000,0000,,¡Kokuri!
+Dialogue: 0,0:15:46.91,0:15:49.64,Gen_Main,,0000,0000,0000,,Les dije que era buen nadador.
+Dialogue: 0,0:15:51.63,0:15:52.77,Gen_Main,,0000,0000,0000,,¿Dónde está?
+Dialogue: 0,0:15:52.93,0:15:55.14,Gen_Main,,0000,0000,0000,,Tranquilos. Se hundió.
+Dialogue: 0,0:15:55.70,0:15:57.95,Gen_Main,,0000,0000,0000,,No le quedaban fuerzas.
+Dialogue: 0,0:15:59.31,0:16:03.51,Gen_Main,,0000,0000,0000,,Tenías razón.\NLa suerte estaba de nuestro lado.
+Dialogue: 0,0:16:06.81,0:16:07.93,Gen_Main,,0000,0000,0000,,Ahí están.
+Dialogue: 0,0:16:10.43,0:16:12.84,Gen_Main,,0000,0000,0000,,Esperen. Podemos explicarlo.
+Dialogue: 0,0:16:13.31,0:16:14.55,Gen_Main,,0000,0000,0000,,¡Están aquí!
+Dialogue: 0,0:16:19.07,0:16:20.86,Gen_Main,,0000,0000,0000,,¿Shinobi de Konoha?
+Dialogue: 0,0:16:21.33,0:16:23.35,Gen_Main,,0000,0000,0000,,-Gracias.\N-De nada, señor.
+Dialogue: 0,0:16:25.17,0:16:26.33,Gen_Main,,0000,0000,0000,,¡Sai!
+Dialogue: 0,0:16:26.78,0:16:28.55,Gen_Main,,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:16:28.86,0:16:32.20,Gen_Main,,0000,0000,0000,,Cuando perdimos el contacto con Mujo,
+Dialogue: 0,0:16:32.38,0:16:36.60,Gen_Main,,0000,0000,0000,,Naruto avisó a la Aldea Oculta\Nde la Hierba para que pudiéramos venir.
+Dialogue: 0,0:16:37.10,0:16:39.37,Gen_Main,,0000,0000,0000,,¿Entonces el señor Mujo…?
+Dialogue: 0,0:16:39.76,0:16:41.22,Gen_Main,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:16:44.33,0:16:45.73,Gen_Main,,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,0:16:47.06,0:16:50.80,Gen_Main,,0000,0000,0000,,¿Estaba inconsciente?
+Dialogue: 0,0:16:51.78,0:16:53.04,Gen_Main,,0000,0000,0000,,Qué alivio.
+Dialogue: 0,0:16:53.19,0:16:55.49,Gen_Main,,0000,0000,0000,,Bien hecho, papá.
+Dialogue: 0,0:17:01.65,0:17:04.50,Gen_Main,,0000,0000,0000,,Preparar una fuga son palabras mayores.
+Dialogue: 0,0:17:04.95,0:17:07.35,Gen_Main,,0000,0000,0000,,Aunque no era necesario.
+Dialogue: 0,0:17:08.45,0:17:10.17,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:17:10.34,0:17:12.92,Gen_Main,,0000,0000,0000,,Alargaron su sentencia ilegalmente.
+Dialogue: 0,0:17:13.13,0:17:15.57,Gen_Main,,0000,0000,0000,,En realidad acabó hace tiempo.
+Dialogue: 0,0:17:17.44,0:17:21.80,Gen_Main,,0000,0000,0000,,Entonces puedo celebrar\Nque soy libre, ¿no?
+Dialogue: 0,0:17:21.97,0:17:25.02,Gen_Main,,0000,0000,0000,,¿Para eso nos esforzamos tanto?
+Dialogue: 0,0:17:25.77,0:17:27.52,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:17:28.44,0:17:34.04,Gen_Main,,0000,0000,0000,,Por cierto, aquí está\Nla información que recopiló Kokuri.
+Dialogue: 0,0:17:34.28,0:17:37.97,Gen_Main,,0000,0000,0000,,Aunque será más rápido\Nque lo cuente él mismo.
+Dialogue: 0,0:17:38.91,0:17:41.15,Gen_Main,,0000,0000,0000,,Sí…
+Dialogue: 0,0:17:43.41,0:17:44.79,Gen_Main,,0000,0000,0000,,Recibido.
+Dialogue: 0,0:17:45.14,0:17:46.31,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:17:57.12,0:17:59.62,Gen_Main,,0000,0000,0000,,No quiero volver nunca más.
+Dialogue: 0,0:17:59.92,0:18:04.28,Gen_Main,,0000,0000,0000,,¿No? Yo me divertí bastante\Nviviendo ahí.
+Dialogue: 0,0:18:04.43,0:18:06.82,Gen_Main,,0000,0000,0000,,¿Lo dices en serio?
+Dialogue: 0,0:18:08.02,0:18:11.28,Gen_Main,,0000,0000,0000,,Relajarme me ha dado hambre.
+Dialogue: 0,0:18:11.88,0:18:16.02,Gen_Main,,0000,0000,0000,,Me llenaré de hamburguesas al regresar.
+Dialogue: 0,0:18:16.19,0:18:17.97,Gen_Main,,0000,0000,0000,,Nunca cambiarás, Boruto.
+Dialogue: 0,0:18:18.91,0:18:20.31,Gen_Main,,0000,0000,0000,,En fin…
+Dialogue: 0,0:18:20.49,0:18:23.26,Gen_Main,,0000,0000,0000,,Sí. Misión cumplida.
+Dialogue: 0,0:18:44.35,0:18:46.89,Cart_A_Tre,,0000,0000,0000,,Comisaría de Konoha
+Dialogue: 0,0:18:50.27,0:18:54.75,Gen_Main,,0000,0000,0000,,Shojoji. ¿Ese es el nombre\Ndel jefe de la banda?
+Dialogue: 0,0:18:56.23,0:19:00.53,Gen_Main,,0000,0000,0000,,Aquí dice que usa una técnica\Nde clonación de cadáveres.
+Dialogue: 0,0:19:00.70,0:19:03.82,Gen_Main,,0000,0000,0000,,Puede transformarse\Nen aquellos que mata.
+Dialogue: 0,0:19:04.30,0:19:05.82,Gen_Main,,0000,0000,0000,,¿Es eso cierto?
+Dialogue: 0,0:19:07.16,0:19:10.54,Gen_Main,,0000,0000,0000,,Sí. Es tal y como dice en la libreta.
+Dialogue: 0,0:19:13.54,0:19:17.53,Cart_A_Tre,,0000,0000,0000,,Kaminari Burguer
+Dialogue: 0,0:19:18.42,0:19:20.55,Gen_Main,,0000,0000,0000,,Estoy lleno.
+Dialogue: 0,0:19:20.72,0:19:23.48,Gen_Main,,0000,0000,0000,,La comida en libertad sabe a gloria.
+Dialogue: 0,0:19:23.64,0:19:26.76,Gen_Main,,0000,0000,0000,,La estancia en Hozuki te cambió, ¿eh?
+Dialogue: 0,0:19:27.22,0:19:29.68,Gen_Main,,0000,0000,0000,,¡Buen trabajo, jefe!
+Dialogue: 0,0:19:31.23,0:19:32.82,Gen_Main,,0000,0000,0000,,Mejoró mi reputación, ¿eh?
+Dialogue: 0,0:19:32.98,0:19:36.55,Gen_Main,,0000,0000,0000,,No digas tonterías.\NSolo fue una semana.
+Dialogue: 0,0:19:36.98,0:19:40.31,Gen_Main,,0000,0000,0000,,Yo no aguantaría ni una semana.
+Dialogue: 0,0:19:40.49,0:19:43.78,Gen_Main,,0000,0000,0000,,Me moriría sin poder comer\Nlo que quiero.
+Dialogue: 0,0:19:44.41,0:19:48.04,Gen_Main,,0000,0000,0000,,Kokuri también debe estar\Ndisfrutando de la libertad.
+Dialogue: 0,0:19:48.32,0:19:53.91,Gen_Main,,0000,0000,0000,,Se fue lejos para esquivar\Na los perseguidores de Mujina.
+Dialogue: 0,0:19:54.33,0:19:57.93,Gen_Main,,0000,0000,0000,,Empezará una nueva vida con otro nombre.
+Dialogue: 0,0:19:58.88,0:19:59.95,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:20:00.13,0:20:03.95,Gen_Main,,0000,0000,0000,,Hubiera querido despedirme,\Npero da igual.
+Dialogue: 0,0:20:31.83,0:20:33.48,Gen_Main,,0000,0000,0000,,Desgraciado…
+Dialogue: 0,0:20:33.99,0:20:35.48,Gen_Main,,0000,0000,0000,,¡Kokuri!
+Dialogue: 0,0:20:38.50,0:20:41.24,Gen_Main,,0000,0000,0000,,¿Cómo tienes las agallas de volver aquí?
+Dialogue: 0,0:20:42.01,0:20:45.37,Gen_Main,,0000,0000,0000,,Soy yo, idiota.
+Dialogue: 0,0:20:46.59,0:20:50.73,Gen_Main,,0000,0000,0000,,No puede ser… ¿Jefe?
+Dialogue: 0,0:20:50.89,0:20:55.48,Gen_Main,,0000,0000,0000,,Exacto. Soy su jefe, el gran Shojoji.
+Dialogue: 0,0:20:56.35,0:21:02.26,Gen_Main,,0000,0000,0000,,Claro, cuando lo atraparon se transformó\Nen Tsukiyo para esconderse.
+Dialogue: 0,0:21:02.78,0:21:04.99,Gen_Main,,0000,0000,0000,,Hubo un pequeño accidente.
+Dialogue: 0,0:21:05.61,0:21:08.60,Gen_Main,,0000,0000,0000,,Tuve que transformarme en él.
+Dialogue: 0,0:21:19.42,0:21:23.02,Gen_Main,,0000,0000,0000,,Pero acabé con el traidor.
+Dialogue: 0,0:21:24.09,0:21:28.31,Gen_Main,,0000,0000,0000,,Konoha tiene información\Nde la banda y de mi técnica.
+Dialogue: 0,0:21:28.47,0:21:30.14,Gen_Main,,0000,0000,0000,,Pero no importa.
+Dialogue: 0,0:21:32.08,0:21:33.53,Gen_Main,,0000,0000,0000,,Al fin y al cabo…
+Dialogue: 0,0:21:47.66,0:21:51.71,Gen_Main,,0000,0000,0000,,la suerte volverá a acompañarme.
+Dialogue: 0,0:23:24.00,0:23:55.91,Cart_Avance,,0000,0000,0000,,{\blur2}Próximo episodio
+Dialogue: 0,0:23:25.96,0:23:30.31,Gen_Main,,0000,0000,0000,,Tenemos que dejar que el ladrón\Nnos lleve hasta sus compañeros.
+Dialogue: 0,0:23:30.47,0:23:32.02,Gen_Main,,0000,0000,0000,,¿Me oyes, Boruto?
+Dialogue: 0,0:23:32.18,0:23:33.22,Gen_Main,,0000,0000,0000,,Perdón.
+Dialogue: 0,0:23:33.39,0:23:36.93,Gen_Main,,0000,0000,0000,,Hay que atraparlos, ¿no? Eso es fácil.
+Dialogue: 0,0:23:37.10,0:23:40.39,Gen_Main,,0000,0000,0000,,¡No! Concéntrate,\Nque estamos en una misión.
+Dialogue: 0,0:23:40.74,0:23:43.75,Gen_Main,,0000,0000,0000,,Próximo episodio\Nde {\i1}Boruto - Naruto Next Generations{\i0}:
+Dialogue: 0,0:23:43.90,0:23:45.44,Gen_Main,,0000,0000,0000,,"Una nueva misión".
+Dialogue: 0,0:23:43.93,0:23:55.93,Cart_Next,,0000,0000,0000,,{\blur4\pos(582,281)}¡Una nueva misión!
+Dialogue: 0,0:23:45.61,0:23:48.15,Gen_Main,,0000,0000,0000,,No importa lo que sea\Nla marca de mi mano.
+Dialogue: 0,0:23:48.32,0:23:51.11,Gen_Main,,0000,0000,0000,,Cumpliré misiones\Ny seré un gran shinobi.
